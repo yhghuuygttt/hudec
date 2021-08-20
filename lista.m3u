@@ -1,0 +1,147 @@
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="Hudec2.m3u"
+#EXTINF:-1 tvg-id="168168" tvg-name="SYFY España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/syfy.png" group-title="Espana", SYFY España
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/0wjumfxtoni97ga.m3u8?s=eTXwkz4GQSlMHzOUOYbmrw&e=1629433380&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168166" tvg-name="AMC España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/amc.png" group-title="Espana", AMC España
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/e12qvvmfkp.m3u8?s=J8hnJ2nj2ZfWuD3q5Im5_Q&e=1629433315&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168165" tvg-name="TNT España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/tnt.png" group-title="Espana", TNT España
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/ty5e9aqf3.m3u8?s=2pTx3OiEQHRcEcIMTpHSeA&e=1629433244&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168164" tvg-name="AXN España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/axn.png" group-title="Espana", AXN España
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/oyovez.m3u8?s=gFoXw3P7fmVX2yDs-wAo6g&e=1629433179&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168163" tvg-name="FOX España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/fox.png" group-title="Espana", FOX España
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/v0u19cwy59.m3u8?s=d7TpL3o4AapgNj_L7Rz8nA&e=1629433094&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168162" tvg-name="movistar SERIES" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistarseries.png" group-title="Espana", movistar SERIES
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/xdiyynrg3pax.m3u8?s=8t1rEe8LZa9TMv8RVyt53g&e=1629433001&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168161" tvg-name="DCINE Ñ" tvg-logo="http://adictosalatele.com/wp-content/uploads/2020/05/dcinen.png" group-title="Espana", DCINE Ñ
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/wvu3us.m3u8?s=-4j91EE2BLyhlHBgCl9CJg&e=1629432945&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168160" tvg-name="movistar COMEDIA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistarcomedia-1.png" group-title="Espana", movistar COMEDIA
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/m9psjyy4b7p.m3u8?s=CKBh6nRy6Zg-kFmHveSDog&e=1629432895&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168159" tvg-name="movistar DRAMA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistardrama-1.png" group-title="Espana", movistar DRAMA
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/ngw10prw.m3u8?s=b5WMbK0uyX11PaviUf67FQ&e=1629432827&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168158" tvg-name="movistar ACCION" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistaraccion-2.png" group-title="Espana", movistar ACCION
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/kybasi1635v6.m3u8?s=4o70YPOU2UNbBppOZU2v0Q&e=1629432771&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168157" tvg-name="movistar ESTRENOS" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistarestrenos.png" group-title="Espana", movistar ESTRENOS
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/yahigmfat.m3u8?s=E_XD6ILFuKTO6wIUa6mGBA&e=1629432717&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168156" tvg-name="#0 PLUS" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/canal0.png" group-title="Espana", #0 PLUS
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/12fxk.m3u8?s=SchW02rF2ze4TD988WHNOQ&e=1629432631&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168155" tvg-name="MEGA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/mega.png" group-title="Espana", MEGA
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/5kgg4.m3u8?s=P16hCj8HxXUC9fbBPN-UNQ&e=1629432516&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168154" tvg-name="FDF" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/fdf.png" group-title="Espana", FDF
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/73iqdeqq05ps.m3u8?s=wQeDc9aJnlSvthmhvDxJwg&e=1629432415&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168153" tvg-name="LA SEXTA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/la6.png" group-title="Espana", LA SEXTA
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/zs8x4.m3u8?s=BCHQ2uV0RFtONNdgknc7vw&e=1629432353&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168152" tvg-name="TELECINCO" tvg-logo="http://adictosalatele.com/wp-content/uploads/2020/03/la5.png" group-title="Espana", TELECINCO
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/qat4aem7kmh4c.m3u8?s=P0W-7B3YJBE5u4dnW17NMw&e=1629432266&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168151" tvg-name="LA CUATRO" tvg-logo="http://adictosalatele.com/wp-content/uploads/2020/03/la4.png" group-title="Espana", LA CUATRO
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/ryb1zzb5.m3u8?s=PbaJnCmW6fn151tKsBq1FA&e=1629429614&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168150" tvg-name="ANTENA 3" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/la3.png" group-title="Espana", ANTENA 3
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/bubawn6gg.m3u8?s=3J9clMFnIKILMZzeGp0GbQ&e=1629429548&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168149" tvg-name="TVE 2" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/la2.png" group-title="Espana", TVE 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168148" tvg-name="TVE 1" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/la1.png" group-title="Espana", TVE 1
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/gqqi20htz5hjfm.m3u8?s=qiZHQFr-B4GTs497AptdSw&e=1629429366&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168147" tvg-name="DISCOVERY MAX" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/dmax.png" group-title="CULTURA", DISCOVERY MAX
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/stkez.m3u8?s=qW7Yyw7x3_N3ALbGEAIdAg&e=1629429245&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168146" tvg-name="COCINA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/cocina.png" group-title="CULTURA", COCINA
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/o040wr8q.m3u8?s=tYWv9dwy2Z-JmjlpBzlY8A&e=1629429179&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168145" tvg-name="SYFY" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/syfy.png" group-title="CINE & SERIES", SYFY
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/u7rbhb.m3u8?s=XS-H1uQPnoV9r5gaSv5FRg&e=1629428613&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168144" tvg-name="AZTECA CINEMA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/aztecacinema.png" group-title="CINE & SERIES", AZTECA CINEMA
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/nxlhxl.m3u8?s=70o_E2hEMeNnT3_aqYGnEw&e=1629428491&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168143" tvg-name="STAR LIFE" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-life.png" group-title="CINE & SERIES", STAR LIFE
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/aa03um3.m3u8?s=qOjB6qCiPoYXTneg31EOIg&e=1629428379&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168142" tvg-name="STAR HITS" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-hits.png" group-title="CINE & SERIES", STAR HITS
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=pS00D0UkenSQYmEwi1Sx4w&e=1629428304&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168141" tvg-name="STAR CLASSICS" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-classics.png" group-title="CINE & SERIES", STAR CLASSICS
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/nmgmf0p714cb.m3u8?s=m2xtacGvZOVepWOPNx9JyA&e=1629428232&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168140" tvg-name="STAR COMEDY" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-comedy.png" group-title="CINE & SERIES", STAR COMEDY
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/pnc0det5nknvqo.m3u8?s=MnnUN7nRny50xttEV4mvwA&e=1629428165&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168139" tvg-name="STAR CINEMA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-cinema.png" group-title="CINE & SERIES", STAR CINEMA
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/5s69x53079q85.m3u8?s=IMX6yrxA4TX82Dlk_XVm0Q&e=1629428112&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168138" tvg-name="STAR FUN" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-fun.png" group-title="CINE & SERIES", STAR FUN
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/goks9npik9.m3u8?s=8LjvXDXvtWGtVJ4LqmdOzQ&e=1629428031&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168137" tvg-name="STAR SERIES" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-series.png" group-title="CINE & SERIES", STAR SERIES
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=lvf5-ks9rlRuKHt8Y2UXrw&e=1629427985&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168136" tvg-name="STAR ACTION" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-action.png" group-title="CINE & SERIES", STAR ACTION
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/4612rwe.m3u8?s=IA2TFSibJMVuBcenf__Muw&e=1629427898&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168135" tvg-name="STAR CHANNEL" tvg-logo="https://adictosalatele.com/wp-content/uploads/2021/05/star-channel.png" group-title="CINE & SERIES", STAR CHANNEL
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/0e733j.m3u8?s=UR20wHlGBrdH5KwHglEF8A&e=1629427846&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168134" tvg-name="HBO POP" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/hbopop.png" group-title="CINE & SERIES", HBO POP
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/rvqh1fziz.m3u8?s=w4D2xlK0P1nLbuE-WNA5jg&e=1629427773&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168133" tvg-name="HBO MUNDI" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/hbomundi.png" group-title="CINE & SERIES", HBO MUNDI
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/8nviuzdhm5jnu.m3u8?s=aaSeMRiMmvEkVQQuMZcGiQ&e=1629427720&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168132" tvg-name="HBO XTREME" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/hboxtreme.png" group-title="CINE & SERIES", HBO XTREME
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/way71f4yp5a3.m3u8?s=qwLfOjUfoMFvh2R1IC7G3A&e=1629427666&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168131" tvg-name="HBO SIGNATURE" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/hbosignature.png" group-title="CINE & SERIES", HBO SIGNATURE
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/g05mnm.m3u8?s=X-uiC6Xpec4ihfNe-dLoVg&e=1629427618&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168130" tvg-name="HBO FAMILY" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/hbofamily.png" group-title="CINE & SERIES", HBO FAMILY
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/mfobze65eqg.m3u8?s=1yFrYrBHp8tS_4UJYgmhng&e=1629427566&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168129" tvg-name="HBO PLUS" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/hboplus.png" group-title="CINE & SERIES", HBO PLUS
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/3dgzjbpy.m3u8?s=LyM7d3n6fg6laeewsy-N9g&e=1629427512&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168128" tvg-name="HBO 2" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/hbo2.png" group-title="CINE & SERIES", HBO 2
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/x5r58d0omlmqph.m3u8?s=FulkVGwhrpQPkI58qWUrZw&e=1629427437&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168127" tvg-name="HBO LATINO" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/hbo.png" group-title="CINE & SERIES", HBO LATINO
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/lbqtn3.m3u8?s=gMwVdVKCzbaGlkTfHIVriw&e=1629427377&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168126" tvg-name="CINEMAX" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/cinemax.png" group-title="CINE & SERIES", CINEMAX
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/ztv7sh.m3u8?s=T0dyfNZnRkL6zftXKbeWLQ&e=1629427325&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168125" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/universalchannel.png" group-title="CINE & SERIES", UNIVERSAL CHANNEL
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/xu9jpirg.m3u8?s=0Dbf10Vt3TzmF2-LKVGRfw&e=1629427260&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168124" tvg-name="SONY latino" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/sony.png" group-title="CINE & SERIES", SONY latino
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/oc2v2i6j.m3u8?s=Hzw8kAJlBz7GX84K9GIIgA&e=1629427181&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168123" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/studiouniversal.png" group-title="CINE & SERIES", STUDIO UNIVERSAL
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=JHY77ZHJm6UOyVT8NtHlHg&e=1629427119&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168122" tvg-name="PARAMOUNT CHANNEL latino" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/paramountlatino.png" group-title="CINE & SERIES", PARAMOUNT CHANNEL latino
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/vwchy5d.m3u8?s=9g0V2Clk_WeVI2bGDcmU1w&e=1629427050&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168121" tvg-name="SPACE latino" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/space.png" group-title="CINE & SERIES", SPACE latino
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/me4gtt8v3fmket.m3u8?s=QTzhjiWQup1qtQt0_T-6WQ&e=1629426974&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168120" tvg-name="FX" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/fx.png" group-title="CINE & SERIES", FX
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/3cuvpp5n.m3u8?s=K7XiTthNGjMNFR-m-eM6Vg&e=1629426885&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168119" tvg-name="FXM latino" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/fxm.png" group-title="CINE & SERIES", FXM latino
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/jpizlg1osqocv.m3u8?s=fhw1mSxks6vkRACQZzpHUw&e=1629426808&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168118" tvg-name="TCM latino" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/tcmlatino.png" group-title="CINE & SERIES", TCM latino
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/eueu7.m3u8?s=o03LKgY7yY0jUu36cG4rIQ&e=1629426722&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168117" tvg-name="AMC Latino" tvg-logo="https://adictosalatele.com/logos/amclatino.png" group-title="CINE & SERIES", AMC Latino
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=BIotrGWi9WNMcdwEPvDqVQ&e=1629426590&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168116" tvg-name="AXN Latino" tvg-logo="https://adictosalatele.com/logos/axnlatino.png" group-title="CINE & SERIES", AXN Latino
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/l051rl.m3u8?s=MSvlbImSW3F9cqyFSdkvUA&e=1629426489&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168115" tvg-name="TNT SERIES" tvg-logo="https://adictosalatele.com/logos/tntseries.png" group-title="CINE & SERIES", TNT SERIES
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/uw2t3eem.m3u8?s=BFQC9we_q5Ivp74rxcoo5w&e=1629426433&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168114" tvg-name="TNT LATINO" tvg-logo="https://adictosalatele.com/logos/tntlatino.png" group-title="CINE & SERIES", TNT LATINO
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/glaldsq.m3u8?s=KjNeryEZVEJvV2DeMjZ6qQ&e=1629426386&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168113" tvg-name="Cinecanal" tvg-logo="https://adictosalatele.com/logos/cinecanal.png" group-title="CINE & SERIES", Cinecanal
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/ymv0a1aobkxuf.m3u8?s=nl2dB49AgkhjVpuEI-hCGQ&e=1629426334&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168112" tvg-name="GOLDEN EDGE" tvg-logo="https://adictosalatele.com/logos/goldenedge.png" group-title="CINE & SERIES", GOLDEN EDGE
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/aef8t7z.m3u8?s=qLVo0r9fhUPHtbZ9uQ3-sQ&e=1629426256&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168111" tvg-name="GOLDEN +" tvg-logo="https://adictosalatele.com/logos/goldenplus.png" group-title="CINE & SERIES", GOLDEN +
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/daw8b.m3u8?s=WoWIvQy8HMvRDO5Fs4_xkg&e=1629426172&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168110" tvg-name="GOLDEN" tvg-logo="https://adictosalatele.com/logos/golden.png" group-title="CINE & SERIES", GOLDEN
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/lnxn10nmtnl5.m3u8?s=WSWAhYAtqrm1GOdNcRZ0pA&e=1629426059&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168109" tvg-name="DE PELICULA" tvg-logo="https://adictosalatele.com/logos/depelicula.png" group-title="CINE & SERIES", DE PELICULA
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/1zrltg3e.m3u8?s=Er6HToZmRf2-LgTaaZcjyQ&e=1629425987&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168108" tvg-name="TBS" tvg-logo="https://adictosalatele.com/logos/tbs.png" group-title="CINE & SERIES", TBS
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/zt5tkrst5tw71c.m3u8?s=Z95gjPvdDI3mxXhUI0FqpQ&e=1629425864&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168099" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="CULTURA", TVE
+http://tecnotv.club/1721ago/geomex.php?c=198&p=3&k=tecnotv&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168098" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png" group-title="CULTURA", DISCOVERY WORLD
+http://tecnotv.club/1721ago/geomex.php?c=101&p=3&k=tecnotv&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168097" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/f/f5/20190425082235%21Discovery_Civilization_Channel_logo.svg/120px-Discovery_Civilization_Channel_logo.svg.png" group-title="CULTURA", DISCOVERY CIVILIZATION
+http://tecnotv.club/1721ago/geomex.php?c=99&p=3&k=tecnotv&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168096" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-science_m.png" group-title="CULTURA", DISCOVERY SCIENCE
+http://tecnotv.club/1721ago/geomex.php?c=98&p=3&k=tecnotv&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168095" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/120px-TLC_Logo_Germany.svg.png" group-title="CULTURA", TLC
+http://tecnotv.club/1721ago/geomex.php?c=97&p=3&k=tecnotv&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168094" tvg-name="H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="CULTURA", H&H
+http://tecnotv.club/1721ago/geomex.php?c=96&p=3&k=tecnotv&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168093" tvg-name="A&E" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/ae.png" group-title="CINE & SERIES", A&E
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/1md5d55ngm.m3u8?s=SAzZzbR7MyBAbZyjk_OJvg&e=1629429085&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168092" tvg-name="NAT GEO WILD" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/natgeowilllatino.png" group-title="CULTURA", NAT GEO WILD
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/1eelyzjwjyy8086.m3u8?s=FMafvQT38nId0Qdi-ylsXw&e=1629428999&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168091" tvg-name="NAT GEO" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/nationalgeographiclatino.png" group-title="CULTURA", NAT GEO
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=urLpJl4-trcOx7FTyilWIw&e=1629428943&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168090" tvg-name="HISTORY" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/history.png" group-title="CULTURA", HISTORY
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=KrVwggd1NQBf-o6ZJxDGmg&e=1629428892&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168089" tvg-name="ANIMAL PLANET" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="CULTURA", ANIMAL PLANET
+http://tecnotv.club/1721ago/geomex.php?c=88&p=3&k=tecnotv&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168088" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/discoverychannel.png" group-title="CULTURA", DISCOVERY CHANNEL
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/vyymlg.m3u8?s=QqH3j-1fgz81Kmgrgm3jLA&e=1629428789&PlaylistM3UCL
+#EXTINF:-1 tvg-id="168085" tvg-name="DISCOVERY ID" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/invdiscovery.png" group-title="CULTURA", DISCOVERY ID
+https://i6utj01uju0u40js.azcdn728.net:8443/hls/1mptcl1.m3u8?s=yjPDHVY704Tjd6N9ztcRwg&e=1629428704&PlaylistM3UCL
