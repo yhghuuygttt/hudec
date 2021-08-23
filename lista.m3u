@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="hudec.m3u"
+#EXTINF:-1 tvg-id="1" tvg-name="PURO ROCK" tvg-logo="https://lh3.googleusercontent.com/proxy/USVVVK0Ac2WuNVdK51VGiEWC1bjEn6klPkDKNVi0tZp_F_VgRppVNjAaOmbykP3b2VTh2sbuFeLwplyVhDGJoJXjVzKauJ3L31Y" group-title="MUSICA", PURO ROCK TV
+http://159.69.56.148:25461/live/PuroRock24-7.com/r8vbja/25.m3u8
 #EXTINF:-1 tvg-id="166867" tvg-name="ORBIT TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="Sin Categoria", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?WebM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="166880" tvg-name="RAKUTEN TV  MOVIE" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Sin Categoria", RAKUTEN TV  MOVIE
