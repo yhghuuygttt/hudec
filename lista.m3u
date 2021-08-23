@@ -1,547 +1,69 @@
-#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="Hudec2.m3u"
-#EXTINF:-1 tvg-id="168168" tvg-name="SYFY España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/syfy.png" group-title="Espana", SYFY España
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/0wjumfxtoni97ga.m3u8?s=eTXwkz4GQSlMHzOUOYbmrw&e=1629433380&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168166" tvg-name="AMC España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/amc.png" group-title="Espana", AMC España
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/e12qvvmfkp.m3u8?s=J8hnJ2nj2ZfWuD3q5Im5_Q&e=1629433315&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168165" tvg-name="TNT España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/tnt.png" group-title="Espana", TNT España
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/ty5e9aqf3.m3u8?s=2pTx3OiEQHRcEcIMTpHSeA&e=1629433244&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168164" tvg-name="AXN España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/axn.png" group-title="Espana", AXN España
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/oyovez.m3u8?s=gFoXw3P7fmVX2yDs-wAo6g&e=1629433179&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168163" tvg-name="FOX España" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/fox.png" group-title="Espana", FOX España
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/v0u19cwy59.m3u8?s=d7TpL3o4AapgNj_L7Rz8nA&e=1629433094&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168162" tvg-name="movistar SERIES" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistarseries.png" group-title="Espana", movistar SERIES
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/xdiyynrg3pax.m3u8?s=8t1rEe8LZa9TMv8RVyt53g&e=1629433001&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168161" tvg-name="DCINE Ñ" tvg-logo="http://adictosalatele.com/wp-content/uploads/2020/05/dcinen.png" group-title="Espana", DCINE Ñ
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/wvu3us.m3u8?s=-4j91EE2BLyhlHBgCl9CJg&e=1629432945&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168160" tvg-name="movistar COMEDIA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistarcomedia-1.png" group-title="Espana", movistar COMEDIA
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/m9psjyy4b7p.m3u8?s=CKBh6nRy6Zg-kFmHveSDog&e=1629432895&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168159" tvg-name="movistar DRAMA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistardrama-1.png" group-title="Espana", movistar DRAMA
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/ngw10prw.m3u8?s=b5WMbK0uyX11PaviUf67FQ&e=1629432827&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168158" tvg-name="movistar ACCION" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistaraccion-2.png" group-title="Espana", movistar ACCION
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/kybasi1635v6.m3u8?s=4o70YPOU2UNbBppOZU2v0Q&e=1629432771&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168157" tvg-name="movistar ESTRENOS" tvg-logo="https://adictosalatele.com/wp-content/uploads/2019/09/movistarestrenos.png" group-title="Espana", movistar ESTRENOS
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/yahigmfat.m3u8?s=E_XD6ILFuKTO6wIUa6mGBA&e=1629432717&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168156" tvg-name="#0 PLUS" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/canal0.png" group-title="Espana", #0 PLUS
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/12fxk.m3u8?s=SchW02rF2ze4TD988WHNOQ&e=1629432631&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168155" tvg-name="MEGA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/mega.png" group-title="Espana", MEGA
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/5kgg4.m3u8?s=P16hCj8HxXUC9fbBPN-UNQ&e=1629432516&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168154" tvg-name="FDF" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/fdf.png" group-title="Espana", FDF
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/73iqdeqq05ps.m3u8?s=wQeDc9aJnlSvthmhvDxJwg&e=1629432415&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168153" tvg-name="LA SEXTA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/la6.png" group-title="Espana", LA SEXTA
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/zs8x4.m3u8?s=BCHQ2uV0RFtONNdgknc7vw&e=1629432353&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168152" tvg-name="TELECINCO" tvg-logo="http://adictosalatele.com/wp-content/uploads/2020/03/la5.png" group-title="Espana", TELECINCO
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/qat4aem7kmh4c.m3u8?s=P0W-7B3YJBE5u4dnW17NMw&e=1629432266&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168151" tvg-name="LA CUATRO" tvg-logo="http://adictosalatele.com/wp-content/uploads/2020/03/la4.png" group-title="Espana", LA CUATRO
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/ryb1zzb5.m3u8?s=PbaJnCmW6fn151tKsBq1FA&e=1629429614&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168150" tvg-name="ANTENA 3" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/la3.png" group-title="Espana", ANTENA 3
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/bubawn6gg.m3u8?s=3J9clMFnIKILMZzeGp0GbQ&e=1629429548&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168149" tvg-name="TVE 2" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/la2.png" group-title="Espana", TVE 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168148" tvg-name="TVE 1" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/la1.png" group-title="Espana", TVE 1
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/gqqi20htz5hjfm.m3u8?s=qiZHQFr-B4GTs497AptdSw&e=1629429366&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168147" tvg-name="DISCOVERY MAX" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/dmax.png" group-title="CULTURA", DISCOVERY MAX
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/stkez.m3u8?s=qW7Yyw7x3_N3ALbGEAIdAg&e=1629429245&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168146" tvg-name="COCINA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/cocina.png" group-title="CULTURA", COCINA
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/o040wr8q.m3u8?s=tYWv9dwy2Z-JmjlpBzlY8A&e=1629429179&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168145" tvg-name="SYFY" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/syfy.png" group-title="CINE & SERIES", SYFY
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/u7rbhb.m3u8?s=XS-H1uQPnoV9r5gaSv5FRg&e=1629428613&PlaylistM3UCL
-#EXTINF:-1 tvg-id="168144" tvg-name="AZTECA CINEMA" tvg-logo="https://adictosalatele.com/wp-content/uploads/2020/03/aztecacinema.png" group-title="CINE & SERIES", AZTECA CINEMA
-https://i6utj01uju0u40js.azcdn728.net:8443/hls/nxlhxl.m3u8?s=70o_E2hEMeNnT3_aqYGnEw&e=1629428491&PlaylistM3UCL
-
-
-
-#EXTINF:-1 group-title="INFANTIL",TOONCAST
-http://tecnotv.club/20ago21/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS
-http://tecnotv.club/20ago21/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",NICK
-http://tecnotv.club/20ago21/geomex.php?c=110&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",DISNEY XD
-http://tecnotv.club/20ago21/geomex.php?c=111&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",CARTOON NETWORK
-http://tecnotv.club/20ago21/geomex.php?c=112&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL
-http://tecnotv.club/20ago21/geomex.php?c=113&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",sunERANG
-http://tecnotv.club/20ago21/geomex.php?c=115&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="INFANTIL",BABY TV 
-http://tecnotv.club/20ago21/geomex.php?c=116&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",NICK JR
-http://tecnotv.club/20ago21/geomex.php?c=117&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",DISNEY JR
-http://tecnotv.club/20ago21/geomex.php?c=118&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="INFANTIL",NICKTOONS SD 
-http://tecnotv.club/20ago21/geomex.php?c=1708&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",BABY FIRST
-http://tecnotv.club/20ago21/geomex.php?c=1984&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL",NICK 2  
-http://tecnotv.club/20ago21/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="INFANTIL",NAT GEO KIDS  
-http://tecnotv.club/20ago21/geomex.php?c=2373&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="INFANTIL",BIT ME  
-http://tecnotv.club/20ago21/geomex.php?c=2591&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1 group-title="CULTURA",DISCOVERY ID
-http://tecnotv.club/20ago21/geomex.php?c=68&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",GARAGE TV 
-http://tecnotv.club/20ago21/geomex.php?c=75&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL
-http://tecnotv.club/20ago21/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET
-http://tecnotv.club/20ago21/geomex.php?c=88&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",HISTORY
-http://tecnotv.club/20ago21/geomex.php?c=89&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",NAT GEO  
-http://tecnotv.club/20ago21/geomex.php?c=91&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",NAT GEO WILD
-http://tecnotv.club/20ago21/geomex.php?c=92&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER
-http://tecnotv.club/20ago21/geomex.php?c=95&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CULTURA",H&H
-http://tecnotv.club/20ago21/geomex.php?c=96&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CULTURA",TLC
-http://tecnotv.club/20ago21/geomex.php?c=97&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE  
-http://tecnotv.club/20ago21/geomex.php?c=98&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",DISCOVERY CIVILIZATION
-http://tecnotv.club/20ago21/geomex.php?c=99&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD
-http://tecnotv.club/20ago21/geomex.php?c=101&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="CULTURA",TVE
-http://tecnotv.club/20ago21/geomex.php?c=198&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CULTURA",SHOPPING
-http://tecnotv.club/20ago21/geomex.php?c=1943&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CULTURA",FOOD NETWORK 
-http://tecnotv.club/20ago21/geomex.php?c=2145&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CULTURA",STAR TVE 
-http://tecnotv.club/20ago21/geomex.php?c=2375&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO
-http://tecnotv.club/20ago21/geomex.php?c=2379&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA",CURIOSITY STREAM
-http://tecnotv.club/20ago21/geomex.php?c=2594&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
-http://tecnotv.club/20ago21/geomex.php?c=85&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX  
-http://tecnotv.club/20ago21/geomex.php?c=46&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY  
-http://tecnotv.club/20ago21/geomex.php?c=48&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER  
-http://tecnotv.club/20ago21/geomex.php?c=52&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
-http://tecnotv.club/20ago21/geomex.php?c=55&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL
-http://tecnotv.club/20ago21/geomex.php?c=57&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY
-http://tecnotv.club/20ago21/geomex.php?c=59&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FX
-http://tecnotv.club/20ago21/geomex.php?c=60&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
-http://tecnotv.club/20ago21/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
-http://tecnotv.club/20ago21/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE SD
-http://tecnotv.club/20ago21/geomex.php?c=66&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SUNDANCE TV
-http://tecnotv.club/20ago21/geomex.php?c=69&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",sun SERIES
-http://tecnotv.club/20ago21/geomex.php?c=71&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",GLITZ
-http://tecnotv.club/20ago21/geomex.php?c=76&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",GOURMET 
-http://tecnotv.club/20ago21/geomex.php?c=74&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX LIFE
-http://tecnotv.club/20ago21/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",DISTRITO COMEDIA SD
-http://tecnotv.club/20ago21/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV
-http://tecnotv.club/20ago21/geomex.php?c=79&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TL NOVELAS SD
-http://tecnotv.club/20ago21/geomex.php?c=83&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFETIME 
-http://tecnotv.club/20ago21/geomex.php?c=94&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",ANTENA 3
-http://tecnotv.club/20ago21/geomex.php?c=199&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FOX HD 
-http://tecnotv.club/20ago21/geomex.php?c=201&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",WARNER HD 
-http://tecnotv.club/20ago21/geomex.php?c=205&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL HD
-http://tecnotv.club/20ago21/geomex.php?c=207&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",FX HD
-http://tecnotv.club/20ago21/geomex.php?c=209&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",TRUTV HD
-http://tecnotv.club/20ago21/geomex.php?c=215&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",HOLA TV HD
-http://tecnotv.club/20ago21/geomex.php?c=219&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://tecnotv.club/20ago21/geomex.php?c=340&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL SD
-http://tecnotv.club/20ago21/geomex.php?c=341&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",UNICABLE
-http://tecnotv.club/20ago21/geomex.php?c=1499&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",MAS CHIC
-http://tecnotv.club/20ago21/geomex.php?c=1842&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="ENTRETENIMIENTO",A3SERIES
-http://tecnotv.club/20ago21/geomex.php?c=2113&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1 group-title="CINE Y SERIES",A3CINE 
-http://tecnotv.club/20ago21/geomex.php?c=3112&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CINE Y SERIES",TBS SD  
-http://tecnotv.club/20ago21/geomex.php?c=81&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA + 
-http://tecnotv.club/20ago21/geomex.php?c=121&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN +
-http://tecnotv.club/20ago21/geomex.php?c=122&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
-http://tecnotv.club/20ago21/geomex.php?c=123&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
-http://tecnotv.club/20ago21/geomex.php?c=124&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CINE Y SERIES",sun 
-http://tecnotv.club/20ago21/geomex.php?c=126&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",TCM
-http://tecnotv.club/20ago21/geomex.php?c=128&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",SPACE
-http://tecnotv.club/20ago21/geomex.php?c=129&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",AMC 
-http://tecnotv.club/20ago21/geomex.php?c=131&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",STUDIO UNIVERSAL
-http://tecnotv.club/20ago21/geomex.php?c=132&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",I SAT  
-http://tecnotv.club/20ago21/geomex.php?c=135&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",EUROPA CHANNEL 
-http://tecnotv.club/20ago21/geomex.php?c=136&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",FILMS & ARTS
-http://tecnotv.club/20ago21/geomex.php?c=137&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",FXM
-http://tecnotv.club/20ago21/geomex.php?c=138&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",FXM SD 
-http://tecnotv.club/20ago21/geomex.php?c=332&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",FOX SERIES
-http://tecnotv.club/20ago21/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",MORBIDO
-http://tecnotv.club/20ago21/geomex.php?c=140&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",FOX MOVIES 
-http://tecnotv.club/20ago21/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL
-http://tecnotv.club/20ago21/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX 
-http://tecnotv.club/20ago21/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AMC  
-http://tecnotv.club/20ago21/geomex.php?c=328&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA SD
-http://tecnotv.club/20ago21/geomex.php?c=335&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",FOX ACTION
-http://tecnotv.club/20ago21/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUNT CHANNEL 
-http://tecnotv.club/20ago21/geomex.php?c=1726&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",FOX CINEMA SD
-http://tecnotv.club/20ago21/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="CINE Y SERIES",FOX CLASSICS SD
-http://tecnotv.club/20ago21/geomex.php?c=1732&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
-http://tecnotv.club/20ago21/geomex.php?c=1787&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1 group-title="MUSICA",MTV LIVE
-http://tecnotv.club/20ago21/geomex.php?c=211&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MUSICA",MTV
-http://tecnotv.club/20ago21/geomex.php?c=212&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MUSICA",MTV HITS SD
-http://tecnotv.club/20ago21/geomex.php?c=213&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MUSICA",VH1 CLASSIC SD
-http://tecnotv.club/20ago21/geomex.php?c=214&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MUSICA",VH1 SD 
-http://tecnotv.club/20ago21/geomex.php?c=217&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MUSICA",TELEHIT URBANO SD
-http://tecnotv.club/20ago21/geomex.php?c=218&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MUSICA",TELEHIT +
-http://tecnotv.club/20ago21/geomex.php?c=220&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MUSICA",BANDAMAX SD
-http://tecnotv.club/20ago21/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MUSICA",AZ CLIC
-http://tecnotv.club/20ago21/geomex.php?c=223&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MUSICA",VH1 HD
-http://tecnotv.club/20ago21/geomex.php?c=334&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1 group-title="NOTICIAS",FOROTV HD
-http://tecnotv.club/20ago21/geomex.php?c=4&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",FOROTV SD
-http://tecnotv.club/20ago21/geomex.php?c=19&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="NOTICIAS",ADN40
-http://tecnotv.club/20ago21/geomex.php?c=40&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="NOTICIAS",ADN 40 HD
-http://tecnotv.club/20ago21/geomex.php?c=184&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",CNN
-http://tecnotv.club/20ago21/geomex.php?c=185&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",CNN SD
-http://tecnotv.club/20ago21/geomex.php?c=186&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",CNN Ñ SD
-http://tecnotv.club/20ago21/geomex.php?c=187&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="NOTICIAS",WOBI 
-http://tecnotv.club/20ago21/geomex.php?c=102&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="NOTICIAS",FOXN EWS
-http://tecnotv.club/20ago21/geomex.php?c=188&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",BLOOMBERG 
-http://tecnotv.club/20ago21/geomex.php?c=190&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",BBC SD
-http://tecnotv.club/20ago21/geomex.php?c=191&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="NOTICIAS",AL JAAZERA 
-http://tecnotv.club/20ago21/geomex.php?c=192&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",NTN 24
-http://tecnotv.club/20ago21/geomex.php?c=194&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",JUSTICIA TV 
-http://tecnotv.club/20ago21/geomex.php?c=196&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="NOTICIAS",HLN
-http://tecnotv.club/20ago21/geomex.php?c=197&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="NOTICIAS",DW 
-http://tecnotv.club/20ago21/geomex.php?c=203&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",RT
-http://tecnotv.club/20ago21/geomex.php?c=999&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",MILENIO HD
-http://tecnotv.club/20ago21/geomex.php?c=1250&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",MILENIO SD 
-http://tecnotv.club/20ago21/geomex.php?c=1252&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",EXCELSIOR TV
-http://tecnotv.club/20ago21/geomex.php?c=1449&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="NOTICIAS",EL FINANCIERO HD 
-http://tecnotv.club/20ago21/geomex.php?c=1649&p=3&k=tecnotv&f=.m3u8  
- #EXTINF:-1 group-title="NOTICIAS",RT ESPAÑOL
-http://tecnotv.club/20ago21/geomex.php?c=2091&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="NOTICIAS",FRANCE 24
-http://tecnotv.club/20ago21/geomex.php?c=2402&p=3&k=tecnotv&f=.m3u8
-
-
-#EXTINF:-1 group-title="DEPORTES",ESPN + 
-http://tecnotv.club/20ago21/geomex.php?c=167&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="DEPORTES",ESPN 
-http://tecnotv.club/20ago21/geomex.php?c=168&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://tecnotv.club/20ago21/geomex.php?c=169&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
-http://tecnotv.club/20ago21/geomex.php?c=170&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2
-http://tecnotv.club/20ago21/geomex.php?c=172&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",TUDN
-http://tecnotv.club/20ago21/geomex.php?c=174&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 
-http://tecnotv.club/20ago21/geomex.php?c=178&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",GOLF
-http://tecnotv.club/20ago21/geomex.php?c=179&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",AYM SPORTS
-http://tecnotv.club/20ago21/geomex.php?c=180&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 
-http://tecnotv.club/20ago21/geomex.php?c=345&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",TUDN HD (2)
-http://tecnotv.club/20ago21/geomex.php?c=1049&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="DEPORTES",ADRENALINA SPORTS HD
-http://tecnotv.club/20ago21/geomex.php?c=1799&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",LAS
-http://tecnotv.club/20ago21/geomex.php?c=2089&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",HAVOC
-http://tecnotv.club/20ago21/geomex.php?c=2148&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES",TVC DEPORTES
-http://tecnotv.club/20ago21/geomex.php?c=2157&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS HD  
-http://tecnotv.club/20ago21/geomex.php?c=2564&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="DEPORTES",FUEL TV HD 
-http://tecnotv.club/20ago21/geomex.php?c=2587&p=3&k=tecnotv&f=.m3u8
-
-
-*** NACIONALES ***
-#EXTINF:-1 group-title="MEXICO",ONCE NINOS (CLASES)
-http://tecnotv.club/20ago21/geomex.php?c=3315&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",AZTECA 7.3 (CLASES)
-http://tecnotv.club/20ago21/geomex.php?c=3316&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",AZTECA UNO HD
-http://tecnotv.club/20ago21/geomex.php?c=7&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ CLIC HD
-http://tecnotv.club/20ago21/geomex.php?c=11&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS
-http://tecnotv.club/20ago21/geomex.php?c=17&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",CANAL 5
-http://tecnotv.club/20ago21/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",AZTECA 7
-http://tecnotv.club/20ago21/geomex.php?c=21&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",NU9VE
-http://tecnotv.club/20ago21/geomex.php?c=24&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",ONCE
-http://tecnotv.club/20ago21/geomex.php?c=25&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",AZTECA UNO
-http://tecnotv.club/20ago21/geomex.php?c=27&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",TELEFORMULA SD
-http://tecnotv.club/20ago21/geomex.php?c=32&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",MEXIQUENSE TV
-http://tecnotv.club/20ago21/geomex.php?c=44&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",AZ CORAZON 
-http://tecnotv.club/20ago21/geomex.php?c=70&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",AZ MUNDO
-http://tecnotv.club/20ago21/geomex.php?c=84&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD 
-http://tecnotv.club/20ago21/geomex.php?c=317&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",AZTECA 7 HD (2)
-http://tecnotv.club/20ago21/geomex.php?c=322&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",IMAGEN TV  
-http://tecnotv.club/20ago21/geomex.php?c=2298&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS MTY
-http://tecnotv.club/20ago21/geomex.php?c=2305&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",APREDNE TV
-http://tecnotv.club/20ago21/geomex.php?c=401&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://tecnotv.club/20ago21/geomex.php?c=1253&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",NU9VE HD
-http://tecnotv.club/20ago21/geomex.php?c=1783&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",LAS ESTRELLAS HD
-http://tecnotv.club/20ago21/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",CANAL 5 HD (2)
-http://tecnotv.club/20ago21/geomex.php?c=1785&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 group-title="MEXICO",ONCE HD 
-http://tecnotv.club/20ago21/geomex.php?c=1942&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",MVS TV
-http://tecnotv.club/20ago21/geomex.php?c=2149&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",TVC
-http://tecnotv.club/20ago21/geomex.php?c=2156&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 group-title="MEXICO",CANAL 4 
-http://tecnotv.club/20ago21/geomex.php?c=2274&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",CANAL 8
-http://tecnotv.club/20ago21/geomex.php?c=2307&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",TELEVISA PUEBLA
-http://tecnotv.club/20ago21/geomex.php?c=2312&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",A+ 
-http://tecnotv.club/20ago21/geomex.php?c=2316&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",TVMAS
-http://tecnotv.club/20ago21/geomex.php?c=2324&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",CANAL DEL CONGRESO
-http://tecnotv.club/20ago21/geomex.php?c=2331&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS CDMX
-http://tecnotv.club/20ago21/geomex.php?c=2352&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",IMAGEN TV HD  
-http://tecnotv.club/20ago21/geomex.php?c=2606&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",ACADEMIA
-http://tecnotv.club/20ago21/geomex.php?c=2703&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="MEXICO",MULTIMEDIOS HD
-http://tecnotv.club/20ago21/geomex.php?c=2882&p=3&k=tecnotv&f=.m3u8 
-
-
-#EXTINF:-1 group-title="Lista 03",24/7 POWER RANGERS
-http://tecnotv.club/20ago21/24.php?c=303
-#EXTINF:-1 group-title="Lista 03",24/7 ROBOTECH
-http://tecnotv.club/20ago21/24.php?c=304
-#EXTINF:-1 group-title="Lista 03",24/7 SAILOR MOON
-http://tecnotv.club/20ago21/24.php?c=305
-#EXTINF:-1 group-title="Lista 03",24/7  LOS SIMPSON
-http://tecnotv.club/20ago21/24.php?c=307
-#EXTINF:-1 group-title="Lista 03",24/7 SMALLVILLE
-http://tecnotv.club/20ago21/24.php?c=308
-#EXTINF:-1 group-title="Lista 03",24/7  SOUTH PARK
-http://tecnotv.club/20ago21/24.php?c=309
-#EXTINF:-1 group-title="Lista 03",24/7 SPIDER-MAN
-http://tecnotv.club/20ago21/24.php?c=310
-#EXTINF:-1 group-title="Lista 03",24/7 STRANGER THINGS
-http://tecnotv.club/20ago21/24.php?c=311
-#EXTINF:-1 group-title="Lista 03",24/7 SUPER CAMPEONES
-http://tecnotv.club/20ago21/24.php?c=312
-#EXTINF:-1 group-title="Lista 03",24/7 Peliculas de terror
-http://tecnotv.club/20ago21/24.php?c=313
-#EXTINF:-1 group-title="Lista 03",24/7 THUNDERCAST
-http://tecnotv.club/20ago21/24.php?c=314
-#EXTINF:-1 group-title="Lista 03",24/7  THE WALKING DEAD
-http://tecnotv.club/20ago21/24.php?c=315
-#EXTINF:-1 group-title="Lista 03",24/7 BARNY Y SUS AMIGOS
-http://tecnotv.club/20ago21/24.php?c=316
-#EXTINF:-1 group-title="Lista 03",24/7 BOB ESPONJA
-http://tecnotv.club/20ago21/24.php?c=317
-#EXTINF:-1 group-title="Lista 03",24/7  CAILLOU
-http://tecnotv.club/20ago21/24.php?c=318
-#EXTINF:-1 group-title="Lista 03",24/7 EL COYOTE Y CORRE CAMINOS
-http://tecnotv.club/20ago21/24.php?c=319
-#EXTINF:-1 group-title="Lista 03",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://tecnotv.club/20ago21/24.php?c=320
-#EXTINF:-1 group-title="Lista 03",24/7 HAPPY TREE FRIENDS
-http://tecnotv.club/20ago21/24.php?c=321
-#EXTINF:-1 group-title="Lista 03",24/7 LA RISA EN VACIONES
-http://tecnotv.club/20ago21/24.php?c=322
-#EXTINF:-1 group-title="Lista 03",24/7 LAZY TOWN
-http://tecnotv.club/20ago21/24.php?c=323
-#EXTINF:-1 group-title="Lista 03",24/7 LA PANTERA ROSA
-http://tecnotv.club/20ago21/24.php?c=325
-#EXTINF:-1 group-title="Lista 03",24/7 PEPPA PIG
-http://tecnotv.club/20ago21/24.php?c=326
-#EXTINF:-1 group-title="Lista 03",24/7 LA HORA PICO
-http://tecnotv.club/20ago21/24.php?c=327
-#EXTINF:-1 group-title="Lista 03",24/7 HÉROES EN PIJAMAS
-http://tecnotv.club/20ago21/24.php?c=328
-#EXTINF:-1 group-title="Lista 03",24/7 Shark Tank México TEP 2
-http://tecnotv.club/20ago21/24.php?c=329
-#EXTINF:-1 group-title="Lista 03",24/7 Shark Tank México TEP 1
-http://tecnotv.club/20ago21/24.php?c=330
-#EXTINF:-1 group-title="Lista 03",24/7 XMEN ANIME
-http://tecnotv.club/20ago21/24.php?c=331
-#EXTINF:-1 group-title="Lista 03",24/7 BREAKING  BAD
-http://tecnotv.club/20ago21/24.php?c=332
-#EXTINF:-1 group-title="Lista 03",24/7 CABALLEROS DEL ZODIACO
-http://tecnotv.club/20ago21/24.php?c=333
-#EXTINF:-1 group-title="Lista 03",24/7 LA CASA DE PAPEL
-http://tecnotv.club/20ago21/24.php?c=334
-#EXTINF:-1 group-title="Lista 03",24/7 EL CHAVO DEL 8
-http://tecnotv.club/20ago21/24.php?c=335
-#EXTINF:-1 group-title="Lista 03",24/7 EL CHEMA
-http://tecnotv.club/20ago21/24.php?c=336
-#EXTINF:-1 group-title="Lista 03",24/7 EL SEÑOR DE LOS CIELOS
-http://tecnotv.club/20ago21/24.php?c=337
-#EXTINF:-1 group-title="Lista 03",24/7  CORAJE EL PERRO COBARDE
-http://tecnotv.club/20ago21/24.php?c=338
-#EXTINF:-1 group-title="Lista 03",24/7 CSI: MIAMI
-http://tecnotv.club/20ago21/24.php?c=339
-#EXTINF:-1 group-title="Lista 03",24/7  CUENTRO GREEM
-http://tecnotv.club/20ago21/24.php?c=340
-#EXTINF:-1 group-title="Lista 03",24/7 DRAGON BALL SUPER
-http://tecnotv.club/20ago21/24.php?c=341
-#EXTINF:-1 group-title="Lista 03",24/7 ALF
-http://tecnotv.club/20ago21/24.php?c=342
-#EXTINF:-1 group-title="Lista 03",24/7 SHERA
-http://tecnotv.club/20ago21/24.php?c=343
-#EXTINF:-1 group-title="Lista 03",24/7  DINOSAURIOS 1991
-http://tecnotv.club/20ago21/24.php?c=344
-#EXTINF:-1 group-title="Lista 03",24/7  DRAGON BALL 1984
-http://tecnotv.club/20ago21/24.php?c=345
-#EXTINF:-1 group-title="Lista 03",24/7 DRAGON BALL GT 1996
-http://tecnotv.club/20ago21/24.php?c=346
-#EXTINF:-1 group-title="Lista 03",24/7 DRAGON BALL Z 1989
-http://tecnotv.club/20ago21/24.php?c=347
-#EXTINF:-1 group-title="Lista 03",24/7 EL CHAPULIN COLORADO
-http://tecnotv.club/20ago21/24.php?c=348
-#EXTINF:-1 group-title="Lista 03",24/7 EL PATRON DEL MAL 
-http://tecnotv.club/20ago21/24.php?c=349
-#EXTINF:-1 group-title="Lista 03",24/7 PELICULAS ESTRENOS 2018
-http://tecnotv.club/20ago21/24.php?c=350
-#EXTINF:-1 group-title="Lista 03",24/7 FUTURAMA 1999
-http://tecnotv.club/20ago21/24.php?c=351
-#EXTINF:-1 group-title="Lista 03",24/7 JUEGO DE TRONOS
-http://tecnotv.club/20ago21/24.php?c=352
-#EXTINF:-1 group-title="Lista 03",24/7 He-Man
-http://tecnotv.club/20ago21/24.php?c=353
-#EXTINF:-1 group-title="Lista 03",24/7 LA ROSA DE GUADALUPE
-http://tecnotv.club/20ago21/24.php?c=354
-#EXTINF:-1 group-title="Lista 03",24/7 LOS LOCOS ADDAMS
-http://tecnotv.club/20ago21/24.php?c=355
-#EXTINF:-1 group-title="Lista 03",24/7 LA FAMILIA MONSTERS 1964
-http://tecnotv.club/20ago21/24.php?c=356
-#EXTINF:-1 group-title="Lista 03",24/7 LUIS MIGUEL LA SERIE 2018
-http://tecnotv.club/20ago21/24.php?c=357
-#EXTINF:-1 group-title="Lista 03",24/7 Malcolm in the middle 2000
-http://tecnotv.club/20ago21/24.php?c=358
-#EXTINF:-1 group-title="Lista 03",24/7 AÑOS MARAVILLOSOS 1988
-http://tecnotv.club/20ago21/24.php?c=359
-#EXTINF:-1 group-title="Lista 03",24/7 Mazinger Z
-http://tecnotv.club/20ago21/24.php?c=360
-#EXTINF:-1 group-title="Lista 03",24/7 Naruto
-http://tecnotv.club/20ago21/24.php?c=361
-#EXTINF:-1 group-title="Lista 03",24/7 PINKY y CEREBRO
-http://tecnotv.club/20ago21/24.php?c=362
-#EXTINF:-1 group-title="Lista 03",24/7 Pokémon
-http://tecnotv.club/20ago21/24.php?c=363
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="hudec.m3u"
+#EXTINF:-1 tvg-id="166867" tvg-name="ORBIT TV" tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="Sin Categoria", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?WebM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166880" tvg-name="RAKUTEN TV  MOVIE" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Sin Categoria", RAKUTEN TV  MOVIE
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166878" tvg-name="ROKU   CINE  ROMÁNTICO" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Sin Categoria", ROKU   CINE  ROMÁNTICO
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8?p=roku&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166876" tvg-name="ROKU  ESTRELLA TV" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Sin Categoria", ROKU  ESTRELLA TV
+https://estrellatv-roku.amagi.tv/hls/amagi_hls_data_estrellaA-estrellatv-roku/CDN/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166879" tvg-name="ROKU MOVI MEX  CINE" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Sin Categoria", ROKU MOVI MEX  CINE
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8?p=roku&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166863" tvg-name="TVN CHILE." tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png" group-title="Sin Categoria", TVN CHILE.
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?WebM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166864" tvg-name="UCVTV" tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="Sin Categoria", UCVTV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?WebM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166862" tvg-name="ZCAST   CINE" tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png" group-title="Sin Categoria", ZCAST   CINE
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?WebM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166925" tvg-name="ZCAST   CINE" tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png" group-title="Sin Categoria", ZCAST   CINE
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?WebM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166832" tvg-name="Butaca.TV" tvg-logo="" group-title="..::Canales Premium::..", Butaca.TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166833" tvg-name=" SYFY" tvg-logo="http://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo.png" group-title="01-ARGENTINA",  SYFY
+https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166834" tvg-name="180 BeXtreme TV" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="Música", 180 BeXtreme TV
+https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166835" tvg-name="306 Sony Novelas" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/43/USAJ3000002OC_20201007T012234.png" group-title="Novelas", 306 Sony Novelas
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166852" tvg-name="157 Cinevault 70s" tvg-logo="https://od.lk/s/MF8yMzQ5NTgwODdf/Cinevault-70s_NewV2.png" group-title="Películas y Series", 157 Cinevault 70s
+http://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8?l1br3&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166847" tvg-name="305 Tu Cine" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="Películas y Series", 305 Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&us_privacy=1YNY&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166836" tvg-name="553 Cinemax Action" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Películas y Series", 553 Cinemax Action
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166860" tvg-name="Cine Terror" tvg-logo="" group-title="Pluto TV", Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=6adac3f4-ee0c-4910-9cb6-5e4a6d92fb9b&clientModelNumber=na&deviceDNT=false&deviceId=6adac3f4-ee0c-4910-9cb6-5e4a6d92fb9b&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Safari&deviceModel=web&deviceType=web&deviceVersion=10.0&marketingRegion=VE&serverSideAds=true&sessionID=9b7e8e3c-cd07-11eb-bb4c-0242ac110002&sid=9b7e8e3c-cd07-11eb-bb4c-0242ac110002&userId=&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166837" tvg-name="061 Cablemas TV" tvg-logo="https://www.m3u.cl/logo/832_Cablemas_TV.png" group-title="Sin Categoria", 061 Cablemas TV
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166848" tvg-name="074 Univision (KDTV)" tvg-logo="https://static.locastnet.org/logo/504/1613144123818_UNI.png" group-title="Sin Categoria", 074 Univision (KDTV)
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166838" tvg-name="078 Movie Mex" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Sin Categoria", 078 Movie Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8?p=roku&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166845" tvg-name="101 MOVIE SPHERE" tvg-logo="" group-title="Sin Categoria", 101 MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166843" tvg-name="102 MovieMix" tvg-logo="" group-title="Sin Categoria", 102 MovieMix
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166849" tvg-name="110 VH1 Classics" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Sin Categoria", 110 VH1 Classics
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166861" tvg-name="116 Flix HD" tvg-logo="" group-title="Sin Categoria", 116 Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166828" tvg-name="117 Cinevault 80s" tvg-logo="https://od.lk/s/MF8yMzI4NjIyODdf/Cinevault-80s_700x700.png" group-title="Sin Categoria", 117 Cinevault 80s
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166839" tvg-name="154 The Asylum Movies" tvg-logo="https://od.lk/s/MF8yMjM5NTU2NjFf/TheAsylum_NEW_939x939.png" group-title="Sin Categoria", 154 The Asylum Movies
+https://asylum-stirr.amagi.tv/playlist.m3u8?l1br3Date0603andEPGcat&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166840" tvg-name="163 The Movie Hub" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USBA3000041ZP_20201208T081544.png" group-title="Sin Categoria", 163 The Movie Hub
+https://dje6yassknq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MovieHub2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&PlaylistM3UCL
+#EXTINF:-1 tvg-id="166859" tvg-name="Animal Planet" tvg-logo="https://licensingcon.com.br/wp-content/uploads/2019/08/animalplanet.png" group-title="Sin Categoria", Animal Planet
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/92957.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166841" tvg-name="FEAR  THIS SCI - FI   MOVIE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60627a97603dcd03ae7ed472" group-title="Sin Categoria", FEAR  THIS SCI - FI   MOVIE
+https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166829" tvg-name="HBO" tvg-logo="https://www.miaminews24.com/wp-content/uploads/2020/03/HBO-emblema.jpg" group-title="Sin Categoria", HBO
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71655.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166830" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Sin Categoria", HBO 2
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71656.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166831" tvg-name="HBO Signature" tvg-logo="https://www.nicepng.com/png/detail/233-2333069_hbo-signature-logo-png.png" group-title="Sin Categoria", HBO Signature
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71659.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166842" tvg-name="MOVIE MIX   CINE" tvg-logo="" group-title="Sin Categoria", MOVIE MIX   CINE
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="166844" tvg-name="MOVIE SPHERE  CINE" tvg-logo="" group-title="Sin Categoria", MOVIE SPHERE  CINE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?PlaylistM3UCL
