@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="Hudec2.m3u"
+
+#EXTINF:-1 tvg-id="1" tvg-name="La Guerra del Mañana" tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/08/the-protege.jpg" group-title="Estrenos", La Guerra del Mañana
+https://tecnolive.club/movs/guerram.mp4
+
 #EXTINF:-1 tvg-id="1" tvg-name="The Protege" tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/08/the-protege.jpg" group-title="Estrenos", The Protege
 https://www1155.ff-03.com/token=XhWwUArdqwbmWDC0s9pyFQ/1630373167/38.65.0.0/173/3/d6/d3d228c7e3d2f83c4045324170e08d63-720p.mp4
 
