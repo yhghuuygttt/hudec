@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="Hudec2.m3u"
 
+#EXTINF:-1 tvg-id="1" tvg-name="Occupation: Rainfall" tvg-logo="https://areshd.com/wp-content/uploads/2021/06/rbUACVEXV32PfnTUrt5IwRY348k-200x300.jpg" group-title="Estrenos", Occupation: Rainfall
+https://www680.ff-02.com/token=KwBS5I8AIpUhGy4ia9kq-Q/1630710211/38.65.0.0/170/5/24/390a16059385826e851b53ddcfdd0245-1080p.mp4
+
 #EXTINF:-1 tvg-id="1" tvg-name="No Respires 2" tvg-logo="https://areshd.com/wp-content/uploads/2021/09/etYHukMKWSIBX0YkHarCEpOb0fE-200x300.jpg" group-title="Estrenos", No Respires 2
 https://www575.ff-02.com/token=C6W51QKTgPIi6P4lv9DdVw/1630707325/38.65.0.0/173/8/ec/df0c5f26b7d505208869eeeaa8d42ec8-1080p.mp4
 
