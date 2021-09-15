@@ -1,4 +1,7 @@
-#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="Hudec2.m3u"
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="Kate" tvg-logo="https://image.tmdb.org/t/p/w780/byflnwPMumyvrCW9SfO5Miq3647.jpg" group-title="Estrenos", Kate
+https://www289.ff-01.com/token=TfQ4fUXAF4Btj5Tywzm0IQ/1631750126/38.65.0.0/178/3/c9/5ecbc4098b8aec2ee6b5954c082efc93-1080p.mp4
 
 #EXTINF:-1 tvg-id="1" tvg-name="Occupation: Rainfall" tvg-logo="https://areshd.com/wp-content/uploads/2021/06/rbUACVEXV32PfnTUrt5IwRY348k-200x300.jpg" group-title="Estrenos", Occupation: Rainfall
 https://www680.ff-02.com/token=KwBS5I8AIpUhGy4ia9kq-Q/1630710211/38.65.0.0/170/5/24/390a16059385826e851b53ddcfdd0245-1080p.mp4
@@ -60,36 +63,6 @@ https://www1421.ff-03.com/token=_kJovPebO54cjrAL9f_gdQ/1630455925/38.65.0.0/176/
 #EXTINF:-1 tvg-id="1" tvg-name="Ni un paso en falso" tvg-logo="https://www.cinecalidad.mx/wp-content/uploads/2021/07/Ni-un-paso-en-falso-(poster9).jpg" group-title="Estrenos", Ni un paso en falso
 https://www1072.ff-03.com/token=0zeJS3gMkIT4Ui2akwePHg/1630456512/38.65.0.0/172/6/48/09fc0bd0269b68b2234306de4cdd7486-1080p.mp4
 
-#EXTINF:-1 tvg-id="1" tvg-name="¿Qué pasaría si…? 01x01" tvg-logo="https://image.tmdb.org/t/p/w780/iraDBIZNHvtK6GWCG2rHLGpPv2O.jpg" group-title="Series", ¿Qué pasaría si…? 01x01
-https://www706.ff-02.com/token=4AC4-CNKONyc-JWPpdwUGw/1630456997/38.65.0.0/47/1/50/43be8ea8d630ff0441684cea24e6b501-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="¿Qué pasaría si…? 01x02" tvg-logo="https://image.tmdb.org/t/p/w780/urF7o2y7sG6GB53R0krSk9krw0E.jpg" group-title="Series", ¿Qué pasaría si…? 01x02
-https://www2157.ff-05.com/token=3J-XMsYPrj3cnmV_GSGXkA/1630457080/38.65.0.0/60/f/9d/76c3e5448bd2e78aed72bdbdefb909df-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="¿Qué pasaría si…? 01x03" tvg-logo="https://image.tmdb.org/t/p/w780/urF7o2y7sG6GB53R0krSk9krw0E.jpg" group-title="Series", ¿Qué pasaría si…? 01x03
-https://www658.ff-02.com/token=3gRYhIy21VbUk-bAS3XfSA/1630457173/38.65.0.0/177/0/2e/3b2bb18ea6ac6e101efa95b9e21952e0-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="AHS 1" tvg-logo="https://areshd.com/wp-content/uploads/2021/07/50AuXrycD7Q61o0Kppby5DTVOKP-200x300.jpg" group-title="Series", AHS 1
-https://www1024.ff-03.com/token=PJfMJEf2mw7xFtkntGBVBg/1630457291/38.65.0.0/168/3/90/cbc414d05827f164695a131f86a2b903-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="AHS 2" tvg-logo="https://areshd.com/wp-content/uploads/2021/07/50AuXrycD7Q61o0Kppby5DTVOKP-200x300.jpg" group-title="Series", AHS 2
-https://www700.ff-02.com/token=OkxVVATaU0MUOkcQY0ZM6g/1630457471/38.65.0.0/14/0/eb/7b833f9a654121e2aa8f32e407508eb0-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="AHS 3" tvg-logo="https://areshd.com/wp-content/uploads/2021/07/50AuXrycD7Q61o0Kppby5DTVOKP-200x300.jpg" group-title="Series", AHS 3
-https://www407.ff-01.com/token=ZWzu26UD-qS4PREyTFbcIg/1630457531/38.65.0.0/123/9/2a/9169bfcea7f4b9b141ef1c738469f2a9-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="AHS 4" tvg-logo="https://areshd.com/wp-content/uploads/2021/07/50AuXrycD7Q61o0Kppby5DTVOKP-200x300.jpg" group-title="Series", AHS 4
-https://www743.ff-02.com/token=QIGVhLdL9unSSKKLsrcLMg/1630457584/38.65.0.0/9/c/44/cfb50e3730dff52805008e3190d4a44c-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="AHS 5" tvg-logo="https://areshd.com/wp-content/uploads/2021/07/50AuXrycD7Q61o0Kppby5DTVOKP-200x300.jpg" group-title="Series", AHS 5
-https://www1542.ff-04.com/token=5UBRtlAAVY2-ujxYZ9NWBQ/1630457618/38.65.0.0/21/f/5a/a4c171c1e61dfa70968f30643356e5af-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="AHS 6" tvg-logo="https://areshd.com/wp-content/uploads/2021/07/50AuXrycD7Q61o0Kppby5DTVOKP-200x300.jpg" group-title="Series", AHS 6
-https://www344.ff-01.com/token=okXLHZc-lQrUCA-LpQfYZg/1630457693/38.65.0.0/18/6/4e/2e661695cb7af8848eae842593f104e6-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="AHS 7" tvg-logo="https://areshd.com/wp-content/uploads/2021/07/50AuXrycD7Q61o0Kppby5DTVOKP-200x300.jpg" group-title="Series", AHS 7
-https://www2220.ff-05.com/token=COnFRs2j5WqyDD5DjEs71Q/1630457750/38.65.0.0/58/5/17/0dec723a9ac818b6961a0e0d4fde0175-1080p.mp4
-
 #EXTINF:-1 tvg-id="1" tvg-name="La guerra de los mundos 1x1" tvg-logo="https://areshd.com/wp-content/uploads/2021/06/bxJ53tsvVtlNmtESf5n62NhzpG-200x300.jpg" group-title="Series", La guerra de los mundos 1x1
 https://www1033.ff-03.com/token=DH-Gt03Ngz8MYoidmIrbzw/1630458122/38.65.0.0/155/9/1e/a1b4adbccfbd9d155bb2f824f5b3d1e9-1080p.mp4
 
@@ -138,14 +111,6 @@ https://www1797.ff-04.com/token=xdtuYChOhByM-HRMUTO_-A/1630459279/38.65.0.0/167/
 #EXTINF:-1 tvg-id="1" tvg-name="La guerra de los mundos 2x8" tvg-logo="https://areshd.com/wp-content/uploads/2021/06/bxJ53tsvVtlNmtESf5n62NhzpG-200x300.jpg" group-title="Series", La guerra de los mundos 2x8
 https://www1387.ff-03.com/token=q96poAdQULh_hUxRLbkSTw/1630459335/38.65.0.0/47/e/fe/d1fae074ef7167ad3d28997547473fee-1080p.mp4
 
-#EXTINF:-1 tvg-id="1" tvg-name="The Walking Dead 11x1" tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/the_forever_purge.jpg" group-title="Series", The Walking Dead 11x1
-https://www784.ff-02.com/token=zBdsCNNf7Y8WxMrQ42V0JA/1630459794/38.65.0.0/176/b/70/11d04d9afd154554ede3fd311b08b70b-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="The Walking Dead 11x2" tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/the_forever_purge.jpg" group-title="Series", The Walking Dead 11x2
-https://www2216.ff-05.com/token=uFs-PzsAmUd3DQz1uRh2EQ/1630459862/38.65.0.0/178/9/00/dbb1ecbe7fa1640fc366a22a2097a009-1080p.mp4
-
-#EXTINF:-1 tvg-id="1" tvg-name="The Walking Dead 11x3" tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/the_forever_purge.jpg" group-title="Series", The Walking Dead 11x3
-https://www1769.ff-04.com/token=bBaf9XOxMS1qKDHkzvlXsg/1630459930/38.65.0.0/43/0/2c/921f10d44b0f8e6390b66f26e7a9f2c0-1080p.mp4
 
 #EXTINF:-1 tvg-id="1" tvg-name="Infinite" tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/the_forever_purge.jpg" group-title="Estrenos", Infinite
 https://www1949.ff-04.com/token=_c-CUhpEV4RA4OZcMd1qqQ/1630385524/38.65.0.0/16/b/9f/11d99ba4184ffd84c9e97d2e37b5b9fb-1080p.mp4
@@ -168,6 +133,5 @@ https://www1949.ff-04.com/token=_c-CUhpEV4RA4OZcMd1qqQ/1630385524/38.65.0.0/16/b
 #EXTINF:-1 tvg-id="1" tvg-name="Infinite" tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/the_forever_purge.jpg" group-title="Estrenos", Infinite
 https://www1949.ff-04.com/token=_c-CUhpEV4RA4OZcMd1qqQ/1630385524/38.65.0.0/16/b/9f/11d99ba4184ffd84c9e97d2e37b5b9fb-1080p.mp4
 
-#EXTINF:-1 tvg-id="1" tvg-name="Infinite" tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/the_forever_purge.jpg" group-title="Estrenos", Infinite
-https://www1949.ff-04.com/token=_c-CUhpEV4RA4OZcMd1qqQ/1630385524/38.65.0.0/16/b/9f/11d99ba4184ffd84c9e97d2e37b5b9fb-1080p.mp4
+
 
