@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",Foro
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 tvg-id="TELECLASICA.mx" tvg-logo="https://i.imgur.com/psB0dhj.png" group-title="News",TELECLASICA
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
@@ -10,8 +10,8 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaTv.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",EstrellaTv
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemundoNY.mx" tvg-logo="https://i.imgur.com/dXVSs0o.png" group-title="General",Telemundo NY
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wnju)/master.mpd
+#EXTINF:-1 tvg-id="TVS.mx" tvg-logo="https://i.imgur.com/h5Lmu3W.png" group-title="General",TVS
+https://vcp10.myplaytv.com/tvs/tvs/.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="General",Azteca Internacional
@@ -24,8 +24,8 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="TelevisaSinaloa.mx" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="General",Televisa Sinaloa
-https://ythls.armelin.one/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
+#EXTINF:-1 tvg-id="TDICOLOMBIA.mx" tvg-logo="https://i.imgur.com/hIg1jin.png" group-title="General",TDICOLOMBIA
+https://streaming.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
 #EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-logo="https://i.imgur.com/dlV2qX9.png" group-title="General",Televisa Sonora
 https://ythls.armelin.one/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
 #EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Culiacan
@@ -36,74 +36,83 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy",ViX Jajaja
-https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="ViXParejas.mx" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Comedy",ViX Parejas
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="El 13 Argentina" tvg-logo="https://i.imgur.com/30pqDY9.png" group-title="General",El 13 Argentina
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="CINERAMA.mx" tvg-logo="https://i.imgur.com/t5t1t5i.png" group-title="Comedy",CINERAMA TV
+https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
+#EXTINF:-1 tvg-id="WTV.mx" tvg-logo="https://i.imgur.com/3JZNZsL.png" group-title="General",WTV
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 ✪ | CL
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 ✪ | CL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="RakutenTv PelisTop" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv PelisTop
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTv Espanol" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Espanol
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTv Thrillers" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Thrillers
+https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTv Romantico" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Romantico
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTv Accion" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Accion
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTv Comedia" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Comedia
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTv Drama" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Drama
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png", Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png", Mega Cine TV | DO
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="+Cine" tvg-logo="https://i.imgur.com/p3Ywtfz.png" group-title="Movies",+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/p3Ywtfz.png" group-title="Movies",ID Latin America
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/iCZpfpQ.png" group-title="Movies",ID Latin America
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/32.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/y0ryUF2.png" group-title="Movies",HBO
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/120.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="Movies",CINE CANAL
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/73.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/JWoX6mJ.png" group-title="Movies",CINEMAX
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/nMKoeIX.png" group-title="Movies",CINEMAX
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/82.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Pelicula Latin America
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DePelicula.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Pelicula
-https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Pelicula Plus
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Movies",Golden
-https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-SD/default.mpd
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Movies",GoldenEdge
-https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Movies",Golden Edge Panregional
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-logo="https://i.imgur.com/Gnz4twB.png" group-title="Movies",Golden Multiplex
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Movies",Golden Panregional
-https://bozztv.com/gusa/gusa-goldentv/index.m3u8
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Movies",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Movies",Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Paramount.mx" tvg-logo="https://i.imgur.com/Aokvc2v.png" group-title="Entretenimiento",Paramount Channel
+#EXTINF:-1 tvg-id="Paramount.mx" tvg-logo="https://i.imgur.com/59zau5u.png" group-title="Entretenimiento",Paramount Channel
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/1166.m3u8
-#EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://i.imgur.com/76RGlQW.png" group-title="Entretenimiento",amc
+#EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://i.imgur.com/6r2AYqS.png" group-title="Entretenimiento",amc
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/78.m3u8
-#EXTINF:-1 tvg-id="A&E.mx" tvg-logo="https://i.imgur.com/wIL6NpR.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-id="A&E.mx" tvg-logo="https://i.imgur.com/4qbyDv3.png" group-title="Entretenimiento",A&E
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/20.m3u8
-#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="https://i.imgur.com/57Gp7Dj.png" group-title="Entretenimiento",AXN
+#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="https://i.imgur.com/9VxlGMv.png" group-title="Entretenimiento",AXN
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/21.m3u8
-#EXTINF:-1 tvg-id="space.mx" tvg-logo="https://i.imgur.com/is9cSPk.png" group-title="Entretenimiento",SPACE
+#EXTINF:-1 tvg-id="space.mx" tvg-logo="https://i.imgur.com/b1LaoMQ.png" group-title="Entretenimiento",SPACE
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/79.m3u8
 #EXTINF:-1 tvg-id="STAR.mx" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="Entretenimiento",STAR+
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/15.m3u8
-#EXTINF:-1 tvg-id="Studio.mx" tvg-logo="https://i.imgur.com/iLkiIqe.png" group-title="Entretenimiento",Studio
+#EXTINF:-1 tvg-id="Studio.mx" tvg-logo="https://i.imgur.com/Tf5Y8tV.png" group-title="Entretenimiento",Studio
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/86.m3u8
-#EXTINF:-1 tvg-id="Universal.mx" tvg-logo="https://i.imgur.com/vt0NjVf.png" group-title="Entretenimiento",Universal
+#EXTINF:-1 tvg-id="Universal.mx" tvg-logo="https://i.imgur.com/dwakZSR.png" group-title="Entretenimiento",Universal
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/18.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://i.imgur.com/0f83zrb.png" group-title="Entretenimiento",TNT Series
+#EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://i.imgur.com/faMKmJ1.png" group-title="Entretenimiento",TNT Series
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/33.m3u8
-#EXTINF:-1 tvg-id="wbtv.mx" tvg-logo="https://i.imgur.com/oryovQz.png" group-title="Entretenimiento",WBtv
+#EXTINF:-1 tvg-id="wbtv.mx" tvg-logo="https://i.imgur.com/V0XUGMM.png" group-title="Entretenimiento",WBtv
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/17.m3u8
-#EXTINF:-1 tvg-id="sony.mx" tvg-logo="https://i.imgur.com/DshdX7N.png" group-title="Entretenimiento",SONY
+#EXTINF:-1 tvg-id="sony.mx" tvg-logo="https://i.imgur.com/xjOGz09.png" group-title="Entretenimiento",SONY
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/16.m3u8
 
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/p3Ywtfz.png" group-title="Cultura",ID Latin America
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/iCZpfpQ.png" group-title="Cultura",ID Latin America
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/32.m3u8
-#EXTINF:-1 tvg-id="H2" tvg-logo="https://i.imgur.com/lQw76wz.png" group-title="Cultura",H2
+#EXTINF:-1 tvg-id="H2" tvg-logo="https://i.imgur.com/6h67Inu.png" group-title="Cultura",H2
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/289.m3u8
-#EXTINF:-1 tvg-id="H&H" tvg-logo="https://i.imgur.com/7YH85P4.png" group-title="Cultura",H&H
+#EXTINF:-1 tvg-id="H&H" tvg-logo="https://i.imgur.com/FdKYs7x.png" group-title="Cultura",H&H
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/62.m3u8
 #EXTINF:-1 tvg-id="elGourmet" tvg-logo="https://i.imgur.com/hmPl78f.png" group-title="Cultura",elGourmet
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/34.m3u8
-#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.imgur.com/BJ8x8HF.png" group-title="Cultura",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.imgur.com/plNjLPi.png" group-title="Cultura",Food Network
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/27.m3u8  Food Network
