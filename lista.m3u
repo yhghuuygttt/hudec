@@ -42,6 +42,8 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 #EXTINF:-1 tvg-id="WTV.mx" tvg-logo="https://i.imgur.com/3JZNZsL.png" group-title="General",WTV
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision" tvg-logo="https://i.imgur.com/TQawrS2.png" group-title="General",ChileVision
+https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=DEi9VypuYITghmeCAdsGVkVbUWTs8AqA&sid=dXpTF8TLvO7DfxivZ4nTqD8V6bzNfDft&pid=kENEb51tHZ6EQkwLW6OpHULrk4ve6o6M&an=mdstrm-player&at=web-app&av=v6.0.101&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=773x435&without_cookies=false&listenerid=&dnt=true&access_token=pchs7nNOdaFXQImylKMg34inMtkajnw3bVwrMTYPmOlFNJ8B7fXqDU66zn80iOjUDZlZRd7rcAn
 
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
