@@ -12,8 +12,6 @@ https://vdo.panelstreaming.live:3261/hybrid/play.m3u8?PlaylistM3UCL
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Music", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1403" tvg-name="Red Circle" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png" group-title="Music", Red Circle | CL
-https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://cdn.m3u.cl/logo/21_Retro_Music_Television.png" group-title="Music", Retro Music Television | CZ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Music", Retro Plus TV | CL
@@ -60,13 +58,9 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-id="ChileVision" tvg-logo="https://i.imgur.com/TQawrS2.png" group-title="General",ChileVision
 https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=DEi9VypuYITghmeCAdsGVkVbUWTs8AqA&sid=dXpTF8TLvO7DfxivZ4nTqD8V6bzNfDft&pid=kENEb51tHZ6EQkwLW6OpHULrk4ve6o6M&an=mdstrm-player&at=web-app&av=v6.0.101&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=773x435&without_cookies=false&listenerid=&dnt=true&access_token=pchs7nNOdaFXQImylKMg34inMtkajnw3bVwrMTYPmOlFNJ8B7fXqDU66zn80iOjUDZlZRd7rcAn
 
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="General",Retro Plus TV ✪ | CL
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="General",Retro Plus TV Señal 2 ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="General", Retro Plus TV Señal 3 ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Movies", Retro Plus TV Señal 3 ✪ | CL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="RakutenTv PelisTop" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv PelisTop
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTv Espanol" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Espanol
