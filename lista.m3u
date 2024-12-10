@@ -82,7 +82,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="Movies", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="+Cine" tvg-logo="https://i.imgur.com/p3Ywtfz.png" group-title="Movies",+Cine
+#EXTINF:-1 tvg-id="+Cine" tvg-logo="https://i.imgur.com/lv0vNXL.png" group-title="Movies",+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/iCZpfpQ.png" group-title="Movies",ID Latin America
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/32.m3u8
@@ -95,7 +95,7 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/82.m3u8
 #EXTINF:-1 tvg-id="1320" tvg-name="TV Prime Peliculas" tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Movies", TV Prime Peliculas | CL
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/9j0CUMR.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.mx" tvg-logo="https://i.imgur.com/59zau5u.png" group-title="Entretenimiento",Paramount Channel
