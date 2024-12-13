@@ -19,6 +19,35 @@ https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?Playli
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Music", Retro Plus TV Señal 2 | CL
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="**ECUADOR**" tvg-logo="https://i.imgur.com/UK4nx5n.png" group-title="General",**ECUADOR**
+
+#EXTINF:-1 tvg-id="ECUADORTV" tvg-logo="https://i.imgur.com/baEIgqn.png" group-title="General",ECUADORTV
+https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:-1 tvg-id="ecuavisa" tvg-logo="https://i.imgur.com/gEUM6PD.png" group-title="General",ecuavisa
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks.m3u8?dpssid=b2422525224675ca4915b3b3&sid=ba5t1l1xb21639975369675ca4915b3b0&ndvc=1
+#EXTINF:-1 tvg-id="Latina television" tvg-logo="https://i.imgur.com/NeD1its.png" group-title="General",Latina television
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2988923759675ca5fe2863c&sid=ba5t1l1xb22071037816675ca5fe28639&ndvc=1
+
+#EXTINF:-1 tvg-id="**VENEZUELA**" tvg-logo="https://i.imgur.com/Z2OM84w.png" group-title="General",**VENEZUELA**
+
+#EXTINF:-1 tvg-id="VENEVISION" tvg-logo="https://i.imgur.com/FL5M0W3.png" group-title="General",VENEVISION
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
+
+#EXTINF:-1 tvg-id="**COLOMBIA**" tvg-logo="https://i.imgur.com/LyaTp78.png" group-title="General",**COLOMBIA**
+
+#EXTINF:-1 tvg-id="Telepacifico" tvg-logo="https://i.imgur.com/FSnpNAr.png" group-title="General",Telepacifico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.imgur.com/TP2Q49n.png" group-title="General",RCN
+https://live-c2.cf.dmcdn.net/sec2(2HpSKcCxBgmN9CeecsauHgPRPgSmtw659xxG7TGUJq1vI3rEx-Sc103JqhSeKbJOmuGdGad04TQfCkNSpq5PhalDkL6ByU8YZM42hgbnavImbXNSAUfHp2bakGuvXBVP)/cloud/3/x7wikpz/s/live-720.m3u8
+
+#EXTINF:-1 tvg-id="**CHILE**" tvg-logo="https://i.imgur.com/vQ2zKeK.png" group-title="General",**CHILE**
+
+#EXTINF:-1 tvg-id="La Red" tvg-logo="https://i.imgur.com/MLBwubA.png" group-title="General",La Red
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision" tvg-logo="https://i.imgur.com/TQawrS2.png" group-title="General",ChileVision
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/86881b89-026a-4807-a4c1-b82f4479706b:DLS/master.m3u8?aid=598861d8cc3c169b2236f987&uid=yurSr5cio4Y8Poncee7d9e0KsMAeaLBA&sid=XPGfBFSd6tsVVSLDgCdGoobOKbr1Su7L&pid=Ztdt4LEjeqfmdcE4Fleoe0reb7xsjwCr&ref=https%3A%2F%2Fwww.chilevision.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=WNTjQjquwQaakiKW0KFTccUfvhBTtfhNh2li2E5u0pux46DE6JKAZKB8ABNChEeQIUnj9Npdwft&adInsertionGoogleStreamId=86881b89-026a-4807-a4c1-b82f4479706b%3ADLS&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1734214346213&ot=P890jVazLHVk6TBK_0n3uA&proto=https&pz=us
+
+
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/GQeF2Ln.png" group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaTv.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",EstrellaTv
@@ -55,8 +84,6 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 #EXTINF:-1 tvg-id="WTV.mx" tvg-logo="https://i.imgur.com/3JZNZsL.png" group-title="General",WTV
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision" tvg-logo="https://i.imgur.com/TQawrS2.png" group-title="General",ChileVision
-https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=DEi9VypuYITghmeCAdsGVkVbUWTs8AqA&sid=dXpTF8TLvO7DfxivZ4nTqD8V6bzNfDft&pid=kENEb51tHZ6EQkwLW6OpHULrk4ve6o6M&an=mdstrm-player&at=web-app&av=v6.0.101&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=773x435&without_cookies=false&listenerid=&dnt=true&access_token=pchs7nNOdaFXQImylKMg34inMtkajnw3bVwrMTYPmOlFNJ8B7fXqDU66zn80iOjUDZlZRd7rcAn
 
 
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Movies", Retro Plus TV Señal 3 ✪ | CL
