@@ -129,5 +129,22 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/289.m3u8
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/62.m3u8
 #EXTINF:-1 tvg-id="elGourmet" tvg-logo="https://i.imgur.com/hmPl78f.png" group-title="Cultura",elGourmet
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/34.m3u8
-#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.imgur.com/plNjLPi.png" group-title="Cultura",Food Network
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/27.m3u8  Food Network
+
+#EXTINF:-1 tvg-id="AlternaTv" tvg-logo="https://i.imgur.com/WpOvPLo.png" group-title="Music",AltenaTv
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="Cine Premiere" tvg-logo="https://i.imgur.com/SI96Yto.png" group-title="Movies",Cine Premiere
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
+#EXTINF:-1 tvg-id="MovieFe" tvg-logo="https://i.imgur.com/vPXBxWr.png" group-title="Movies",MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/9j0CUMR.png" group-title="Movies",MyTime Movie Network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/9j0CUMR.png" group-title="Movies",MyTime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Paramount.us" tvg-logo="https://i.imgur.com/59zau5u.png" group-title="Entretenimiento",Paramount Channel PlutoTv
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1 tvg-id="Paramount.us" tvg-logo="https://i.imgur.com/59zau5u.png" group-title="Entretenimiento",Paramount Channel USA
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Star Channel Central America" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="Entretenimiento",Paramount Channel,Star Channel Central America
+https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 tvg-id="Starz Encore Action East" tvg-logo="https://i.imgur.com/Lo2GX5u.png" group-title="Entretenimiento",Starz Encore Action East
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
