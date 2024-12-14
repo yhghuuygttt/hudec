@@ -129,6 +129,23 @@ https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/9j0CUMR.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="picante" tvg-name="CinePicante" tvg-logo="https://i.imgur.com/gu5Swuq.png" group-title="Movies", CinePicante
+https://tinyurl.com/picantecine
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="https://i.imgur.com/gu5Swuq.png" group-title="Movies", Cinema
+https://tinyurl.com/canelatvcinema
+#EXTINF:-1 tvg-id="clasicos" tvg-name="Clasicos" tvg-logo="https://i.imgur.com/DmQ6EWz.png" group-title="Movies", Clasicos
+https://tinyurl.com/canelaclasicos
+#EXTINF:-1 tvg-id="estelar" tvg-name="Cine Estelar" tvg-logo="https://i.imgur.com/GmZBiF2.png" group-title="Movies", Cine Estelar
+https://tinyurl.com/cinestelar
+#EXTINF:-1 tvg-id="plutoclasico" tvg-name="Pluto Clasicos" tvg-logo="https://i.imgur.com/U70TCEq.png" group-title="Movies", Pluto Clasicos
+https://tinyurl.com/plutoclasico
+#EXTINF:-1 tvg-id="plutomexicana" tvg-name="Pluto a la mexicana" tvg-logo="https://i.imgur.com/hEG0AIw.png" group-title="Movies", Pluto a la mexicana
+https://tinyurl.com/plutoalamexicana
+#EXTINF:-1 tvg-id="plutocine" tvg-name="Pluto nuestro cine" tvg-logo="https://i.imgur.com/kVaNRlw.png" group-title="Movies", Pluto nuestrocine
+https://tinyurl.com/nuestrocine
+#EXTINF:-1 tvg-id="plutorun" tvg-name="Pluto Runtime" tvg-logo="https://i.imgur.com/OyPfpSs.png" group-title="Movies", Pluto Runtime
+https://tinyurl.com/runtimepluto
+
 #EXTINF:-1 tvg-id="Paramount.mx" tvg-logo="https://i.imgur.com/59zau5u.png" group-title="Entretenimiento",Paramount Channel
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/1166.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://i.imgur.com/6r2AYqS.png" group-title="Entretenimiento",amc
