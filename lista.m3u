@@ -131,7 +131,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="picante" tvg-name="CinePicante" tvg-logo="https://i.imgur.com/gu5Swuq.png" group-title="Movies", CinePicante
 https://tinyurl.com/picantecine
-#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="https://i.imgur.com/gu5Swuq.png" group-title="Movies", Cinema
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="https://i.imgur.com/nmX9Mqi.png" group-title="Movies", Cinema
 https://tinyurl.com/canelatvcinema
 #EXTINF:-1 tvg-id="clasicos" tvg-name="Clasicos" tvg-logo="https://i.imgur.com/DmQ6EWz.png" group-title="Movies", Clasicos
 https://tinyurl.com/canelaclasicos
