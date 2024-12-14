@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="1312" tvg-name="Cheaters" tvg-logo="https://i.imgur.com/N1YDxni.png" group-title="A", Cheaters
+https://tinyurl.com/tvcheaters
+
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="TELECLASICA.mx" tvg-logo="https://i.imgur.com/psB0dhj.png" group-title="News",TELECLASICA
