@@ -29,15 +29,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
 #EXTINF:-1 tvg-id="**VENEZUELA**" tvg-logo="https://i.imgur.com/Z2OM84w.png" group-title="VENEZUELA",**VENEZUELA**
 
-#EXTINF:-1 tvg-id="VENEVISION" tvg-logo="https://i.imgur.com/FL5M0W3.png" group-title="VENEZUELA",VENEVISION
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
 
 #EXTINF:-1 tvg-id="**COLOMBIA**" tvg-logo="https://i.imgur.com/LyaTp78.png" group-title="COLOMBIA",**COLOMBIA**
 
 #EXTINF:-1 tvg-id="Telepacifico" tvg-logo="https://i.imgur.com/FSnpNAr.png" group-title="COLOMBIA",Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-id="RCN" tvg-logo="https://i.imgur.com/TP2Q49n.png" group-title="COLOMBIA",RCN
-https://live-c2.cf.dmcdn.net/sec2(2HpSKcCxBgmN9CeecsauHgPRPgSmtw659xxG7TGUJq1vI3rEx-Sc103JqhSeKbJOmuGdGad04TQfCkNSpq5PhalDkL6ByU8YZM42hgbnavImbXNSAUfHp2bakGuvXBVP)/cloud/3/x7wikpz/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="**CHILE**" tvg-logo="https://i.imgur.com/vQ2zKeK.png" group-title="CHILE",**CHILE**
 
@@ -50,12 +47,10 @@ https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
 
 #EXTINF:-1 tvg-id="1312" tvg-name="COPS en Español" tvg-logo="https://i.imgur.com/rUhLqaU.png" group-title="General", COPS en Español
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/GQeF2Ln.png" group-title="General",Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/dOSRJXR.png" group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaTv.mx" tvg-logo="https://i.imgur.com/GQeF2Ln.png" group-title="General",EstrellaTv
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVS.mx" tvg-logo="https://i.imgur.com/h5Lmu3W.png" group-title="General",TVS
-https://vcp10.myplaytv.com/tvs/tvs/.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="General",Azteca Internacional
@@ -181,7 +176,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 #EXTINF:-1 tvg-id="Paramount.us" tvg-logo="https://i.imgur.com/59zau5u.png" group-title="Movies",Paramount Channel USA
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Star Channel Central America" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="Movies",Paramount Channel,Star Channel Central America
+#EXTINF:-1 tvg-id="Star Channel Central America" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="Movies",Star Channel Central America
 https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1 tvg-id="Starz Encore Action East" tvg-logo="https://i.imgur.com/Lo2GX5u.png" group-title="Movies",Starz Encore Action East
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
