@@ -1527,7 +1527,7 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8?TecnoPlayl
 
 
 
-#EXTM3U 
+
 #EXTINF:-1 group-title="CHILE"  tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?tecnotv
 #EXTINF:-1 group-title="CHILE"  tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png", Rewind Radio y TV
@@ -2422,7 +2422,7 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Tec
 
 
 
-#EXTM3U 
+
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
 https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="VENEZUELA" tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png", Nubeh TV *
