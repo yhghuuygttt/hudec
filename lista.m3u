@@ -3,53 +3,52 @@
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.mx" tvg-logo="https://i.imgur.com/59zau5u.png" group-title="Premium”,Paramount Channel
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1166.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1166.m3u8
 #EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://i.imgur.com/6r2AYqS.png" group-title="Premium",amc
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/78.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/78.m3u8
 #EXTINF:-1 tvg-id="A&E.mx" tvg-logo="https://i.imgur.com/4qbyDv3.png" group-title="Premium",A&E
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/20.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/20.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" tvg-logo="https://i.imgur.com/9VxlGMv.png" group-title="Premium",AXN
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/21.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/21.m3u8
 #EXTINF:-1 tvg-id="space.mx" tvg-logo="https://i.imgur.com/b1LaoMQ.png" group-title="Premium",SPACE
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/79.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/79.m3u8
 #EXTINF:-1 tvg-id="STAR.mx" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="Premium",STAR+
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/15.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/15.m3u8
 #EXTINF:-1 tvg-id="Studio.mx" tvg-logo="https://i.imgur.com/Tf5Y8tV.png" group-title="Premium",Studio
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/86.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/86.m3u8
 #EXTINF:-1 tvg-id="Universal.mx" tvg-logo="https://i.imgur.com/dwakZSR.png" group-title="Premium",Universal
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/18.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/18.m3u8
 #EXTINF:-1 tvg-id="TNT.mx" tvg-logo="https://i.imgur.com/faMKmJ1.png" group-title="Premium",TNT Series
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/33.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/33.m3u8
 #EXTINF:-1 tvg-id="wbtv.mx" tvg-logo="https://i.imgur.com/V0XUGMM.png" group-title="Premium",Warner tv
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/17.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/17.m3u8
 #EXTINF:-1 tvg-id="sony.mx" tvg-logo="https://i.imgur.com/xjOGz09.png" group-title="Premium",SONY
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/16.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/16.m3u8
 
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/iCZpfpQ.png" group-title="Premium",ID Latin America
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/32.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/32.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://i.imgur.com/6h67Inu.png" group-title="Premium",H2
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/289.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/289.m3u8
 #EXTINF:-1 tvg-id="H&H" tvg-logo="https://i.imgur.com/FdKYs7x.png" group-title="Premium",H&H
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/62.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/62.m3u8
 #EXTINF:-1 tvg-id="elGourmet" tvg-logo="https://i.imgur.com/hmPl78f.png" group-title="Premium",elGourmet
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/34.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/34.m3u8
 #EXTINF:-1 tvg-id="Star Channel Central America" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="Premium",Star Channel Central America
 https://streamer1.nexgen.bz/STAR/index.m3u8
-#EXTINF:-1 tvg-id="Starz Encore Action East" tvg-logo="https://i.imgur.com/Lo2GX5u.png" group-title="Premium",Starz Encore Action East
+#EXTINF:-1 tvg-id="Starz Encore Action East" tvg-logo="https://i.imgur.com/Lo2GX5u.png" group-title="Premium USA",Starz Encore Action East
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/y0ryUF2.png" group-title="Premium",HBO
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/120.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/120.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/y0ryUF2.png" group-title="Premium",HBO Opcion 2
 https://tv1.strm2234.xyz/hbo/index.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="Premium",CINE CANAL
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/73.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/73.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/nMKoeIX.png" group-title="Premium",CINEMAX
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/82.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/82.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title=“Premium”,Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="1320" tvg-name="TV Prime Peliculas" tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Premium", TV Prime Peliculas | CL
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-id="1310" tvg-name="Spectrum Channel | CL" tvg-logo="https://i.imgur.com/QJ0sLZp.png" group-title="Premium", Spectrum Channel | CL
@@ -144,6 +143,129 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 #EXTINF:-1 tvg-id="BJGTJME" tvg-logo="https://i.imgur.com/i2NvMVv.png" group-title="Movies",BJGTJME TV
 https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO USA" tvg-logo="https://i.imgur.com/pZOT7bA.png/y0ryUF2.png" group-title="Premium USA”,HBO USA
+http://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO COMEDY USA" tvg-logo="https://i.imgur.com/o50f4n4.png" group-title="Premium USA”,HBO COMEDY USA
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO FAMILY USA" tvg-logo="https://i.imgur.com/VgCfTg9.png" group-title="Premium USA”,HBO FAMILY USA
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO ZONE USA" tvg-logo="https://i.imgur.com/5nIChvA.png" group-title="Premium USA”,HBO ZONE USA
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2 USA" tvg-logo="https://i.imgur.com/9UFekFf.png" group-title="Premium USA”,HBO2 USA
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOWTIME USA" tvg-logo="https://i.imgur.com/lwQl9rG.png" group-title="Premium USA”,SHOWTIME USA
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOWTIME 2 USA" tvg-logo="https://i.imgur.com/AfyMRBC.png" group-title="Premium USA”,SHOWTIME 2 USA
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOWTIME EXTREME USA" tvg-logo="https://i.imgur.com/LKMMatB.png" group-title="Premium USA”,SHOWTIME EXTREME USA
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOWTIME NEXT USA" tvg-logo="https://i.imgur.com/7weJXxW.png" group-title="Premium USA”,SHOWTIME NEXT USA
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOWTIME WEST USA" tvg-logo="https://i.imgur.com/lwQl9rG.png" group-title="Premium USA”,SHOWTIME WEST USA
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOWTIME WOMEN USA" tvg-logo="https://i.imgur.com/ph3Fb6K.png" group-title="Premium USA”,SHOWTIME WOMEN USA
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1 tvg-id="STARZ USA" tvg-logo="https://i.imgur.com/TYrhCfE.png" group-title="Premium USA”,STARZ USA
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="STARZ WEST USA" tvg-logo="https://i.imgur.com/TYrhCfE.png" group-title="Premium USA”,STARZ WEST USA
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="STARZ COMEDY USA" tvg-logo="https://i.imgur.com/faHLHdl.png" group-title="Premium USA”,STARZ COMEDY USA
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="STARZ EDGE USA" tvg-logo="https://i.imgur.com/Uddlp7n.png" group-title="Premium USA”,STARZ EDGE USA
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-id="STARZ ENCORE USA" tvg-logo="https://i.imgur.com/YpVyHT0.png" group-title="Premium USA”,STARZ ENCORE USA
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+
+#EXTINF:-1 tvg-id="STARZ ENCORE ACTION USA" tvg-logo="https://i.imgur.com/2cor1oB.png" group-title="Premium USA”,STARZ ENCORE ACTION USA
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="STARZ ENCORE CLASSIC USA" tvg-logo="https://i.imgur.com/PXHTfDC.png" group-title="Premium USA”,STARZ ENCORE CLASSIC USA
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="MGM+ USA" tvg-logo="https://i.imgur.com/PUNU8d6.png" group-title="Premium USA”,MGM+ USA
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-id="MGM+ DRIVE-IN USA" tvg-logo="https://i.imgur.com/W1eW4im.png" group-title="Premium USA”,MGM+ DRIVE-IN USA
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
+#EXTINF:-1 tvg-id="MGM+ HITS USA" tvg-logo="https://i.imgur.com/R8hHPNa.png" group-title="Premium USA”,MGM+ HITS USA
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="amc USA" tvg-logo="https://i.imgur.com/WznAFNv.png" group-title="Premium USA”,amc usa
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax east USA" tvg-logo="https://i.imgur.com/Ql4KF1l.png" group-title="Premium USA”,cinemax east usa
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax moremax USA" tvg-logo="https://i.imgur.com/Y8aazHg.png" group-title="Premium USA”,cinemax moremax usa
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax west USA" tvg-logo="https://i.imgur.com/Ql4KF1l.png" group-title="Premium USA”,cinemax west usa
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="OUTER MAX USA" tvg-logo="https://i.imgur.com/f6ThhF5.png" group-title="Premium USA”,OUTER MAX USA
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK USA" tvg-logo="https://i.imgur.com/f6ThhF5.png" group-title="Premium USA”,PARAMOUNT NETWORK USA
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ID (INVESTIGATION DISCOVERY) USA" tvg-logo="https://i.imgur.com/mMbIQkJ.png" group-title="Premium USA”,ID (INVESTIGATION DISCOVERY) USA
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV LIVE USA" tvg-logo="https://i.imgur.com/uu8yXUQ.png" group-title="Premium USA”,MTV LIVE USA
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="CRAVE USA" tvg-logo="https://i.imgur.com/zAQQKJi.png" group-title="Premium USA”, CRAVE usa
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+
+#EXTINF:-1 tvg-id="CRAVE 2 USA" tvg-logo="https://i.imgur.com/zAQQKJi.png" group-title="Premium USA”,CRAVE 2 USA
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+
+#EXTINF:-1 tvg-id="CRAVE 3 USA" tvg-logo="https://i.imgur.com/zAQQKJi.png" group-title="Premium USA”,CRAVE 3 USA
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+
+#EXTINF:-1 tvg-id="CRAVE 4 USA" tvg-logo="https://i.imgur.com/zAQQKJi.png" group-title="Premium USA”,CRAVE 4 USA
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+
+#EXTINF:-1 tvg-id="FX USA" tvg-logo="https://i.imgur.com/493TrAN.png" group-title="Premium USA”,FX USA
+http://fl2.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXX USA" tvg-logo="https://i.imgur.com/HliMvf0.png" group-title="Premium USA”,FXX USA
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXM USA" tvg-logo="https://i.imgur.com/6iUQkOk.png" group-title="Premium USA”,FXM USA
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 tvg-id="MUCH USA" tvg-logo="https://i.imgur.com/8vKuAGy.png" group-title="Premium USA”,MUCH USA
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+
+#EXTINF:-1 tvg-id="HALLMARK CHANNEL USA" tvg-logo="https://i.imgur.com/2Rksre8.png" group-title="Premium USA”,HALLMARK CHANNEL USA
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="HALLMARK MYSTERY USA" tvg-logo="https://i.imgur.com/B3mPpoI.png" group-title="Premium USA”,HALLMARK MYSTERY USA
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
