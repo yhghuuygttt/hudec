@@ -38,36 +38,36 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1 tvg-id="Starz Encore Action East" tvg-logo="https://i.imgur.com/Lo2GX5u.png" group-title="Premium USA",Starz Encore Action East
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/y0ryUF2.png" group-title="Premium",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/y0ryUF2.png" group-title="Premium",HBO
 http://cdn1host.online:2999/live/venomj/EmoOmOskzq/120.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/y0ryUF2.png" group-title="Premium",HBO Opcion 2
+#EXTINF:-1 tvg-id="HBO Opcion 2" tvg-logo="https://i.imgur.com/y0ryUF2.png" group-title="Premium",HBO Opcion 2
 https://tv1.strm2234.xyz/hbo/index.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="Premium",CINE CANAL
+#EXTINF:-1 tvg-id="CINE CANAL" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="Premium",CINE CANAL
 http://cdn1host.online:2999/live/venomj/EmoOmOskzq/73.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://i.imgur.com/nMKoeIX.png" group-title="Premium",CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://i.imgur.com/nMKoeIX.png" group-title="Premium",CINEMAX
 http://cdn1host.online:2999/live/venomj/EmoOmOskzq/82.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title=“Premium”,Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1310" tvg-name="Spectrum Channel | CL" tvg-logo="https://i.imgur.com/QJ0sLZp.png" group-title="Premium", Spectrum Channel | CL
+#EXTINF:-1 tvg-id="Spectrum Channel" tvg-name="Spectrum Channel | CL" tvg-logo="https://i.imgur.com/QJ0sLZp.png" group-title="Premium", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1320" tvg-name="SEO TV" tvg-logo="https://i.imgur.com/oliToAc.png" group-title=“Movies”, SEO TV
+#EXTINF:-1 tvg-id="SEO TV" tvg-name="SEO TV" tvg-logo="https://i.imgur.com/oliToAc.png" group-title=“Movies”, SEO TV
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
-#EXTINF:-1 tvg-id="1320" tvg-name="FreeTV Live" tvg-logo="https://i.imgur.com/80XmZjV.png" group-title=“Movies”, FreeTV Live
+#EXTINF:-1 tvg-id="FreeTV Live" tvg-name="FreeTV Live" tvg-logo="https://i.imgur.com/80XmZjV.png" group-title=“Movies”, FreeTV Live
 https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="1312" tvg-name="XtremaTV Latino" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV Latino
+#EXTINF:-1 tvg-id="XtremaTV Latino" tvg-name="XtremaTV Latino" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV Latino
 https://stmv6.voxtvhd.com.br/cinelatino/cinelatino/chunklist_w580251393.m3u8
-#EXTINF:-1 tvg-id="1312" tvg-name="XtremaTV cineaccion" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV cineaccion
+#EXTINF:-1 tvg-id="XtremaTV cineaccion" tvg-name="XtremaTV cineaccion" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV cineaccion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="1312" tvg-name="XtremaTV multivisioncable" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV multivisioncable
+#EXTINF:-1 tvg-id="XtremaTV multivisioncable" tvg-name="XtremaTV multivisioncable" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV multivisioncable
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
-#EXTINF:-1 tvg-id="1312" tvg-name="XtremaTV videoclub" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV videoclub
+#EXTINF:-1 tvg-id="XtremaTV videoclub" tvg-name="XtremaTV videoclub" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV videoclub
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-#EXTINF:-1 tvg-id="1312" tvg-name="XtremaTV Retro X TV" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV Retro X TV
+#EXTINF:-1 tvg-id="XtremaTV Retro X TV" tvg-name="XtremaTV Retro X TV" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV Retro X TV
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Movies", Retro Plus TV Señal 3 ✪ | CL
+#EXTINF:-1 tvg-id="Retro Plus TV Señal 3" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Movies", Retro Plus TV Señal 3 ✪ | CL
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="RakutenTv PelisTop" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv PelisTop
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
@@ -86,31 +86,31 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Canela Clásicos 2" tvg-logo="https://i.imgur.com/t8es8Qy.png" group-title="Movies",Canela Clásicos 2
 https://amg00658-canelamediainc-canelaclasicos-freetv-g5vr0.amagi.tv/playlist/amg00658-canelamediainc-canelaclasicos-freetv/playlist.m3u8
-#EXTINF:-1 tvg-id="1311" tvg-name="Romance Channel" tvg-logo="https://i.imgur.com/OXEknYW.png" group-title="Movies", Romance Channel
+#EXTINF:-1 tvg-id="Romance Channel" tvg-name="Romance Channel" tvg-logo="https://i.imgur.com/OXEknYW.png" group-title="Movies", Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
-#EXTINF:-1 tvg-id="1310" tvg-name="Box Cinema" tvg-logo="https://i.imgur.com/KFpIigl.png" group-title="Movies", Box Cinema
+#EXTINF:-1 tvg-id="Box Cinema" tvg-name="Box Cinema" tvg-logo="https://i.imgur.com/KFpIigl.png" group-title="Movies", Box Cinema
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/K9U16RORPWBMXX3B09JH/hls3/now,-1m/master.m3u8
-#EXTINF:-1 tvg-id="1312" tvg-name="Free TV Sureño" tvg-logo="https://i.imgur.com/FbXfXxw.png" group-title="Movies", Free TV Sureño
+#EXTINF:-1 tvg-id="Free TV Sureño" tvg-name="Free TV Sureño" tvg-logo="https://i.imgur.com/FbXfXxw.png" group-title="Movies", Free TV Sureño
 https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist/amg01024-olympusat-cinesureno-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="Movies", Orbit TV | DO
+#EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="Movies", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="Movies", Orbit TV | DO
+#EXTINF:-1 tvg-id="Orbit TV" tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="Movies", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="Movies", Mega Cine TV | DO
+#EXTINF:-1 tvg-id="Mega Cine TV" tvg-name="Mega Cine TV" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="Movies", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="+Cine" tvg-logo="https://i.imgur.com/lv0vNXL.png" group-title="Movies",+Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-id="1320" tvg-name="TV Prime Peliculas" tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Movies", TV Prime Peliculas | CL
+#EXTINF:-1 tvg-id="TV Prime Peliculas" tvg-name="TV Prime Peliculas" tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png" group-title="Movies", TV Prime Peliculas | CL
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/9j0CUMR.png" group-title="Movies",MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cinema" tvg-name="Canela TV 2" tvg-logo="https://i.imgur.com/CbyNDmM.png" group-title="Movies", Canela TV 2
+#EXTINF:-1 tvg-id="Canela TV 2" tvg-name="Canela TV 2" tvg-logo="https://i.imgur.com/CbyNDmM.png" group-title="Movies", Canela TV 2
 https://cnm-ctsa.otteravision.com/cnm/ctsa/ctsa.m3u8
-#EXTINF:-1 tvg-id="cinema" tvg-name="Canela Cinema" tvg-logo="https://i.imgur.com/nmX9Mqi.png" group-title="Movies", Canela Cinema
+#EXTINF:-1 tvg-id="Canela Cinema" tvg-name="Canela Cinema" tvg-logo="https://i.imgur.com/nmX9Mqi.png" group-title="Movies", Canela Cinema
 https://tinyurl.com/canelatvcinema
-#EXTINF:-1 tvg-id="cinema" tvg-name="Canela Cinema 2" tvg-logo="https://i.imgur.com/nmX9Mqi.png" group-title="Movies", Canela Cinema 2
+#EXTINF:-1 tvg-id="Canela Cinema 2" tvg-name="Canela Cinema 2" tvg-logo="https://i.imgur.com/nmX9Mqi.png" group-title="Movies", Canela Cinema 2
 https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
 #EXTINF:-1 tvg-id="clasicos" tvg-name="Clasicos" tvg-logo="https://i.imgur.com/DmQ6EWz.png" group-title="Movies", Clasicos
 https://tinyurl.com/canelaclasicos
@@ -199,9 +199,6 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="STARZ ENCORE CLASSIC USA" tvg-logo="https://i.imgur.com/PXHTfDC.png" group-title="Premium USA”,STARZ ENCORE CLASSIC USA
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="MGM+ USA" tvg-logo="https://i.imgur.com/PUNU8d6.png" group-title="Premium USA”,MGM+ USA
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
@@ -210,8 +207,6 @@ http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 tvg-id="MGM+ HITS USA" tvg-logo="https://i.imgur.com/R8hHPNa.png" group-title="Premium USA”,MGM+ HITS USA
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="amc USA" tvg-logo="https://i.imgur.com/WznAFNv.png" group-title="Premium USA”,amc usa
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -276,45 +271,45 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 
-#EXTINF:66, tvg-logo="https://i.imgur.com/Tzr1aVi.jpeg" group-title="TV MUSIC", Stingray Classic Rock
+#EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-logo="https://i.imgur.com/Tzr1aVi.jpeg" group-title="TV MUSIC", Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66, tvg-logo="https://i.imgur.com/lS7CvOm.jpeg" group-title="TV MUSIC", Stingray Flashback 70s
+#EXTINF:-1 tvg-id="Stingray Flashback 70s" tvg-logo="https://i.imgur.com/lS7CvOm.jpeg" group-title="TV MUSIC", Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/rDcvKQ0.jpeg" group-title="TV MUSIC", Stingray Greatest Hits
+#EXTINF:-1 tvg-id="Stingray Greatest Hits" tvg-logo="https://i.imgur.com/rDcvKQ0.jpeg" group-title="TV MUSIC", Stingray Greatest Hits
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
-#EXTINF:66, tvg-logo="https://i.imgur.com/5Ex4X1K.jpeg" group-title="TV MUSIC", Stingray Hit List
+#EXTINF:-1 tvg-id="Stingray Hit List" tvg-logo="https://i.imgur.com/5Ex4X1K.jpeg" group-title="TV MUSIC", Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66, tvg-logo="https://i.imgur.com/autEU3s.jpeg" group-title="TV MUSIC", Stingray Hot Country
+#EXTINF:-1 tvg-id="Stingray Hot Country" tvg-logo="https://i.imgur.com/autEU3s.jpeg" group-title="TV MUSIC", Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66, tvg-logo="https://i.imgur.com/DU8Bjpj.jpeg" group-title="TV MUSIC", Stingray Karaoke
+#EXTINF:-1 tvg-id="Stingray Karaoke" tvg-logo="https://i.imgur.com/DU8Bjpj.jpeg" group-title="TV MUSIC", Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:66, tvg-logo="https://i.imgur.com/OwJ346V.jpeg" group-title="TV MUSIC", Stingray Nothin' But 90s
+#EXTINF:-1 tvg-id="Stingray Nothin' But 90s" tvg-logo="https://i.imgur.com/OwJ346V.jpeg" group-title="TV MUSIC", Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66, tvg-logo="https://i.imgur.com/hcYRnZL.jpeg" group-title="TV MUSIC", Stingray Remember the 80s
+#EXTINF:-1 tvg-id="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/hcYRnZL.jpeg" group-title="TV MUSIC", Stingray Remember the 80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:64, tvg-logo="https://i.imgur.com/joMUWfI.png" group-title="TV MUSIC", Stingray Rock Alternative
+#EXTINF:-1 tvg-id="Stingray Rock Alternative" tvg-logo="https://i.imgur.com/joMUWfI.png" group-title="TV MUSIC", Stingray Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:66, tvg-logo="https://i.imgur.com/SD7QFYB.png" group-title="TV MUSIC", Stingray Smooth Jazz
+#EXTINF:-1 tvg-id="Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/SD7QFYB.png" group-title="TV MUSIC", Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:63, tvg-logo="https://i.imgur.com/9gkpGFy.png" group-title="TV MUSIC", Stingray Soul Storm
+#EXTINF:-1 tvg-id="Stingray Soul Storm" tvg-logo="https://i.imgur.com/9gkpGFy.png" group-title="TV MUSIC", Stingray Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:29, tvg-logo="https://i.imgur.com/zmKomDT.png" group-title="TV MUSIC", Recuerdos Retro Radio TV
+#EXTINF:-1 tvg-id="Recuerdos Retro Radio TV" tvg-logo="https://i.imgur.com/zmKomDT.png" group-title="TV MUSIC", Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="1320" tvg-name="Music Videos" tvg-logo="https://i.imgur.com/80XmZjV.png" group-title=“Music”, Music Videos
+#EXTINF:-1 tvg-id="Music Videos" tvg-name="Music Videos" tvg-logo="https://i.imgur.com/80XmZjV.png" group-title=“Music”, Music Videos
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 tvg-id="1320" tvg-name="Stingray Hot Country" tvg-logo="https://i.imgur.com/UENZ4ys.png" group-title=“Music”, Stingray Hot Country
+#EXTINF:-1 tvg-id="Stingray Hot Country" tvg-name="Stingray Hot Country" tvg-logo="https://i.imgur.com/UENZ4ys.png" group-title=“Music”, Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Music", Recuerdos Retro Radio TV | CL
+#EXTINF:-1 tvg-id="Recuerdos Retro Radio TV" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Music", Recuerdos Retro Radio TV | CL
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://cdn.m3u.cl/logo/21_Retro_Music_Television.png" group-title="Music", Retro Music Television | CZ
+#EXTINF:-1 tvg-id="Retro Music Television" tvg-name="Retro Music Television" tvg-logo="https://cdn.m3u.cl/logo/21_Retro_Music_Television.png" group-title="Music", Retro Music Television | CZ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Music", Retro Plus TV | CL
+#EXTINF:-1 tvg-id="Retro Plus TV" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Music", Retro Plus TV | CL
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCLrr
-#EXTINF:-1 tvg-id="1312" tvg-name="XtremaTV Extrema Music" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Music", XtremaTV Extrema Music
+#EXTINF:-1 tvg-id="XtremaTV Extrema Music" tvg-name="XtremaTV Extrema Music" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Music", XtremaTV Extrema Music
 https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/playlist.m3u8
-#EXTINF:-1 tvg-id="AlternaTv" tvg-logo="https://i.imgur.com/WpOvPLo.png" group-title="Music",AltenaTv
+#EXTINF:-1 tvg-id="AltenaTv" tvg-logo="https://i.imgur.com/WpOvPLo.png" group-title="Music",AltenaTv
 https://alternatv.ar/stream/hls/live.m3u8
-#EXTINF:-1 tvg-id="1312" tvg-name="RCKTV" tvg-logo="https://i.imgur.com/A8wnGcg.png" group-title="Music", RCKTV
+#EXTINF:-1 tvg-id="RCKTV" tvg-name="RCKTV" tvg-logo="https://i.imgur.com/A8wnGcg.png" group-title="Music", RCKTV
 https://inliveserver.com:1936/11530/11530/playlist.m3u8
 
 
