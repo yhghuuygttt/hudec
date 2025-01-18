@@ -48,10 +48,29 @@ http://cdn1host.online:2999/live/venomj/EmoOmOskzq/73.m3u8
 http://cdn1host.online:2999/live/venomj/EmoOmOskzq/82.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title=“Premium”,Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="eltrece" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9npKqQqEHCnvXYk3-ymB6CRTFIsgFf5ZTHv7__mHRGebgMOu_gUVopYTRsrJrqXnCAA1Tn0aQqrqit2YoNXCWCUXabKXlhMULTlfc7thdoF6RmJ_B80H5u5Q1FQ9x_X64U6zKRMwXC1U/s1600/eltrece-hd.png" group-title=“Argentina”,eltrece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="telefe" tvg-logo="https://seeklogo.com/images/T/telefe-tv-logo-B0ADDDA00B-seeklogo.com.png" group-title=“Argentina”,telefe
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TDI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd8e2104ff62730472407b753a70ad65.webp" group-title=“COLOMBIA”,TDI
+https://streaming.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
+#EXTINF:-1 tvg-id="Teleclásica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title=“COSTA RICA”,Teleclásica
+https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
+#EXTINF:-1 tvg-id="Clic" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e34f4cd1d9f10eee2b41c6eb0045b796.webp" group-title=“ECUADOR”,Clic
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="Pelimex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/888486b6af657ca96c36ad57c7c7ee10.webp" group-title=“MEXICO”,Pelimex
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
+#EXTINF:-1 tvg-id="Venevision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1eddd04945b864b02a236f6444606db.webp" group-title=“VENEZUELA”,Venevision
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Spectrum Channel" tvg-name="Spectrum Channel | CL" tvg-logo="https://i.imgur.com/QJ0sLZp.png" group-title="Premium", Spectrum Channel | CL
+#EXTINF:-1 tvg-id="Canal 13 Entretención" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38893f25dca3ca87b52f5f4b7bb05abe.webp" group-title=“Argentina”,Canal 13 Entretención
+https://dai.google.com/linear/hls/pa/event/BBp0VeP6QtOOlH8nu3bWTg/stream/04e01d0a-0e34-4b76-a3f0-6c49a8e5dc94:TUL/master.m3u8
+#EXTINF:-1 tvg-id="Canal 13 Tele Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d229585ceb5e5f05774a74489ee51535.webp" group-title=“Argentina”,Canal 13 Tele Series
+https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/87060ce0-bd08-41b4-a361-725692777ffe:TUL/master.m3u8
+#EXTINF:-1 tvg-id="Telepacífico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d01da97f93f1ef5131206034468f8efc.webp" group-title=“Argentina”,Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="Spectrum Channel" tvg-name="Spectrum Channel | CL" tvg-logo="https://i.imgur.com/QJ0sLZp.png" group-title="Argentina", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="SEO TV" tvg-name="SEO TV" tvg-logo="https://i.imgur.com/oliToAc.png" group-title=“Movies”, SEO TV
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
