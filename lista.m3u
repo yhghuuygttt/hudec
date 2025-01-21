@@ -1000,6 +1000,14 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 #EXTINF:-1 tvg-id="ZondaTV.ar" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="Argentina",Zonda TV [Geo-blocked]
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
+
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/1807/amlst:mainstream/playlist.m3u8?op_id=0&userId=223907&channelId=1807&stime=1737438352&etime=1737524752&token=06840189ea297349e08f6&p=livecdn&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1 tvg-id="Retro Music TV" tvg-logo="https://i.imgur.com/t4loReg.png" group-title="Mexico",Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV" tvg-logo="https://i.imgur.com/edkRZJL.png" group-title="Mexico",MiamiTV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-id="OrbitTV" tvg-logo="https://i.imgur.com/g81rbY9.png" group-title="Mexico",OrbitTV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1007774495.m3u8
 #EXTINF:-1 tvg-id="Americateve" tvg-logo="https://i.imgur.com/TstjNv7.png" group-title="Mexico",Americateve
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo PR" tvg-logo="https://i.imgur.com/dXVSs0o.png" group-title="Mexico",Telemundo PR
