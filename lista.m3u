@@ -7,6 +7,9 @@ https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="Premium",TNT Latin America
 https://tv1.strm2234.xyz/tnt/index.m3u8
 
+#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/CbyNDmM.png" group-title="Premium",CanelaClasicos
+https://tinyurl.com/canelaclasicos
+
 
 #EXTINF:-1 tvg-id="Star Channel Central America" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="Premium",Star Channel Central America
 https://streamer1.nexgen.bz/STAR/index.m3u8
