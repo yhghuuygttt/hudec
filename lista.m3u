@@ -9,6 +9,11 @@ https://tv1.strm2234.xyz/tnt/index.m3u8
 
 #EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/CbyNDmM.png" group-title="Premium",CanelaClasicos
 https://tinyurl.com/canelaclasicos
+#EXTINF:-1 tvg-id="CanelaCinema" tvg-logo="https://i.imgur.com/CbyNDmM.png" group-title="Premium",CanelaCinema
+https://tinyurl.com/canelatvcinema
+#EXTINF:-1 tvg-id="CinePicante" tvg-logo="https://i.imgur.com/i3OfTMy.png" group-title="Premium",CinePicante
+https://tinyurl.com/picantecine
+
 
 
 #EXTINF:-1 tvg-id="Star Channel Central America" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="Premium",Star Channel Central America
