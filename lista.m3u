@@ -144,22 +144,24 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 #EXTINF:-1 tvg-id="BJGTJME" tvg-logo="https://i.imgur.com/i2NvMVv.png" group-title="Movies",BJGTJME TV
 https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVS Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="General",TVS Retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="Pelimex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/888486b6af657ca96c36ad57c7c7ee10.webp" group-title="General",Pelimex
+#EXTINF:-1 tvg-id="Pelimex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/888486b6af657ca96c36ad57c7c7ee10.webp" group-title="Movies",Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
-#EXTINF:-1 tvg-id="Canela Clásicos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c3b4aa60708c5ede46578dbf85320b4.webp" group-title="General",Canela Clásicos
+#EXTINF:-1 tvg-id="Canela Clásicos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c3b4aa60708c5ede46578dbf85320b4.webp" group-title="Movies",Canela Clásicos
 https://amg00658-amg00658c26-canelatv-international-5056.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicos-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="Runtime Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/11891ee8913e61a918d8a4e559d4e082.webp" group-title="General",Runtime Acción
+#EXTINF:-1 tvg-id="Runtime Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/11891ee8913e61a918d8a4e559d4e082.webp" group-title="Movies",Runtime Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6125&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YN-&did=a481f7a236c7b172309764ccbe56642a&ifa_type=sessionid&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_doma
-#EXTINF:-1 tvg-id="Cine Friki" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="General",Cine Friki
+#EXTINF:-1 tvg-id="Cine Friki" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="Movies",Cine Friki
 https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8
-#EXTINF:-1 tvg-id="Runtime Comedia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4ff89e686c06012903a0f2459566cf28.webp" group-title="General",Runtime Comedia
+#EXTINF:-1 tvg-id="Runtime Comedia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4ff89e686c06012903a0f2459566cf28.webp" group-title="Movies",Runtime Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YN-&did=a481f7a236c7b172309764ccbe56642a&ifa_type=sessionid&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_doma
-#EXTINF:-1 tvg-id="Moviesphere USA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b5c373a817c81c049d68ca769d1847ef.webp" group-title="General",Moviesphere USA
+#EXTINF:-1 tvg-id="Moviesphere USA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b5c373a817c81c049d68ca769d1847ef.webp" group-title="Movies",Moviesphere USA
 https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
-#EXTINF:-1 tvg-id="Must See Movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/990b3d8e6eb8782875708c4ded9f46e0.webp" group-title="General",Must See Movies
+#EXTINF:-1 tvg-id="Must See Movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/990b3d8e6eb8782875708c4ded9f46e0.webp" group-title="Movies",Must See Movies
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7617e8c1-50a3-49f7-9a0b-0c1f5073535e/4.m3u8
+
+#EXTINF:-1 tvg-id="TVS Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Movies",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
 
 
 
@@ -357,34 +359,18 @@ https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/dOSRJXR.png" group-title="General",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
+
 #EXTINF:-1 tvg-id="EstrellaTv.mx" tvg-logo="https://i.imgur.com/GQeF2Ln.png" group-title="General",EstrellaTv
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="General",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ElSonorense.mx" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" group-title="General",El Sonorense
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="TDICOLOMBIA.mx" tvg-logo="https://i.imgur.com/hIg1jin.png" group-title="General",TDICOLOMBIA
 https://streaming.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
-#EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-logo="https://i.imgur.com/dlV2qX9.png" group-title="General",Televisa Sonora
-https://ythls.armelin.one/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
-#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Culiacan
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Los Mochis
-https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPMazatlan.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Mazatlan
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Obregon
-https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w622754042_b1428000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="El 13 Argentina" tvg-logo="https://i.imgur.com/30pqDY9.png" group-title="General",El 13 Argentina
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="El Conflicto TV.mx" tvg-logo="https://i.imgur.com/vIYJhn8.png" group-title="General",El Conflicto TV
@@ -423,6 +409,26 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 https://tv1.strm2234.xyz/space/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/faMKmJ1.png" group-title="Mexico",TNT
 https://tv1.strm2234.xyz/tnt/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/dOSRJXR.png" group-title="Mexico",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Mexico",Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Mexico",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="Mexico",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Mexico",Canal 5
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-logo="https://i.imgur.com/dlV2qX9.png" group-title="Mexico",Televisa Sonora
+https://ythls.armelin.one/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
+#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Mexico",TVP Culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Mexico",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPMazatlan.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Mexico",TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Mexico",TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w622754042_b1428000_sleng.m3u8
 
 
 
