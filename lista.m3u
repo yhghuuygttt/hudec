@@ -29,6 +29,9 @@ https://tv1.strm2234.xyz/hbo/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title=“Premium”,Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="eltrece" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9npKqQqEHCnvXYk3-ymB6CRTFIsgFf5ZTHv7__mHRGebgMOu_gUVopYTRsrJrqXnCAA1Tn0aQqrqit2YoNXCWCUXabKXlhMULTlfc7thdoF6RmJ_B80H5u5Q1FQ9x_X64U6zKRMwXC1U/s1600/eltrece-hd.png" group-title=“Argentina”,eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="telefe" tvg-logo="https://seeklogo.com/images/T/telefe-tv-logo-B0ADDDA00B-seeklogo.com.png" group-title=“Argentina”,telefe
@@ -43,8 +46,6 @@ https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/p
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
 #EXTINF:-1 tvg-id="Venevision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1eddd04945b864b02a236f6444606db.webp" group-title=“VENEZUELA”,Venevision
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-
-
 #EXTINF:-1 tvg-id="Canal 13 Entretención" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38893f25dca3ca87b52f5f4b7bb05abe.webp" group-title=“Argentina”,Canal 13 Entretención
 https://dai.google.com/linear/hls/pa/event/BBp0VeP6QtOOlH8nu3bWTg/stream/04e01d0a-0e34-4b76-a3f0-6c49a8e5dc94:TUL/master.m3u8
 #EXTINF:-1 tvg-id="Canal 13 Tele Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d229585ceb5e5f05774a74489ee51535.webp" group-title=“Argentina”,Canal 13 Tele Series
@@ -53,6 +54,10 @@ https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/87060ce
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-id="Spectrum Channel" tvg-name="Spectrum Channel | CL" tvg-logo="https://i.imgur.com/QJ0sLZp.png" group-title="Argentina", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-id="SEO TV" tvg-name="SEO TV" tvg-logo="https://i.imgur.com/oliToAc.png" group-title=“Movies”, SEO TV
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 #EXTINF:-1 tvg-id="FreeTV Live" tvg-name="FreeTV Live" tvg-logo="https://i.imgur.com/80XmZjV.png" group-title=“Movies”, FreeTV Live
@@ -83,7 +88,6 @@ https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTv Drama" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Drama
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-
 #EXTINF:-1 tvg-id="Canela Clásicos 2" tvg-logo="https://i.imgur.com/t8es8Qy.png" group-title="Movies",Canela Clásicos 2
 https://amg00658-canelamediainc-canelaclasicos-freetv-g5vr0.amagi.tv/playlist/amg00658-canelamediainc-canelaclasicos-freetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Romance Channel" tvg-name="Romance Channel" tvg-logo="https://i.imgur.com/OXEknYW.png" group-title="Movies", Romance Channel
@@ -161,6 +165,8 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="TVS Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Movies",TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+
 
 
 
@@ -283,12 +289,17 @@ http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="TELECLASICA.mx" tvg-logo="https://i.imgur.com/psB0dhj.png" group-title="News",TELECLASICA
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-logo="https://i.imgur.com/Tzr1aVi.jpeg" group-title="TV MUSIC", Stingray Classic Rock
@@ -334,6 +345,7 @@ https://inliveserver.com:1936/11530/11530/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="ECUADORTV" tvg-logo="https://i.imgur.com/baEIgqn.png" group-title="ECUADOR",ECUADORTV
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="ecuavisa" tvg-logo="https://i.imgur.com/gEUM6PD.png" group-title="ECUADOR",ecuavisa
@@ -351,6 +363,7 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 
 
 
+
 #EXTINF:-1 tvg-id="La Red" tvg-logo="https://i.imgur.com/MLBwubA.png" group-title="CHILE",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Ruidos TV" tvg-logo="https://i.imgur.com/mcrNSCZ.png" group-title="CHILE",Ruidos TV
@@ -362,8 +375,6 @@ https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaTv.mx" tvg-logo="https://i.imgur.com/GQeF2Ln.png" group-title="General",EstrellaTv
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="ElSonorense.mx" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" group-title="General",El Sonorense
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="General",Multimedios CDMX
