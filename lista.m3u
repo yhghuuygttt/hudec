@@ -683,8 +683,12 @@ https://10-ukr-sv.enpantallas.com/v/01/00011/k0ji9qrsc5qt_n/n.mp4?t=kUrMqIgWcsJq
 
 
 
-#EXTINF:0,tvg-id="1" tvg-name="Azul 89 FM" tvg-logo="https://i.imgur.com/rUhLqaU.png" group-title="Radio", Azul 89 FM
+#EXTINF:0,tvg-id="1" tvg-name="Azul 89 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="Radio", Azul 89 FM
 https://14943.live.streamtheworld.com/ACIR24_S01AAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&csegid=888&dist=triton-web&tdsdk=js-2.9&swm=false&lat=20.6&long=-100.4&banners=300x250&burst-time=15&sbmid=047b035e-374b-4edf-f909-02cfd3b3e1a6
+
+
+#EXTINF:0,tvg-id="1" tvg-name="Stereorey" tvg-logo="https://pwaimg.listenlive.co/STEREOREY_827781_config_station_logo_image.png" group-title="Radio", Stereorey
+https://14153.live.streamtheworld.com/STEREOREYAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&dist=triton-web&tdsdk=js-2.9&swm=false&banners=300x250&burst-time=15&sbmid=a9ada0b5-2cdc-421f-81d3-ae692d08858b
 
 #EXTINF:0,tvg-id="2" tvg-name="Big Classic Hits" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/330/big-classic-hits.bd31dbcc.png" group-title="Rdio", Big Classic Hits
 https://n1ca-e2.revma.ihrhls.com/zc4455/28_iyb27ws3768302/playlist.m3u8?zip=36104&callLetters=CLHT-FL&country=US&clientType=web&mod=&rj-ttl=5&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fbig-classic-hits-4455%2F&streamid=4455&dist=iheart&terminalid=159&locale=en-US&rj-tok=AAABlNdMbnUAC1pVVzXyyHgMrg
@@ -693,3 +697,13 @@ https://n1ca-e2.revma.ihrhls.com/zc4455/28_iyb27ws3768302/playlist.m3u8?zip=3610
 https://n48a-e2.revma.ihrhls.com/zc4717/72_1b7birvdi3g6u02/playlist.m3u8?zip=85000&callLetters=ROLD-FL&country=US&rj-ttl=5&streamid=4717&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Freal-oldies-4717%2F&dist=iheart&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb3VudHJ5IjoiVVMiLCJnZW5kZXIiOiJtIiwiaXNzIjoiaWhlYXJ0IiwiZGlzdCI6ImloZWFydCIsIm9taWQiOjAsImxzaWQiOiJjb29raWU6MjZhMmEyY2UtYTcyNC00NzJiLWI5Y2MtZjQzZjNhNzY5MTJkIiwiYXVkIjoidGQiLCJjb3BwYSI6MCwicHJvdmlkZXJJZCI6MjUsInByb2ZpbGVpZCI6IjE3NTgyNTE0NDMiLCJwb3N0YWxjb2RlIjoiODUwMDAiLCJ1c19wcml2YWN5IjoiMVlOTiIsImV4cCI6MTczODg2NDQ3MCwiaWF0IjoxNzM4Nzc4MDcwLCJhZ2UiOjU0fQ.JLpEq75KMX2PxgbQckjirLsvNdmEiwjeKEieW6bZByQ&terminalid=159&locale=es-US&rj-tok=AAABlNdtXaoALHXbZngNsfU4lw&clientType=web&modTime=1738776988442&profileid=1758251443&triton-uid=cookie%3A26a2a2ce-a724-472b-b9cc-f43f3a76912d&host=webapp.US&us_privacy=1-N-&devicename=web-desktop&subscription_type=free&territory=US&stationid=4717
 
 
+#EXTINF:0,tvg-id="4" tvg-name="Cool Oldies" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f63f4b4e2873d3a293707ec?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="Radio", Cool Oldies
+https://n24a-e2.revma.ihrhls.com/zc4439/36_11xjo7furjmgt02/playlist.m3u8?zip=85000&callLetters=OLDE-FL&country=US&rj-ttl=5&streamid=4439&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Fcool-oldies-4439%2F&dist=iheart&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb3VudHJ5IjoiVVMiLCJnZW5kZXIiOiJtIiwiaXNzIjoiaWhlYXJ0IiwiZGlzdCI6ImloZWFydCIsIm9taWQiOjAsImxzaWQiOiJjb29raWU6MjZhMmEyY2UtYTcyNC00NzJiLWI5Y2MtZjQzZjNhNzY5MTJkIiwiYXVkIjoidGQiLCJjb3BwYSI6MCwicHJvdmlkZXJJZCI6MjUsInByb2ZpbGVpZCI6IjE3NTgyNTE0NDMiLCJwb3N0YWxjb2RlIjoiODUwMDAiLCJ1c19wcml2YWN5IjoiMVlOTiIsImV4cCI6MTczODg2NDQ3MCwiaWF0IjoxNzM4Nzc4MDcwLCJhZ2UiOjU0fQ.JLpEq75KMX2PxgbQckjirLsvNdmEiwjeKEieW6bZByQ&terminalid=159&locale=es-US&rj-tok=AAABlNdwT3kAq-bF0R7V8FTvjA&clientType=web&modTime=1738776988442&profileid=1758251443&triton-uid=cookie%3A26a2a2ce-a724-472b-b9cc-f43f3a76912d&host=webapp.US&us_privacy=1-N-&devicename=web-desktop&subscription_type=free&territory=US&stationid=4439
+
+
+#EXTINF:0,tvg-id="5" tvg-name="Rock Drive" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64e90dfcf24af9aa7cabe7f8?ops=fit(960%2C960)%2Cresize(0%2C390)" group-title="Radio", Rock Drive
+https://n2ca-e2.revma.ihrhls.com/zc7402/44_1i0in5hzrwhem02/playlist.m3u8?zip=85000&callLetters=LAKE-FL&country=US&rj-ttl=5&streamid=7402&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2Frock-drive-7402%2F&dist=iheart&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb3VudHJ5IjoiVVMiLCJnZW5kZXIiOiJtIiwiaXNzIjoiaWhlYXJ0IiwiZGlzdCI6ImloZWFydCIsIm9taWQiOjAsImxzaWQiOiJjb29raWU6MjZhMmEyY2UtYTcyNC00NzJiLWI5Y2MtZjQzZjNhNzY5MTJkIiwiYXVkIjoidGQiLCJjb3BwYSI6MCwicHJvdmlkZXJJZCI6MjUsInByb2ZpbGVpZCI6IjE3NTgyNTE0NDMiLCJwb3N0YWxjb2RlIjoiODUwMDAiLCJ1c19wcml2YWN5IjoiMVlOTiIsImV4cCI6MTczODg2NDQ3MCwiaWF0IjoxNzM4Nzc4MDcwLCJhZ2UiOjU0fQ.JLpEq75KMX2PxgbQckjirLsvNdmEiwjeKEieW6bZByQ&terminalid=159&locale=es-US&rj-tok=AAABlNdxpHYAaatPtGEpeWmlcQ&clientType=web&modTime=1738776988442&profileid=1758251443&triton-uid=cookie%3A26a2a2ce-a724-472b-b9cc-f43f3a76912d&host=webapp.US&us_privacy=1-N-&devicename=web-desktop&subscription_type=free&territory=US&stationid=7402
+
+
+#EXTINF:0,tvg-id="6" tvg-name="Rock FM" tvg-logo="https://www.radio.es/300/rockfmes.png" group-title="Radio", Rock FM
+https://rockfm-cope.flumotion.com/chunks.m3u8
