@@ -30,8 +30,6 @@ https://tv1.strm2234.xyz/hbo/index.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
-#EXTINF:0,tvg-id="6" tvg-name="Telemundo" tvg-logo="https://www.radio.es/300/rockfmes.png" group-title="TV USA LATINO", Telemundo
-http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fxyzdddd.mizhls.ru&h=User-Agent%3AMozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h=Referer%3Ahttps%3A%2F%2Fcookiewebplay.xyz%2F&h=Origin%3Ahttps%3A%2F%2Fcookiewebplay.xyz&h=Keep-Alive%3Atrue/lb/premium131/index.m3u8
 
 
 #EXTINF:0,tvg-id="6" tvg-name="ESTRELLATV" tvg-logo="https://www.radio.es/300/rockfmes.png" group-title="TV USA LATINO", ESTRELLATV
@@ -41,8 +39,6 @@ https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
 #EXTINF:0,tvg-id="6" tvg-name="ESTRELLATV" tvg-logo="https://www.radio.es/300/rockfmes.png" group-title="TV USA LATINO", ESTRELLATV
 https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
 
-#EXTINF:0,tvg-id="34" tvg-name="Discovery ID" tvg-logo="https://i.imgur.com/lg2hjuY.png" group-title="TV USA LATINO", Discovery ID
-http://afda.akddw.cyou/live/Bate922BA/Akfdwkykf121A/1043709.ts
 
 #EXTINF:0,tvg-id="35" tvg-name="Golden" tvg-logo="https://i.imgur.com/XvtvXo9.png" group-title="TV USA LATINO", Golden
 http://afda.akddw.cyou/live/Bate922BA/Akfdwkykf121A/1055148.ts
@@ -213,22 +209,14 @@ https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
 https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="Pelimex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/888486b6af657ca96c36ad57c7c7ee10.webp" group-title=“MEXICO”,Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8
-#EXTINF:-1 tvg-id="Venevision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1eddd04945b864b02a236f6444606db.webp" group-title=“VENEZUELA”,Venevision
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 tvg-id="Canal 13 Entretención" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38893f25dca3ca87b52f5f4b7bb05abe.webp" group-title=“Argentina”,Canal 13 Entretención
-https://dai.google.com/linear/hls/pa/event/BBp0VeP6QtOOlH8nu3bWTg/stream/04e01d0a-0e34-4b76-a3f0-6c49a8e5dc94:TUL/master.m3u8
-#EXTINF:-1 tvg-id="Canal 13 Tele Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d229585ceb5e5f05774a74489ee51535.webp" group-title=“Argentina”,Canal 13 Tele Series
-https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/87060ce0-bd08-41b4-a361-725692777ffe:TUL/master.m3u8
 #EXTINF:-1 tvg-id="Telepacífico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d01da97f93f1ef5131206034468f8efc.webp" group-title=“Argentina”,Telepacífico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-id="Spectrum Channel" tvg-name="Spectrum Channel | CL" tvg-logo="https://i.imgur.com/QJ0sLZp.png" group-title="Argentina", Spectrum Channel | CL
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
 
 
 
 
-#EXTINF:-1 tvg-id="SEO TV" tvg-name="SEO TV" tvg-logo="https://i.imgur.com/oliToAc.png" group-title=“Movies”, SEO TV
-https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
+
+
 #EXTINF:-1 tvg-id="FreeTV Live" tvg-name="FreeTV Live" tvg-logo="https://i.imgur.com/80XmZjV.png" group-title=“Movies”, FreeTV Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaTV Latino" tvg-name="XtremaTV Latino" tvg-logo="https://i.imgur.com/rMW1XVC.png" group-title="Movies", XtremaTV Latino
@@ -257,8 +245,6 @@ https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/
 https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTv Drama" tvg-logo="https://i.imgur.com/38tnXX9.png" group-title="Movies",RakutenTv Drama
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-#EXTINF:-1 tvg-id="Canela Clásicos 2" tvg-logo="https://i.imgur.com/t8es8Qy.png" group-title="Movies",Canela Clásicos 2
-https://amg00658-canelamediainc-canelaclasicos-freetv-g5vr0.amagi.tv/playlist/amg00658-canelamediainc-canelaclasicos-freetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Romance Channel" tvg-name="Romance Channel" tvg-logo="https://i.imgur.com/OXEknYW.png" group-title="Movies", Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 #EXTINF:-1 tvg-id="Box Cinema" tvg-name="Box Cinema" tvg-logo="https://i.imgur.com/KFpIigl.png" group-title="Movies", Box Cinema
