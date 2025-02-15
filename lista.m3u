@@ -1,6 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1400" tvg-name="Ver Juego De Ladrones 2: Pantera" tvg-logo="https://i.imgur.com/rUhLqaU.png" group-title="Premium", Ver Juego De Ladrones 2: Pantera
+#EXTINF:-1 tvg-id="1400" tvg-name="Ver Juego De Ladrones 2: Pantera" tvg-logo="https://verpeliculasultra.com/uploads/posts/2025-01/1736840893_juego-de-ladrones-2-pantera.jpg" group-title="Movies", Ver Juego De Ladrones 2: Pantera
 https://cuyyro04xrqrh.premilkyway.com/hls2/01/08240/qlvsg5ns1ulw_n/index-v1-a1.m3u8?t=4Y-Y8MSycC8Cn_nzWzgVS7AP5b-ttVWkiPTND9ab-ck&s=1739577865&e=129600&f=41204372&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=28409
+
+#EXTINF:-1 tvg-id="1401" tvg-name="Ver I.S.S." tvg-logo="https://verpeliculasultra.com/uploads/posts/2025-02/i.s.s..jpg" group-title="Movies", Ver I.S.S.
+https://r63hfpdmodtc.premilkyway.com/hls2/01/08456/k6qp8eda9eyo_n/index-v1-a1.m3u8?t=aV9BrBwDwhWW_AyPMwCuEVaBP1Abs9z2SeErog61z_M&s=1739578379&e=129600&f=42282188&srv=zukkcg9r2ba2&i=0.4&sp=500&p1=zukkcg9r2ba2&p2=zukkcg9r2ba2&asn=28409
+
+#EXTINF:-1 tvg-id="1401" tvg-name="Ver Beetlejuice Beetlejuice" tvg-logo="https://verpeliculasultra.com/uploads/posts/2024-09/1725786181_bitelchus-bitelchus.jpg" group-title="Movies", Ver Beetlejuice Beetlejuice
+https://cxhkzbihnc.premilkyway.com/hls2/01/05083/73yhf47zocu3_n/index-v1-a1.m3u8?t=XoDoNmCjB0y4lM2KVqvmxNawVWgAgnGJz5Put-ChBh0&s=1739578652&e=129600&f=25435178&srv=rj9uehaz0ybig4&i=0.4&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=28409
+
+#EXTINF:-1 tvg-id="1401" tvg-name="Ver Fly Me To The Moon" tvg-logo="https://verpeliculasultra.com/uploads/posts/2024-07/1721737901_fly-me-to-the-moon.jpg" group-title="Movies", Ver Fly Me To The Moon
+https://cuyyro04xrqrh.premilkyway.com/hls2/01/04675/mzembomv6g4w_n/index-v1-a1.m3u8?t=wWuszxQufMvbOF7VkbuckYBmBi6hdn3U_OAPlHFq_RU&s=1739578786&e=129600&f=23376675&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=28409
+
+#EXTINF:-1 tvg-id="1401" tvg-name="Ver Dear Santa" tvg-logo="https://verpeliculasultra.com/uploads/posts/2024-12/1734506000_dear-santa.jpg" group-title="Movies", Ver Dear Santa
+https://rfognbc0mhhj.premilkyway.com/hls2/01/06408/zx5fjaxmnh7z_n/index-v1-a1.m3u8?t=AvBxKWpR_ZHoQvZIalBjPKh2LjCrr7xnJ6VCoeh56DU&s=1739578948&e=129600&f=37147880&srv=galk8e9m4l6if&i=0.4&sp=500&p1=galk8e9m4l6if&p2=galk8e9m4l6if&asn=28409
+
 
 #EXTINF:-1 tvg-id="1312" tvg-name="COPS en Español" tvg-logo="https://i.imgur.com/rUhLqaU.png" group-title="Premium", COPS en Español
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
