@@ -26,6 +26,12 @@ https://tv1.strm2234.xyz/space/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="Premium",TNT Latin America
 https://tv1.strm2234.xyz/tnt/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="Premium",TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="Premium",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/CbyNDmM.png" group-title="Premium",CanelaClasicos
 https://tinyurl.com/canelaclasicos
@@ -46,6 +52,9 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="HBO Opcion 2" tvg-logo="https://i.imgur.com/y0ryUF2.png" group-title="Premium",HBO Opcion 2
 https://tv1.strm2234.xyz/hbo/index.m3u8
 
+
+#EXTINF:-1 tvg-id="Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title=“Premium”,Sony
+http://181.78.105.146:2000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title=“Premium”,Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
@@ -76,6 +85,183 @@ http://afda.akddw.cyou/live/Bate922BA/Akfdwkykf121A/1055148.ts
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:28,HBO +
 https://smcdn01.trimi.com.ar/live/sm-live/HBO_PLUS/sa_live_dash/HBO_PLUS-avc1_600000=10000-3195929444278667.mp4
+
+
+
+#EXTINF:0, 30-214 TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:0, 31-370 TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:0,SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:11,Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:11,CANAL DE LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:11,Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:11,Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:0,WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:11,AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:0,FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:0,Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:0,A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:0,Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:11,TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:0,E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:0,Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:11,NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:0,History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:0,History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:0,Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:11,TVC
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:11,MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:11,CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:11,Films
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:11,StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:11,Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:0, Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:11,TV-101
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:11, STARZ 1
+http://181.78.105.146:2000/play/a097/index.m3u8
+#EXTINF:11, Distrito Comedia
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:11, Telemundo Miami
+http://181.78.105.146:2000/play/a096/index.m3u8
+#EXTINF:11, UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:0, AZ UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0, AZ 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0, MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0, ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0, AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0, ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0, CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:0, RCN
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0, RCN XTRA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0, Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,A&E
+http://190.60.38.114:1010/play/a085/index.m3u8
+#EXTINF:0,AMC
+http://190.60.38.114:1010/play/a047/index.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://190.60.38.114:1010/play/a06t/index.m3u8
+#EXTINF:0,AXN
+http://190.60.38.114:1010/play/a08q/index.m3u8
+#EXTINF:0,AXN
+http://190.60.38.114:1010/play/a02e/index.m3u8
+#EXTINF:0,CABLE NOTICIAS
+http://190.60.38.114:1010/play/a082/index.m3u8
+#EXTINF:0,CANAL 1
+http://190.60.38.114:1010/play/a08m/index.m3u8
+#EXTINF:0,CARACOL
+http://190.60.38.114:1010/play/a07f/index.m3u8
+#EXTINF:0,CINECANAL
+http://190.60.38.114:1010/play/a046/index.m3u8
+#EXTINF:0,CITY TV L.D.E.
+http://190.60.38.114:1010/play/a09n/index.m3u8
+#EXTINF:0,CRISTOVICION
+http://190.60.38.114:1010/play/a08o/index.m3u8
+#EXTINF:0,Canal 1
+http://190.60.38.114:1010/play/a08l/index.m3u8
+#EXTINF:0,DE PELICULAS
+http://190.60.38.114:1010/play/a08f/index.m3u8
+#EXTINF:0,DISCOVERY
+http://190.60.38.114:1010/play/a076/index.m3u8
+#EXTINF:0,DISCOVERY TURBO LISTA DE EMERGENCIA
+http://190.60.38.114:1010/play/a09m/index.m3u8
+#EXTINF:0,DISNEY YUNIOR
+http://190.60.38.114:1010/play/a08r/index.m3u8
+#EXTINF:0,Discovery H&H
+http://190.60.38.114:1010/play/a06q/index.m3u8
+#EXTINF:0,Discovery Kids
+http://190.60.38.114:1010/play/a06p/index.m3u8
+#EXTINF:0,Discovery Theater
+http://190.60.38.114:1010/play/a06r/index.m3u8
+#EXTINF:0,Discovery Turbo
+http://190.60.38.114:1010/play/a08e/index.m3u8
+#EXTINF:0,Discovery World
+http://190.60.38.114:1010/play/a06s/index.m3u8
+#EXTINF:0,Disney Channel
+http://190.60.38.114:1010/play/a08d/index.m3u8
+#EXTINF:0,Disney
+http://190.60.38.114:1010/play/a043/index.m3u8
+#EXTINF:0,Disney Junior
+http://190.60.38.114:1010/play/a05g/index.m3u8
+#EXTINF:0,E!
+http://190.60.38.114:1010/play/a04f/index.m3u8
+#EXTINF:0,El Gourmet
+http://190.60.38.114:1010/play/a08n/index.m3u8
+#EXTINF:0,FX
+http://190.60.38.114:1010/play/a02q/index.m3u8
+#EXTINF:0,Golden
+http://190.60.38.114:1010/play/a04d/index.m3u8
+#EXTINF:0,History 2
+http://190.60.38.114:1010/play/a04j/index.m3u8
+#EXTINF:0,History Channel
+http://190.60.38.114:1010/play/a02a/index.m3u8
+#EXTINF:0,ID
+http://190.60.38.114:1010/play/a06o/index.m3u8
+#EXTINF:0,Las Estrellas
+http://190.60.38.114:1010/play/a08k/index.m3u8
+#EXTINF:0,Love Nature
+http://190.60.38.114:1010/play/a08u/index.m3u8
+#EXTINF:0,Nat Geo
+http://190.60.38.114:1010/play/a045/index.m3u8
+#EXTINF:0,RCN
+http://190.60.38.114:1010/play/a086/index.m3u8
+#EXTINF:0,STAR CHANNEL
+http://190.60.38.114:1010/play/a02l/index.m3u8
+#EXTINF:0,Sony
+http://190.60.38.114:1010/play/a02c/index.m3u8
+#EXTINF:0,Space
+http://190.60.38.114:1010/play/a07y/index.m3u8
+#EXTINF:0,Studio Universal
+http://190.60.38.114:1010/play/a094/index.m3u8
+#EXTINF:0,Studio Universal
+http://190.60.38.114:1010/play/a049/index.m3u8
+#EXTINF:0,Sun Channel
+http://190.60.38.114:1010/play/a077/index.m3u8
+#EXTINF:0,TELEPACIFICO
+http://190.60.38.114:1010/play/a081/index.m3u8
+#EXTINF:0,TNT
+http://190.60.38.114:1010/play/a07z/index.m3u8
+#EXTINF:0,TNT Series
+http://190.60.38.114:1010/play/a07x/index.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL
+http://190.60.38.114:1010/play/a02m/index.m3u8
 
 #EXTINF:11, Canal 5 MX
 http://181.78.105.146:2000/play/a038/index.m3u8
@@ -606,6 +792,172 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="Mexico",TVP Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w622754042_b1428000_sleng.m3u8
+
+
+
+
+#EXTINF:6189 group-title="Movies", Garfield Fuera de Casa | ..::] The Riper [::..
+http://notabasica.com/612132/Garfield.Fuera.de.Casa.2024.720p-Dual-Lat%20%281%29.mp4
+#EXTINF:0 group-title="Movies", El planeta de los simios Nuevo reino | ..::] The Riper [::..
+http://notabasica.com/612132/El.planeta.de.los.simios.Nuevo.reino.2024.720p-Dual-Lat%20%281%29.mp4
+#EXTINF:0 group-title="Movies", Amigos imaginarios | ..::] The Riper [::..
+http://notabasica.com/612132/Amigos.Imaginarios.2024.1080P-Dual-Lat.mp4
+#EXTINF:0 group-title="Movies", Trolls 3 Se Armo La Banda | ..::] The Riper [::..
+http://notabasica.com/612132/Trolls%203%20-%20Se%20Arm%C3%B3%20la%20Banda.mp4
+#EXTINF:0 group-title="Movies", Five Nights at Freddy's | ..::] The Riper [::..
+http://notabasica.com/612132/FiveNightsAtFreddys.mp4
+#EXTINF:0 group-title="Movies",1000_QL80_.jpg" -  Winnie The Poo Blood and Honey | ..::] The Riper [::..
+http://notabasica.com/612132/Winnie.the.Pooh.Blood.and.Honey.2023.lati.mp4
+#EXTINF:0 group-title="Movies", La Monja 2 | ..::] The Riper [::..
+http://notabasica.com/612132/The.Nun.II.2023.lati.mp4
+#EXTINF:0 group-title="Movies",1000_QL80_.jpg" -  Elementos | ..::] The Riper [::..
+http://notabasica.com/612132/Elemental.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Flash 2023 | ..::] The Riper [::..
+http://notabasica.com/612132/Flash.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Caballeros del zodiaco 2023 | ..::] The Riper [::..
+http://notabasica.com/612132/Knights.of.the.Zodiac.2023.lati.mp4
+#EXTINF:0 group-title="Movies",1000_QL80_.jpg" -  Guardianes de la galaxia Vol 3 | ..::] The Riper [::..
+http://notabasica.com/612132/Guardianes.de.la.galaxia.Vol.3.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Sisu | ..::] The Riper [::..
+http://notabasica.com/612132/Sisu.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Rapido y furioso X | ..::] The Riper [::..
+http://notabasica.com/612132/Fast.X.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Super Mario Bros La Pelicula | ..::] The Riper [::..
+http://notabasica.com/612132/The.Super.Mario.Bros.Movie.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Evil Dead Rise | ..::] The Riper [::..
+http://notabasica.com/612132/Evil.Dead.Rise.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Misterio a la vista 2 | ..::] The Riper [::..
+http://notabasica.com/612132/Murder.Mystery.2.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Tetris | ..::] The Riper [::..
+http://notabasica.com/612132/Tetris.2023.lati.mp4
+#EXTINF:0 group-title="Movies", CREED III | ..::] The Riper [::..
+http://notabasica.com/612132/Creed.3.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Puedes hacerlo Chang | ..::] The Riper [::..
+http://notabasica.com/612132/Chang.Can.Dunk.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Jack in the box 2 | ..::] The Riper [::..
+http://notabasica.com/612132/The.Jack.in.the.Box.Awakening.2022.lati.mp4
+#EXTINF:0 group-title="Movies", The Fallen Sun | ..::] The Riper [::..
+http://notabasica.com/612132/Luther.The.Fallen.Sun.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Oso vicioso | ..::] The Riper [::..
+http://notabasica.com/612132/Cocaine.Bear.2023.lati.mp4
+#EXTINF:0 group-title="Movies", Mirame | ..::] The Riper [::..
+http://notabasica.com/612132/M%C3%ADrame.2021.lati.mp4
+#EXTINF:0 group-title="Movies", Black Panther Wakanda Forever | ..::] The Riper [::..
+http://notabasica.com/612132/Black.Panther.Wakanda.Forever.2022.lati.mp4
+#EXTINF:0 group-title="Movies", El Menu | ..::] The Riper [::..
+http://notabasica.com/612132/The.Menu.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Gato con botas 2022 | ..::] The Riper [::..
+http://notabasica.com/612132/Puss.in.Boots.The.Last.Wish.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Huevitos congelados | ..::] The Riper [::..
+http://notabasica.com/612132/Huevitos.congelados.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Emancipacion | ..::] The Riper [::..
+http://notabasica.com/612132/Emancipaci%C3%B3n.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Pinocchio 2022 | ..::] The Riper [::..
+http://notabasica.com/612132/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Atrapados en el Cubo | ..::] The Riper [::..
+http://notabasica.com/612132/Cube.2021.lati.mp4
+#EXTINF:0 group-title="Movies", Una noche en el museo: El regreso de Kahumunrah | ..::] The Riper [::..
+http://notabasica.com/612132/Night.at.the.Museum.Kahmunrah.Rises.Again.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Black Adam DVD-screener | ..::] The Riper [::..
+http://notabasica.com/612132/black.adam.baja.calidad.php?f=.mp4
+#EXTINF:0 group-title="Movies", Hocus Pocus 2| REGIOFLIX
+http://notabasica.com/612132/Hocus.Pocus.2.2022.lati.mp4
+#EXTINF:0 group-title="Movies", NOPE | ..::] The Riper [::..
+http://notabasica.com/612132/Nope.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Supermascotas | ..::] The Riper [::..
+http://notabasica.com/612132/DC.League.of.Super.Pets.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Mentada de padre | ..::] The Riper [::..
+http://notabasica.com/612132/Mentada.de.padre.2019.lati.mp4
+#EXTINF:0 group-title="Movies", Y como es el? | ..::] The Riper [::..
+http://notabasica.com/612132/Backseat.Driver.2020..lati.mp4
+#EXTINF:0 group-title="Movies", LUCK | ..::] The Riper [::..
+http://notabasica.com/612132/Luck.2022.lati.mp4
+#EXTINF:0 group-title="Movies", 365 dias mas | ..::] The Riper [::..
+http://notabasica.com/612132/365.Days.Part.III.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Las Leyendas: El Origen | ..::] The Riper [::..
+http://notabasica.com/612132/Las.leyendas.El.origen.2021.lati.mp4
+#EXTINF:0 group-title="Movies", Predator: Prey | ..::] The Riper [::..
+http://notabasica.com/612132/Predator_Prey_SrRegio.Net.mkv
+#EXTINF:0 group-title="Movies", Minions Nace un villano 2022 | ..::] The Riper [::..
+http://notabasica.com/612132/Minions.NaceUnVillano.SrRegio.Net.mp4
+#EXTINF:0 group-title="Movies", LightYear 2022 | ..::] The Riper [::..
+http://notabasica.com/612132/lightyear.2022.SRREGIO.mp4
+#EXTINF:0 group-title="Movies", Telefono negro | ..::] The Riper [::..
+http://notabasica.com/612132/El.Telefono.Negro.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Jurassic World Dominio | ..::] The Riper [::..
+http://notabasica.com/612132/JurassicWorldDominio.mkv
+#EXTINF:0 group-title="Movies", Father Stu | ..::] The Riper [::..
+http://notabasica.com/612132/Father.Stu.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Fresh | ..::] The Riper [::..
+http://notabasica.com/612132/Fresh.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Chip and Dale 2022 | ..::] The Riper [::..
+http://notabasica.com/612132/Chip.n.Dale.Rescue.Rangers.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Memory: Asesino sin memoria | ..::] The Riper [::..
+http://notabasica.com/612132/Memory.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Sonic 2 | ..::] The Riper [::..
+http://notabasica.com/612132/Sonic.2.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Que despadre | ..::] The Riper [::..
+http://notabasica.com/612132/Qu%C3%A9.despadre.2022.lati.mp4
+#EXTINF:0 group-title="Movies", Uncharted 2022 | ..::] The Riper [::..
+http://notabasica.com/612132/Uncharted.2022.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", 365 dias Aquel dia | ..::] The Riper [::..
+http://notabasica.com/612132/365.Dias.Aquel.dia.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Spider Man No Way Home 2021 | ..::] The Riper [::..
+http://notabasica.com/612132/SpiderManNoWayHome2021.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Scream 5 2022 | ..::] The Riper [::..
+http://notabasica.com/612132/Scream5Grita.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Clifford El Gran Perro Rojo | ..::] The Riper [::..
+http://notabasica.com/612132/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Eternals | ..::] The Riper [::..
+http://notabasica.com/612132/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Cazafantasmas: El Legado | ..::] The Riper [::..
+http://notabasica.com/612132/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Canta 2 | ..::] The Riper [::..
+http://notabasica.com/612132/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", La casa de los abuelos | ..::] The Riper [::..
+http://notabasica.com/612132/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", El diario de Greg | ..::] The Riper [::..
+http://notabasica.com/612132/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Franco Escamilla:Bienvenido al mundo | ..::] The Riper [::..
+http://notabasica.com/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
+#EXTINF:0 group-title="Movies", VENOM carnage liberado | ..::] The Riper [::..
+http://notabasica.com/612132/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
+#EXTINF:0 group-title="Movies", Volver al futuro | ..::] The Riper [::..
+https://notabasica.com/php/SR_REGIO_502122_/volver_al_futuro.php?f=.mp4
+#EXTINF:0 group-title="Movies", Por Fin Solo en Casa | ..::] The Riper [::..
+http://notabasica.com/612132/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Alerta Roja | ..::] The Riper [::..
+http://notabasica.com/612132/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Shang Chi La Leyenda de los 10 anillos | ..::] The Riper [::..
+http://notabasica.com/612132/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", A un paso de mi | ..::] The Riper [::..
+http://notabasica.com/612132/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", No body sleeps in the woods tonight | ..::] The Riper [::..
+http://notabasica.com/612132/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Polaroid | ..::] The Riper [::..
+http://notabasica.com/612132/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Una momia en Halloween | ..::] The Riper [::..
+http://notabasica.com/612132/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
+#EXTINF:0 group-title="Movies", Isabelle 2018 | ..::] The Riper [::..
+http://notabasica.com/612132/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Halloween Kills 2021 | ..::] The Riper [::..
+http://notabasica.com/612132/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Free Guy | ..::] The Riper [::..
+http://notabasica.com/612132/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
+#EXTINF:0 group-title="Movies", La calle del terror P1 | ..::] The Riper [::..
+http://notabasica.com/612132/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
+#EXTINF:0 group-title="Movies", No respires 2 | ..::] The Riper [::..
+http://notabasica.com/612132/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", You´re not alone | ..::] The Riper [::..
+http://notabasica.com/612132/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Rapidos y Furiosos 9 | ..::] The Riper [::..
+http://notabasica.com/612132/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Un rescate de huevitos | ..::] The Riper [::..
+http://notabasica.com/612132/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
+#EXTINF:0 group-title="Movies", Space Jam Una Nueva Era | ..::] The Riper [::..
+http://notabasica.com/612132/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
+#EXTINF:0 group-title="Movies", COCO | ..::] The Riper [::..
+http://notabasica.com/612132/coco.mkv
 
 
 
