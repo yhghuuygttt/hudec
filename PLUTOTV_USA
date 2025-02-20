@@ -46,7 +46,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 #EXTINF:-1 tvg-id="CSI: NY en español" group-title="PLUTO USA SERIES", CSI: NY en español
 https://stitcher.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-#EXTINF:-1 tvg-id="The Walking Dead en español" group-title="PLUTO USA", The Walking Dead en español
+#EXTINF:-1 tvg-id="The Walking Dead en español" group-title="PLUTO USA SERIES", The Walking Dead en español
 https://stitcher.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 #EXTINF:-1 tvg-id="AMC en español" group-title="PLUTO USA SERIES", AMC en español
 https://stitcher.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
