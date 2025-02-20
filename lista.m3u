@@ -1,172 +1,324 @@
 #EXTM3U
 
-#EXTINF:25, tvg-id="90s Throwback" group-title="Pluto USA",90s Throwback
+#EXTINF:-1 tvg-id="90s Throwback" tvg-logo="https://i.imgur.com/U8UefTY.png" group-title="Pluto USA",90s Throwback
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:25, tvg-id="80s Reind" group-title="Pluto USA",80s Rewind
+#EXTINF:-1 tvg-id="80s Rewind" tvg-logo="https://i.imgur.com/v0iBAdS.jpg" group-title="Pluto USA",80s Rewind
 https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="70s Cinema" group-title="Pluto USA",70s Cinema
+#EXTINF:-1 tvg-id="70s Cinema" tvg-logo="https://i.imgur.com/PZjUlv3.jpg" group-title="Pluto USA",70s Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:25, tvg-id="Paramount Movie Channel" group-title="Pluto USA",Paramount Movie Channel
+#EXTINF:-1 tvg-id="Paramount Movie Channel" tvg-logo="https://i.imgur.com/bS95Neh.jpg" group-title="Pluto USA",Paramount Movie Channel
 https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:25, tvg-id="MovieSphere by Lionsgate" group-title="Pluto USA",MovieSphere by Lionsgate
+#EXTINF:-1 tvg-id="MovieSphere by Lionsgate" tvg-logo="https://i.imgur.com/rSWcPMy.png" group-title="Pluto USA",MovieSphere by Lionsgate
 https://stitcher.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:25, tvg-id="Sitcom Legends" group-title="Pluto USA",Sitcom Legends
+#EXTINF:-1 tvg-id="Sitcom Legends" tvg-logo="https://i.imgur.com/DUAzrVe.jpg" group-title="Pluto USA",Sitcom Legends
 https://stitcher.pluto.tv/stitch/hls/channel/633354b63df9700007f6a1b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:25, tvg-id="Cheers + Fraiser" group-title="Pluto USA",Cheers + Frasier
+#EXTINF:-1 tvg-id="Cheers + Frasier" tvg-logo="https://i.imgur.com/ANkjz8D.jpg" group-title="Pluto USA",Cheers + Frasier
 https://stitcher.pluto.tv/stitch/hls/channel/66ba495ffe11e5000881f049/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:25, tvg-id="Cheaters" group-title="Pluto USA",Cheaters
+#EXTINF:-1 tvg-id="Cheaters" tvg-logo="https://i.imgur.com/N1YDxni.png" group-title="Pluto USA",Cheaters
 https://stitcher.pluto.tv/stitch/hls/channel/627d355aa95efd00077afcc7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Cine Premiere" group-title="Pluto USA",Cine Premiere
+#EXTINF:-1 tvg-id="Cine Premiere" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Cine Premiere
 https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Cine en Español" group-title="Pluto USA",Cine en español
+#EXTINF:-1 tvg-id="Cine en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Cine en español
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Cine Clasico" group-title="Pluto USA",Cine Clásico
+#EXTINF:-1 tvg-id="Cine Clásico" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Cine Clásico
 https://stitcher.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Pelis y Popcorn" group-title="Pluto USA",Pelis y Popcorn
+#EXTINF:-1 tvg-id="Pelis y Popcorn" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Pelis y Popcorn
 https://stitcher.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Cine adrenalina" group-title="Pluto USA",Cine adrenalina
+#EXTINF:-1 tvg-id="Cine adrenalina" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Cine adrenalina
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Cine terror" group-title="Pluto USA",Cine terror
+#EXTINF:-1 tvg-id="Cine terror" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Cine terror
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Cine ¡¡jaja!!" group-title="Pluto USA",Cine ¡¡jaja!!
+#EXTINF:-1 tvg-id="Cine ¡¡jaja!!" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Cine ¡¡jaja!!
 https://stitcher.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Cine XOXO" group-title="Pluto USA",Cine XOXO
+#EXTINF:-1 tvg-id="Cine XOXO" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Cine XOXO
 https://stitcher.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Hallmark en español" group-title="Pluto USA",Hallmark en español
+#EXTINF:-1 tvg-id="Hallmark en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Hallmark en español
 https://stitcher.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="TuWarner" group-title="Pluto USA",TuWarner
+#EXTINF:-1 tvg-id="TuWarner" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",TuWarner
 https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Series con Ñ" group-title="Pluto USA",Series con Ñ
+#EXTINF:-1 tvg-id="Series con Ñ" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Series con Ñ
 https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="CBS en español" group-title="Pluto USA",CBS en español
+#EXTINF:-1 tvg-id="CBS en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",CBS en español
 https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="CSI en Español" group-title="Pluto USA",CSI en Español
-https://stitcher.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
+#EXTINF:-1 tvg-id="CSI en Español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",CSI en Español
+https://stitcher.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc
+/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="CSI: Miami en español" group-title="Pluto USA",CSI: Miami en español
+
+
+#EXTINF:-1 tvg-id="CSI: Miami en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",CSI: Miami en español
 https://stitcher.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="CSI: NY en español" group-title="Pluto USA",CSI: NY en español
+#EXTINF:-1 tvg-id="CSI: NY en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",CSI: NY en español
 https://stitcher.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="The Walking Dead en español" group-title="Pluto USA",The Walking Dead en español
+#EXTINF:-1 tvg-id="The Walking Dead en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",The Walking Dead en español
 https://stitcher.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="AMC en español" group-title="Pluto USA",AMC en español
+#EXTINF:-1 tvg-id="AMC en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",AMC en español
 https://stitcher.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Spike ¡extremo!" group-title="Pluto USA",Spike ¡extremo!
+#EXTINF:-1 tvg-id="Spike ¡extremo!" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Spike ¡extremo!
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Acapulco Shore" group-title="Pluto USA",Acapulco Shore
+#EXTINF:-1 tvg-id="Acapulco Shore" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Acapulco Shore
 https://stitcher.pluto.tv/stitch/hls/channel/60c25ec6da6d6600074233a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="La Familia del Barrio" group-title="Pluto USA",La Familia del Barrio
+#EXTINF:-1 tvg-id="La Familia del Barrio" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",La Familia del Barrio
 https://stitcher.pluto.tv/stitch/hls/channel/668c566d08d5490008075948/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Comedy Central en español" group-title="Pluto USA",Comedy Central en español
+#EXTINF:-1 tvg-id="Comedy Central en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Comedy Central en español
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="EstrellaTV" group-title="Pluto USA",EstrellaTV
+#EXTINF:-1 tvg-id="EstrellaTV" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",EstrellaTV
 https://stitcher.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Casos se la Dra. Polo" group-title="Pluto USA",Casos de la Dra. Polo
+#EXTINF:-1 tvg-id="Casos de la Dra. Polo" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Casos de la Dra. Polo
 https://stitcher.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Nosey escándalos" group-title="Pluto USA",Nosey escándalos
+#EXTINF:-1 tvg-id="Nosey escándalos" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Nosey escándalos
 https://stitcher.pluto.tv/stitch/hls/channel/60492ee6375a3900079a158c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Sony Canal Escape Perfeto" group-title="Pluto USA",Sony Canal Escape Perfecto
+#EXTINF:-1 tvg-id="Sony Canal Escape Perfecto" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Sony Canal Escape Perfecto
 https://stitcher.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Hell's Kitchen en español" group-title="Pluto USA",Hell's Kitchen en español
+#EXTINF:-1 tvg-id="Hell's Kitchen en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Hell's Kitchen en español
 https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Foodies" group-title="Pluto USA",Foodies
+#EXTINF:-1 tvg-id="Foodies" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Foodies
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Mundo viajero" group-title="Pluto USA",Mundo viajero
-https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-
-#EXTINF:0, tvg-id="Vidas Extremas" group-title="Pluto USA",Vidas Extremas
+#EXTINF:-1 tvg-id="Vidas Extremas" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Vidas Extremas
 https://stitcher.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Construcciones Asomrosas" group-title="Pluto USA",Construcciones Asombrosas
+#EXTINF:-1 tvg-id="Construcciones Asombrosas" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Construcciones Asombrosas
 https://stitcher.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Mundo geek" group-title="Pluto USA",Mundo geek
+#EXTINF:-1 tvg-id="Service" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Service
 https://stitcher.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="TuDiscovery" group-title="Pluto USA",TuDiscovery
+#EXTINF:-1 tvg-id="TuDiscovery" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",TuDiscovery
 https://stitcher.pluto.tv/stitch/hls/channel/673249ccc7626f0008c72076/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Sala de Emergencias: Historias Inéditas" group-title="Pluto USA",Sala de Emergencias: Historias Inéditas
-https://stitcher.pluto.tv/stitch/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
+#EXTINF:-1 tvg-id="Sala de Emergencias: Historias Inéditas" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Sala de Emergencias: Historias Inéditas
+https://stitcher.pluto.tv/stitch/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&d
+eviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Expedientes Sobrenaturales" group-title="Pluto USA",Expedientes Sobrenaturales
+#EXTINF:-1 tvg-id="Expedientes Sobrenaturales" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Expedientes Sobrenaturales
 https://stitcher.pluto.tv/stitch/hls/channel/6732495dc7626f0008c71e7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Crimen" group-title="Pluto USA",Crimen
+#EXTINF:-1 tvg-id="Crimen" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Crimen
 https://stitcher.pluto.tv/stitch/hls/channel/6732499ce40c4a0008bb9894/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Crímenes imperfectos" group-title="Pluto USA",Crímenes imperfectos
+#EXTINF:-1 tvg-id="Crímenes imperfectos" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Crímenes imperfectos
 https://stitcher.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Misterios sin resolver" group-title="Pluto USA",Misterios sin resolver
+#EXTINF:-1 tvg-id="Misterios sin resolver" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Misterios sin resolver
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Investiga" group-title="Pluto USA",Investiga
+#EXTINF:-1 tvg-id="Investiga" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Investiga
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Vevo 70's" group-title="Pluto USA",Vevo '70s
+#EXTINF:-1 tvg-id="Vevo '70s" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Vevo '70s
 https://stitcher.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Vevo '80s" group-title="Pluto USA",Vevo '80s
+#EXTINF:-1 tvg-id="Vevo '80s" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Vevo '80s
 https://stitcher.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Vevo '90s" group-title="Pluto USA",Vevo '90s
+#EXTINF:-1 tvg-id="Vevo '90s" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Vevo '90s
 https://stitcher.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Vevo 2K" group-title="Pluto USA",Vevo 2K
+#EXTINF:-1 tvg-id="Vevo 2K" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Vevo 2K
 https://stitcher.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="CMT Equal Play" group-title="Pluto USA",CMT Equal Play
+#EXTINF:-1 tvg-id="CMT Equal Play" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",CMT Equal Play
 https://stitcher.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="XITE Classic Country" group-title="Pluto USA",XITE Classic Country
+#EXTINF:-1 tvg-id="XITE Classic Country" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",XITE Classic Country
 https://stitcher.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Vevo Country" group-title="Pluto USA",Vevo Country
+#EXTINF:-1 tvg-id="Vevo Country" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Vevo Country
 https://stitcher.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="Vevo Retro Rock" group-title="Pluto USA",Vevo Retro Rock
+#EXTINF:-1 tvg-id="Vevo Retro Rock" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Vevo Retro Rock
 https://stitcher.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:0, tvg-id="XITE Rock x Metal" group-title="Pluto USA",XITE Rock x Metal
+#EXTINF:-1 tvg-id="XITE Rock x Metal" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",XITE Rock x Metal
 https://stitcher.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
 
+#EXTINF:-1 tvg-id="Orbit TV | DO" tvg-logo="https://i.imgur.com/g81rbY9.png" group-title="PREMIUM",Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="COPS en Español" tvg-logo="https://i.imgur.com/rUhLqaU.png" group-title="PREMIUM",COPS en Español
+https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OrbitTV" tvg-logo="https://i.imgur.com/g81rbY9.png" group-title="PREMIUM",OrbitTV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1007774495.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.imgur.com/b1LaoMQ.png" group-title="PREMIUM",SPACE
+https://tv1.strm2234.xyz/space/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Latin America" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="PREMIUM",TNT Latin America
+https://tv1.strm2234.xyz/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSE" tvg-logo="https://i.imgur.com/Oa47uNK.png" group-title="PREMIUM",TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Latin America" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="PREMIUM",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/t8es8Qy.png" group-title="PREMIUM",CanelaClasicos
+https://tinyurl.com/canelaclasicos
+
+#EXTINF:-1 tvg-id="CanelaCinema" tvg-logo="https://i.imgur.com/nmX9Mqi.png" group-title="PREMIUM",CanelaCinema
+https://tinyurl.com/canelatvcinema
+
+#EXTINF:-1 tvg-id="CinePicante" tvg-logo="https://i.imgur.com/gu5Swuq.png" group-title="PREMIUM",CinePicante
+https://tinyurl.com/picantecine
+
+#EXTINF:-1 tvg-id="Star Channel Central America" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="PREMIUM",Star Channel Central America
+https://streamer1.nexgen.bz/STAR/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz Encore Action East" tvg-logo="https://i.imgur.com/BFHxMSy.png" group-title="PREMIUM",Starz Encore Action East
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Opcion 2" tvg-logo="https://i.imgur.com/pZOT7bA.png" group-title="PREMIUM",HBO Opcion 2
+https://tv1.strm2234.xyz/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony" tvg-logo="https://i.imgur.com/xjOGz09.png" group-title="PREMIUM",Sony
+http://181.78.105.146:2000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/wuVFZ3Q.png" group-title="PREMIUM",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Americateve" tvg-logo="https://i.imgur.com/TstjNv7.png" group-title="PREMIUM",Americateve
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo PR" tvg-logo="https://i.imgur.com/dXVSs0o.png" group-title="PREMIUM",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://i.imgur.com/dXVSs0o.png" group-title="PREMIUM",Telemundo
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1 tvg-id="ESTRELLATV" tvg-logo="https://i.imgur.com/GQeF2Ln.png" group-title="PREMIUM",ESTRELLATV
+https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
+
+#EXTINF:-1 tvg-id="ESTRELLATVOP2" tvg-logo="https://i.imgur.com/GQeF2Ln.png" group-title="PREMIUM",ESTRELLATVOP2
+https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8
+
+#EXTINF:-1 tvg-id="Golden" tvg-logo="https://i.imgur.com/6XAkXXb.png" group-title="PREMIUM",Golden
+http://afda.akddw.cyou/live/Bate922BA/Akfdwkykf121A/1055148.ts
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://i.imgur.com/WznAFNv.png" group-title="PREMIUM",AMC
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="https://i.imgur.com/pZOT7bA.png" group-title="PREMIUM",HBO +
+https://smcdn01.trimi.com.ar/live/sm-live/HBO_PLUS/sa_live_dash/HBO_PLUS-avc1_600000=10000-3195929444278667.mp4
+
+#EXTINF:-1 tvg-id="TNTSE" tvg-logo="https://i.imgur.com/Oa47uNK.png" group-title="PREMIUM",TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Latin America" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="PREMIUM",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony" tvg-logo="https://i.imgur.com/xjOGz09.png" group-title="PREMIUM",Sony
+http://181.78.105.146:2000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-id="Uno" tvg-logo="https://i.imgur.com/evy5NzM.png" group-title="PREMIUM",Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" tvg-logo="https://i.imgur.com/dOSRJXR.png" group-title="PREMIUM",CANAL DE LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinco" tvg-logo="https://i.imgur.com/IvqkB8X.png" group-title="PREMIUM",Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal" tvg-logo="https://i.imgur.com/Tf5Y8tV.png" group-title="PREMIUM",Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="WB" tvg-logo="https://i.imgur.com/V0XUGMM.png" group-title="PREMIUM",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://i.imgur.com/9VxlGMv.png" group-title="PREMIUM",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://i.imgur.com/493TrAN.png" group-title="PREMIUM",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-id="Space MX" tvg-logo="https://i.imgur.com/b1LaoMQ.png" group-title="PREMIUM",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.imgur.com/4qbyDv3.png" group-title="PREMIUM",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-id="Investigation Discovery La" tvg-logo="https://i.imgur.com/mMbIQkJ.png" group-title="PREMIUM",Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.imgur.com/OLZXf85.png" group-title="PREMIUM",TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-id="E!" tvg-logo="https://i.imgur.com/A4LJSDH.png" group-title="PREMIUM",E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.imgur.com/24bDzXi.png" group-title="PREMIUM",Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://i.imgur.com/m22WGlK.png" group-title="PREMIUM",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.imgur.com/VColpLd.png" group-title="PREMIUM",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="History2" tvg-logo="https://i.imgur.com/VColpLd.png" group-title="PREMIUM",History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="Arts" tvg-logo="https://i.imgur.com/kDx4xtR.jpg" group-title="PREMIUM",Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="TVC" tvg-logo="https://i.imgur.com/aE16a26.png" group-title="PREMIUM",TVC
+http://181.78.105.146:2000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="MC" tvg-logo="https://i.imgur.com/rr310C1.png" group-title="PREMIUM",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-id="CineCanal O" tvg-logo="https://i.imgur.com/TPksddA.png" group-title="PREMIUM",CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-id="CineCanal O" tvg-logo="https://i.imgur.com/TyaoeT4.png" group-title="PREMIUM",Films
+http://181.78.105.146:2000/play/a08i/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-logo="https://i.imgur.com/QuLM2ye.png" group-title="PREMIUM",StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount" tvg-logo="https://i.imgur.com/1hWwMcK.png" group-title="PREMIUM",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://i.imgur.com/yvB6xxv.png" group-title="PREMIUM",Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+
+#EXTINF:11,#EXTINF:-1 tvg-id="TV-101" tvg-logo="https://i.imgur.com/ZDFwTyV.png" group-title="PREMIUM",TV-101
+http://181.78.105.146:2000/play/a08t/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1312" tvg-name="COPS en Español" tvg-logo="https://i.imgur.com/rUhLqaU.png" group-title="Premium", COPS en Español
