@@ -446,3 +446,142 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
 #EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo '90s
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+
+
+
+#EXTINF:-1,  2 Fast 2 Furious 2003
+http://144.217.70.79/VODS-M/1080P/2%20Fast%202%20Furious%202003.mkv
+#EXTINF:-1,  2 Guns 2013
+http://144.217.70.79/VODS-M/1080P/2%20Guns%202013.mkv
+#EXTINF:-1,  3 Days to Kill 2014
+http://144.217.70.79/VODS-M/1080P/3%20Days%20to%20Kill%202014.mkv
+#EXTINF:-1,  6 Underground 2019
+http://144.217.70.79/VODS-M/1080P/6%20Underground%202019.mkv
+#EXTINF:-1,  8MM 1999
+http://144.217.70.79/VODS-M/1080P/8MM%201999.mkv
+#EXTINF:-1,  28 Days Later 2002
+http://144.217.70.79/VODS-M/1080P/28%20Days%20Later%202002.mkv
+#EXTINF:-1,  28 Weeks Later 2007
+http://144.217.70.79/VODS-M/1080P/28%20Weeks%20Later%202007.mkv
+#EXTINF:-1,  300 2006
+http://144.217.70.79/VODS-M/1080P/300%202006.mkv
+#EXTINF:-1,  300 Rise of an Empire 2014
+http://144.217.70.79/VODS-M/1080P/300%20Rise%20of%20an%20Empire%202014.mkv
+#EXTINF:-1,  2012 2009
+http://144.217.70.79/VODS-M/1080P/2012%20(2009).mkv
+#EXTINF:-1,  2067 2020
+http://144.217.70.79/VODS-M/1080P/2067%202020.mkv
+#EXTINF:-1,  7500 2019
+http://144.217.70.79/VODS-M/1080P/7500%202019.mkv
+#EXTINF:-1,  A Million Ways to Die in the West 2014
+http://144.217.70.79/VODS-M/1080P/A%20Million%20Ways%20to%20Die%20in%20the%20West%202014.mkv
+#EXTINF:-1,  A New Breed of Criminal 2023
+http://144.217.70.79/VODS-M/1080P/A%20New%20Breed%20of%20Criminal%202023.mkv
+#EXTINF:-1,  A Nightmare on Elm Street 1 1984
+http://144.217.70.79/VODS-M/1080P/A%20Nightmare%20on%20Elm%20Street%201%201984.mkv
+#EXTINF:-1,  A Nightmare on Elm Street 2 1985
+http://144.217.70.79/VODS-M/1080P/A%20Nightmare%20on%20Elm%20Street%202%201985.mkv
+#EXTINF:-1,  A Nightmare on Elm Street 3 1987
+http://144.217.70.79/VODS-M/1080P/A%20Nightmare%20on%20Elm%20Street%203%201987.mkv
+#EXTINF:-1,  A Nightmare on Elm Street 4 1988
+http://144.217.70.79/VODS-M/1080P/A%20Nightmare%20on%20Elm%20Street%204%201988.mkv
+#EXTINF:-1,  A Nightmare on Elm Street 5 1989
+http://144.217.70.79/VODS-M/1080P/A%20Nightmare%20on%20Elm%20Street%205%201989.mkv
+#EXTINF:-1,  A Nightmare on Elm Street 6 1991
+http://144.217.70.79/VODS-M/1080P/A%20Nightmare%20on%20Elm%20Street%206%20(Freddys%20Dead)%201991.mkv
+#EXTINF:-1,  A Nightmare on Elm Street 7 1994
+http://144.217.70.79/VODS-M/1080P/A%20Nightmare%20on%20Elm%20Street%207%20(New%20Nightmare)%201994.mkv
+#EXTINF:-1,  A Nightmare on Elm Street 8 2010
+http://144.217.70.79/VODS-M/1080P/A%20Nightmare%20on%20Elm%20Street%208%202010.mkv
+#EXTINF:-1,  Always 1989
+http://144.217.70.79/VODS-M/1080P/Always%201989.mkv
+#EXTINF:-1,  American Pie 1 1999
+http://144.217.70.79/VODS-M/1080P/American%20Pie%201999.mkv
+#EXTINF:-1,  American Pie 2 2001
+http://144.217.70.79/VODS-M/1080P/American%20Pie%202%202001.mkv
+#EXTINF:-1,  American Pie 3 2005
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Band%20Camp%202005.mkv
+#EXTINF:-1,  American Pie 4 2006
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20The%20Naked%20Mile%202006.mkv
+#EXTINF:-1,  American Pie 5 2007
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Beta%20House%202007.mkv
+#EXTINF:-1,  American Pie 6 2009
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20The%20Book%20of%20Love%202009.mkv
+#EXTINF:-1,  American Pie 7 2012
+http://144.217.70.79/VODS-M/1080P/American%20Reunion%202012.mkv
+#EXTINF:-1,  American Pie 8 2020
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Girls%20Rules%202020.mkv
+#EXTINF:-1,  Avengers Age of Ultron 2015
+http://144.217.70.79/VODS-M/1080P/Avengers%20Age%20of%20Ultron%202015.mkv
+#EXTINF:-1,  Avengers Infinity War 2018
+http://144.217.70.79/VODS-M/1080P/Avengers%20Infinity%20War%202018.mkv
+#EXTINF:-1,  Avengers Endgame 2019
+http://144.217.70.79/VODS-M/1080P/Avengers%20Endgame%202019.mkv
+#EXTINF:-1,  Back to the future 1 1985
+http://144.217.70.79/VODS-M/1080P/Back%20to%20the%20future%201985.mp4
+#EXTINF:-1,  Back to the future 2 1989
+http://144.217.70.79/VODS-M/1080P/Back%20to%20the%20future%202%201989.mp4
+#EXTINF:-1,  Back to the future 3 1990
+http://144.217.70.79/VODS-M/1080P/Back%20to%20the%20future%203%201990.mp4
+#EXTINF:-1,  Batman v Superman Dawn of Justice 2016
+http://144.217.70.79/VODS-M/1080P/Batman%20v%20Superman%20Dawn%20of%20Justice%202016.mkv
+#EXTINF:-1,  Broken Arrow 1996
+http://144.217.70.79/VODS-M/1080P/Broken%20Arrow%201996.mkv
+#EXTINF:-1,  Bruce Almighty 2003
+http://144.217.70.79/VODS-M/1080P/Bruce%20Almighty%202003.mkv
+#EXTINF:-1,  Chain Reaction 1996
+http://144.217.70.79/VODS-M/1080P/Chain%20Reaction%201996.mkv
+#EXTINF:-1,  Click 2006
+http://144.217.70.79/VODS-M/1080P/Click%202006.mkv
+#EXTINF:-1,  Cobra 1986
+http://144.217.70.79/VODS-M/1080P/Cobra%201986.mkv
+#EXTINF:-1,  Collateral Damage 2002
+http://144.217.70.79/VODS-M/1080P/Collateral%20Damage%202002.mkv
+#EXTINF:-1,  Corrective Measures 2022
+http://144.217.70.79/VODS-M/1080P/Corrective%20Measures%202022.mkv
+#EXTINF:-1,  Death Wish 1 1974
+http://144.217.70.79/VODS-M/1080P/Death%20Wish%201974.mkv
+#EXTINF:-1,  Death Wish 2 1982
+http://144.217.70.79/VODS-M/1080P/Death%20Wish%202%201982.mkv
+#EXTINF:-1,  Death Wish 3 1985
+http://144.217.70.79/VODS-M/1080P/Death%20Wish%203%201985.mkv
+#EXTINF:-1,  Death Wish 4 1987
+http://144.217.70.79/VODS-M/1080P/Death%20Wish%204%201987.mkv
+#EXTINF:-1,  Death Wish 5 1994
+http://144.217.70.79/VODS-M/1080P/Death%20Wish%205%201994.mkv
+#EXTINF:-1,  Deja Vu 2006
+http://144.217.70.79/VODS-M/1080P/Deja%20Vu%202006.mkv
+#EXTINF:-1,  Den of thieves 2018
+http://144.217.70.79/VODS-M/1080P/Den%20of%20thieves%202018.mp4
+#EXTINF:-1,  Die Hard 1 1988
+http://144.217.70.79/VODS-M/1080P/Die%20Hard%201988.mkv
+#EXTINF:-1,  Die Hard 2 1990
+http://144.217.70.79/VODS-M/1080P/Die%20Hard%202%201990.mkv
+#EXTINF:-1,  Die Hard 3 1995
+http://144.217.70.79/VODS-M/1080P/Die%20Hard%203%201995.mkv
+#EXTINF:-1,  Die Hard 4 2007
+http://144.217.70.79/VODS-M/1080P/Die%20Hard%204%202007.mkv
+#EXTINF:-1,  Die Hard 5 2013
+http://144.217.70.79/VODS-M/1080P/Die%20Hard%205%202013.mkv
+#EXTINF:-1,  Dirty Harry 1 1971
+http://144.217.70.79/VODS-M/1080P/Dirty%20Harry%201971.mkv
+#EXTINF:-1,  Dirty Harry 2 Magnum Force 1973
+http://144.217.70.79/VODS-M/1080P/Dirty%20Harry%202%20Magnum%20Force%201973.mkv
+#EXTINF:-1,  Dirty Harry 3 The Enforcer 1976
+http://144.217.70.79/VODS-M/1080P/Dirty%20Harry%203%20The%20Enforcer%201976.mkv
+#EXTINF:-1,  Dirty Harry 4 Sudden Impact 1983
+http://144.217.70.79/VODS-M/1080P/Dirty%20Harry%204%20Sudden%20Impact%201983.mkv
+#EXTINF:-1,  Dirty Harry 5 The Dead Pool 1988
+http://144.217.70.79/VODS-M/1080P/Dirty%20Harry%205%20The%20Dead%20Pool%201988.mkv
+#EXTINF:-1,  Double Impact 1991
+http://144.217.70.79/VODS-M/1080P/Double%20Impact%201991.mkv
+#EXTINF:-1,  Dracula Untold 2014
+http://144.217.70.79/VODS-M/1080P/Dracula%20Untold%202014.mkv
+#EXTINF:-1,  Dragged across concrete 2018
+http://144.217.70.79/VODS-M/1080P/Dragged%20across%20concrete%202018.mp4
+#EXTINF:-1,  End of Days 1999
+http://144.217.70.79/VODS-M/1080P/End%20of%20Days%201999.mkv
+#EXTINF:-1,  Eraser 1996
+http://144.217.70.79/VODS-M/1080P/Eraser%201996.mkv
+#EXTINF:-1,  Full Metal Jacket 1987
+http://144.217.70.79/VODS-M/1080P/Full%20Metal%20Jacket%201987.mkv
