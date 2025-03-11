@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:6295, MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+#EXTINF:0, MOVIESPHERE
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4.m3u8?X-Plex-Session-Identifier=19xt2fy8hidx5ql0xhpdsd02&X-Plex-Product=Plex%20Web&X-Plex-Version=4.145.1&X-Plex-Client-Identifier=xxxpn7aok9qnq057hemh4kxq&X-Plex-Platform=Chrome&X-Plex-Platform-Version=133.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=OSX&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1284x1226%2C1285x1229&X-Plex-Token=cEKssj2g4gemr_khf8JD&X-Plex-Language=es-419&Accept-Language=es-419&X-Plex-Session-Id=e8559514-dab3-43f7-8318-1c3347af1726&X-Plex-Playback-Session-Id=87999435-a071-43d8-8557-43c9294dfc9c
+#EXTINF:0, AE Mundo
+http://177.93.46.163:8000/play/a016
+#EXTINF:0, AXN
+http://177.93.46.163:8000/play/a022
+#EXTINF:0, Animal Planet
+http://177.93.46.163:8000/play/a010
+#EXTINF:0, Canal Caracol
+http://177.93.46.163:8000/play/a01n
+#EXTINF:0, Canal Estrellas
+http://177.93.46.163:8000/play/a019
+#EXTINF:0, Canal RCN
+http://177.93.46.163:8000/play/a01o
+#EXTINF:0, Canal Uno
+http://177.93.46.163:8000/play/a01l
+#EXTINF:0, Cinecanal
+http://177.93.46.163:8000/play/a007
+#EXTINF:0, Cinemax
+http://177.93.46.163:8000/play/a020
+#EXTINF:0, City TV
+http://177.93.46.163:8000/play/a01w
+#EXTINF:0, Discovery Channel
+http://177.93.46.163:8000/play/a00z
+#EXTINF:0, Discovery ID
+http://177.93.46.163:8000/play/a01f
+#EXTINF:0, E Entertainment
+http://177.93.46.163:8000/play/a012
+#EXTINF:0, FX
+http://177.93.46.163:8000/play/a024
+#EXTINF:0, HBO
+http://177.93.46.163:8000/play/a01z
+#EXTINF:0, HBO 2
+http://177.93.46.163:8000/play/a00m
+#EXTINF:0, HBO Family
+http://177.93.46.163:8000/play/a00p
+#EXTINF:0, History Channel
+http://177.93.46.163:8000/play/a006
+#EXTINF:0, HomeandHealth
+http://177.93.46.163:8000/play/a01i
+#EXTINF:0, MTV
+http://177.93.46.163:8000/play/a00a
+#EXTINF:0, Nat Geo
+http://177.93.46.163:8000/play/a005
+#EXTINF:0, STAR CHANNEL
+http://177.93.46.163:8000/play/a00b
+#EXTINF:0, Sony
+http://177.93.46.163:8000/play/a021
+#EXTINF:0, Space
+http://177.93.46.163:8000/play/a023
+#EXTINF:0, Studio Universal
+http://177.93.46.163:8000/play/a00r
+#EXTINF:0, Warner
+http://177.93.46.163:8000/play/a011
+#EXTINF:0, SyFy
+http://177.93.46.163:8000/play/a00i
+#EXTINF:0, TBS
+http://177.93.46.163:8000/play/a01g
+#EXTINF:0, TCM
+http://177.93.46.163:8000/play/a00c
+#EXTINF:0, TLC
+http://177.93.46.163:8000/play/a017
+#EXTINF:0, TNT
+http://177.93.46.163:8000/play/a00e
+#EXTINF:0, Universal
+http://177.93.46.163:8000/play/a008
+#EXTINF:0, Universal Cinema SD
+http://177.93.46.163:8000/play/a00u
+#EXTINF:0, Universal Comedy SD
+http://177.93.46.163:8000/play/a00v
+#EXTINF:0, Universal Premiere SD
+http://177.93.46.163:8000/play/a00t
+#EXTINF:0, Telemundo
+http://177.93.46.163:8000/play/a01c
+#EXTINF:0, Trece
+http://177.93.46.163:8000/play/a02i
+#EXTINF:0, Telepacifico
+http://177.93.46.163:8000/play/a027
+#EXTINF:0, ViaX
+http://177.93.46.163:8000/play/a018
