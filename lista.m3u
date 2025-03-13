@@ -393,7 +393,8 @@ https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 https://smcdn01.trimi.com.ar/live/sm-live/HBO_PLUS/sa_live_dash/HBO_PLUS-avc1_600000=10000-3195929444278667.mp4
 
 
-
+#EXTINF:0, 30-212 Vintage TV
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w968003083.m3u8
 #EXTINF:0, 30-214 TNTSE
 http://181.78.105.146:2000/play/a00m/index.m3u8
 #EXTINF:0, 31-370 TNT
@@ -1296,3 +1297,5 @@ https://n2ca-e2.revma.ihrhls.com/zc7402/44_1i0in5hzrwhem02/playlist.m3u8?zip=850
 https://rockfm-cope.flumotion.com/chunks.m3u8
 
 
+#EXTINF:0,tvg-id="7" tvg-name="Planet 107.5" tvg-logo="https://planet1075.com/wp-content/uploads/2021/11/PLANET-LOGO.png" group-title="Radio", Planet 107.5
+https://stream20.usastreams.com/8094/stream
