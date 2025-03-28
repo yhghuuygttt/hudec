@@ -113,8 +113,12 @@ https://media.streambrothers.com:19360/8262/8262.m3u8
 
 --- 📺 LA CASA DE LOS FAMOSOS 🇨🇴
 
-#EXTINF:-1 tvg-name="RCN La Casa de los Famosos 🇨🇴" tvg-logo="https://imagenes.noticiasrcn.com/cms/2025/02/03145405/cambio-de-horario-de-la-casa-de-los-famosos-colombia-2025-el-martes-4-de-febrero-de-2025.webp" group-title="🅵 Portugal 🇵🇹|☆ Secret Story 👁️🌎",RCN La Casa de los Famosos 🇨🇴
+#EXTINF:-1 tvg-name="RCN La Casa de los Famosos 🇨🇴" tvg-logo="https://i.imgur.com/a9UP3hq.jpg" group-title="La Casa de los Famosos" group-title="La Casa de los Famosos",RCN La Casa de los Famosos 🇨🇴
 https://362a33c2a385d7d1e52d89d157b8d9ceaa1a98dd.cdn.broadpeak.io/out/v1/27a009aa04ac46ff9d4dcc1a036b0835/index.mpd
+#EXTINF:-1 tvg-name="Telemundo La Casa de los Famosos All Stars Cam 1 🇺🇸" tvg-logo="https://i.imgur.com/a9UP3hq.jpg" group-title="La Casa de los Famosos",Telemundo La Casa de los Famosos All Stars Cam 1 🇺🇸
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
+#EXTINF:-1 tvg-name="Telemundo La Casa de los Famosos All Stars Cam 2 🇺🇸" tvg-logo="https://i.imgur.com/a9UP3hq.jpg" group-title="La Casa de los Famosos",Telemundo La Casa de los Famosos All Stars Cam 2 🇺🇸
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
 
 --- 📺 PLUTO 🇺🇸🇲🇽
 
