@@ -102,6 +102,47 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u
 #EXTINF:-1 tvg-name="Telemundo La Casa de los Famosos All Stars Cam 2 🇺🇸" tvg-logo="https://i.imgur.com/a9UP3hq.jpg" group-title="La Casa de los Famosos",Telemundo La Casa de los Famosos All Stars Cam 2 🇺🇸
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
 
+
+--- 📺 💥 ONLINE
+
+#EXTINF:-1 tvg-name="Mega Cine TV" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="ONLINE",Mega Cine TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-name="Orbit TV" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="ONLINE",Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="ONLINE",+Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-name="+Cine Classic" tvg-logo="https://cdn.m3u.cl/logo/1653__Cine_Classic.png" group-title="ONLINE",+Cine Classic
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Real - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="ONLINE",Cine Real - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Sureño - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="ONLINE",Cine Sureño - Freetv
+https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/playlist/amg01024-olympusat-cinesureno-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Horrorfy - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="ONLINE",Horrorfy - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Juntos - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="ONLINE",Juntos - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Mi TV Clásica" tvg-logo="https://cdn.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="ONLINE",Mi TV Clásica
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Cine - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png" group-title="ONLINE",Top Cine - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Tu Cine - Freetv" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png" group-title="ONLINE",Tu Cine - Freetv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Dodo TV" tvg-logo="https://cdn.m3u.cl/logo/1622_Dodo_TV.png" group-title="ONLINE",Dodo TV
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Opinionsur Cine" tvg-logo="https://cdn.m3u.cl/logo/1087_Opinionsur_Cine.png" group-title="ONLINE",Opinionsur Cine
+https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/playlist.m3u8
+#EXTINF:-1 tvg-name="Spectrum Channel" tvg-logo="https://cdn.m3u.cl/logo/1058_Spectrum_Channel.png" group-title="ONLINE",Spectrum Channel
+https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-name="Moni Tv" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="ONLINE",Moni Tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+#EXTINF:-1 tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="ONLINE",VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+
+
+
+
+
 --- 📺 NEWS 🇺🇸🇲🇽
 
 #EXTINF:-1 tvg-chno="318" tvg-name="Noticias Telemundo Ahora ᶠᴴᴰ 🇺🇸🇲🇽" tvg-id="US3000005RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3000005RS_20241014T232258SQUARE.png" group-title="🅵 News 🌍|☆ Canais 🇪🇸🇲🇽",Noticias Telemundo Ahora ᶠᴴᴰ 🇺🇸🇲🇽
