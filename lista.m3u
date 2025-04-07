@@ -70,8 +70,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u
 #EXTINF:-1 tvg-id="The Walking Dead en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",The Walking Dead en español
 https://stitcher.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:-1 tvg-id="AMC en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",AMC en español
-https://stitcher.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
 #EXTINF:-1 tvg-id="Spike ¡extremo!" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Spike ¡extremo!
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
@@ -114,10 +112,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u
 
 #EXTINF:-1 tvg-id="TuDiscovery" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",TuDiscovery
 https://stitcher.pluto.tv/stitch/hls/channel/673249ccc7626f0008c72076/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-
-#EXTINF:-1 tvg-id="Sala de Emergencias: Historias Inéditas" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Sala de Emergencias: Historias Inéditas
-https://stitcher.pluto.tv/stitch/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&d
-eviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
 #EXTINF:-1 tvg-id="Expedientes Sobrenaturales" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",Expedientes Sobrenaturales
 https://stitcher.pluto.tv/stitch/hls/channel/6732495dc7626f0008c71e7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
@@ -172,34 +166,18 @@ https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1007774495.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="https://i.imgur.com/b1LaoMQ.png" group-title="PREMIUM",SPACE
-https://tv1.strm2234.xyz/space/index.m3u8
+http://181.78.105.146:2000/play/a04x/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT Latin America" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="PREMIUM",TNT Latin America
-https://tv1.strm2234.xyz/tnt/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSE" tvg-logo="https://i.imgur.com/Oa47uNK.png" group-title="PREMIUM",TNTSE
-http://181.78.105.146:2000/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT Latin America" tvg-logo="https://i.imgur.com/T04RCGH.png" group-title="PREMIUM",TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-id="CanelaClasicos" tvg-logo="https://i.imgur.com/t8es8Qy.png" group-title="PREMIUM",CanelaClasicos
-https://tinyurl.com/canelaclasicos
 
-#EXTINF:-1 tvg-id="CanelaCinema" tvg-logo="https://i.imgur.com/nmX9Mqi.png" group-title="PREMIUM",CanelaCinema
-https://tinyurl.com/canelatvcinema
-
-#EXTINF:-1 tvg-id="CinePicante" tvg-logo="https://i.imgur.com/gu5Swuq.png" group-title="PREMIUM",CinePicante
-https://tinyurl.com/picantecine
 
 #EXTINF:-1 tvg-id="Star Channel Central America" tvg-logo="https://i.imgur.com/EsYmJRX.png" group-title="PREMIUM",Star Channel Central America
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz Encore Action East" tvg-logo="https://i.imgur.com/BFHxMSy.png" group-title="PREMIUM",Starz Encore Action East
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Opcion 2" tvg-logo="https://i.imgur.com/pZOT7bA.png" group-title="PREMIUM",HBO Opcion 2
-https://tv1.strm2234.xyz/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony" tvg-logo="https://i.imgur.com/xjOGz09.png" group-title="PREMIUM",Sony
 http://181.78.105.146:2000/play/a002/index.m3u8
