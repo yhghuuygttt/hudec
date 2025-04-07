@@ -60,11 +60,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u
 #EXTINF:-1 tvg-id="CBS en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",CBS en español
 https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
 
-#EXTINF:-1 tvg-id="CSI en Español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",CSI en Español
-https://stitcher.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc
-/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
-
-
 
 #EXTINF:-1 tvg-id="CSI: Miami en español" tvg-logo="https://i.imgur.com/xC4ltiB.png" group-title="Pluto USA",CSI: Miami en español
 https://stitcher.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=34284c3f-ee1e-11ef-99c8-c22fe4c17c3f
