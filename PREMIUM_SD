@@ -108,7 +108,8 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_channelId=88814626&ads.xumo_streamId=88814626
 #EXTINF:-1 tvg-chno="319" tvg-name="Telemundo 51 Florida ᶠᴴᴰ 🇲🇽🇺🇸" tvg-logo="https://zap2it.tmsimg.com/assets/p14357151_b_v13_ad.jpg" group-title="🅵 News 🌍|☆ Canais 🇪🇸🇲🇽",Telemundo 51 Florida ᶠᴴᴰ 🇲🇽🇺🇸
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="RECOMENDADOS", Imagen Television
+http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-chno="320" tvg-name="Telemundo 52 California ᶠᴴᴰ 🇲🇽🇺🇸" tvg-id="USBC4400020H7" tvg-logo="https://images.pluto.tv/channels/65790feacbd0d60008fac87a/colorLogoPNG.png" group-title="🅵 News 🌍|☆ Canais 🇪🇸🇲🇽",Telemundo 52 California ᶠᴴᴰ 🇲🇽🇺🇸
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
