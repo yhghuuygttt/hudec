@@ -5,6 +5,15 @@ https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
 #EXTINF:0, LCDLF Colombia casa
 https://362a33c2a385d7d1e52d89d157b8d9ceaa1a98dd.cdn.broadpeak.io/out/v1/27a009aa04ac46ff9d4dcc1a036b0835/index.mpd
+#EXTINF:0, LCDLF Colombia comedor
+https://362a33c2a385d7d1e52d89d12b4226dd7ed6eb2d.cdn.broadpeak.io/out/v1/a8aee35816a049c3bd3d925448e79e39/index.mpd
+#EXTINF:0, LCDLF Colombia AGUA
+https://362a33c2a385d7d1e52d89d12b4226dd7ed6eb2d.cdn.broadpeak.io/out/v1/b29051a7961e4a2aaeb7ae180f703190/index.mpd
+#EXTINF:0, LCDLF Colombia FUEGO
+https://362a33c2a385d7d1e52d89d12b4226dd7ed6eb2d.cdn.broadpeak.io/out/v1/326defce34314e109ffa007eae1d35e3/index_video_9_0_init.mp4?m=1737974880
+#EXTINF:0, LCDLF Colombia SALA
+https://362a33c2a385d7d1e52d89d12b4226dd7ed6eb2d.cdn.broadpeak.io/out/v1/938bacdb04e647178209546326717769/index.mpd
+#EXTINF:0, LCDLF Colombia BEAUTY
 
 #EXTINF:-1 tvg-id="Retro Music TV" tvg-logo="https://i.imgur.com/t4loReg.png" group-title="Mexico",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
