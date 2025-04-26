@@ -6,6 +6,8 @@ http://bit.ly/2v16m9z
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
 #EXTINF:0, LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
+#EXTINF:-1 tvg-name="RCN La Casa de los Famosos 🇨🇴" tvg-logo="https://i.imgur.com/a9UP3hq.jpg" group-title="La Casa de los Famosos" group-title="La Casa de los Famosos",RCN La Casa de los Famosos 🇨🇴
+https://362a33c2a385d7d1e52d89d157b8d9ceaa1a98dd.cdn.broadpeak.io/out/v1/27a009aa04ac46ff9d4dcc1a036b0835/index.mpd
 #EXTINF:0, AZ UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0, AZ 7
