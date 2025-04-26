@@ -32,22 +32,12 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
 #EXTINF:0, LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
-#EXTINF:0, FOX DEPORTES TUBI
-https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playlist.m3u8
+#EXTINF:0, LCDLF Colombia casa
+https://362a33c2a385d7d1e52d89d157b8d9ceaa1a98dd.cdn.broadpeak.io/out/v1/27a009aa04ac46ff9d4dcc1a036b0835/index.mpd
 #EXTINF:0, AZ UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0, AZ 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:0, MULTIMEDIOS MTY
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0, ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0, AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0, ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:0, CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:0, RCN
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0, Telemundo
@@ -58,6 +48,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
 #EXTINF:0, LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
+#EXTINF:0, LCDLF Colombia casa
+https://362a33c2a385d7d1e52d89d157b8d9ceaa1a98dd.cdn.broadpeak.io/out/v1/27a009aa04ac46ff9d4dcc1a036b0835/index.mpd
 #EXTINF:0, AZ UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0, AZ 7
@@ -66,8 +58,6 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:102, ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:30, CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:60, Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:11,A&E HD
@@ -146,10 +136,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b177600077652
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, El Encantador de Perros
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, Cazador de Homicidas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0, Pluto TV Mi Obsesión Favorita
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:25, MTV Shore
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, Rock Story
@@ -206,36 +192,12 @@ http://190.60.38.114:1010/play/a06r/index.m3u8
 http://190.60.38.114:1010/play/a08e/index.m3u8
 #EXTINF:0,Discovery World
 http://190.60.38.114:1010/play/a06s/index.m3u8
-#EXTINF:0,Disney Channel
-http://190.60.38.114:1010/play/a08d/index.m3u8
-#EXTINF:0,Disney
-http://190.60.38.114:1010/play/a043/index.m3u8
-#EXTINF:0,Disney Junior
-http://190.60.38.114:1010/play/a05g/index.m3u8
 #EXTINF:0,E!
 http://190.60.38.114:1010/play/a04f/index.m3u8
-#EXTINF:0,ENLACE
-http://190.60.38.114:1010/play/a080/index.m3u8
-#EXTINF:0,ESPN 2
-http://190.60.38.114:1010/play/a02f/index.m3u8
-#EXTINF:0,ESPN 3
-http://190.60.38.114:1010/play/a040/index.m3u8
-#EXTINF:0,ESPN 4
-http://190.60.38.114:1010/play/a02n/index.m3u8
-#EXTINF:0,ESPN EXTRA
-http://190.60.38.114:1010/play/a07s/index.m3u8
-#EXTINF:0,ESPN 1
-http://190.60.38.114:1010/play/a096/index.m3u8
 #EXTINF:0,El Gourmet
 http://190.60.38.114:1010/play/a08n/index.m3u8
-#EXTINF:0,FOX Sports 2
-http://190.60.38.114:1010/play/a02o/index.m3u8
 #EXTINF:0,FX
 http://190.60.38.114:1010/play/a02q/index.m3u8
-#EXTINF:0,Fox Sports 1
-http://190.60.38.114:1010/play/a07i/index.m3u8
-#EXTINF:0,Fox Sports 3
-http://190.60.38.114:1010/play/a024/index.m3u8
 #EXTINF:0,Golden
 http://190.60.38.114:1010/play/a04d/index.m3u8
 #EXTINF:0,History 2
@@ -246,10 +208,6 @@ http://190.60.38.114:1010/play/a02a/index.m3u8
 http://190.60.38.114:1010/play/a06o/index.m3u8
 #EXTINF:0,Las Estrellas
 http://190.60.38.114:1010/play/a08k/index.m3u8
-#EXTINF:0,Love Nature
-http://190.60.38.114:1010/play/a08u/index.m3u8
-#EXTINF:0,Nat Geo
-http://190.60.38.114:1010/play/a045/index.m3u8
 #EXTINF:0,RCN
 http://190.60.38.114:1010/play/a086/index.m3u8
 #EXTINF:0,STAR CHANNEL
@@ -325,6 +283,8 @@ https://stream.zeno.fm/qvq7sm8mymzuv
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
 #EXTINF:0, LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
+#EXTINF:0, LCDLF Colombia casa
+https://362a33c2a385d7d1e52d89d157b8d9ceaa1a98dd.cdn.broadpeak.io/out/v1/27a009aa04ac46ff9d4dcc1a036b0835/index.mpd
 #EXTINF:0, UNIVERSAL CRIME
 http://clubtv.link/abr22/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
 #EXTINF:0, UNIVERSAL CINEMA
